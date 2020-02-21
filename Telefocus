@@ -44,7 +44,7 @@ https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Ekushey TV
-http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV (Opt-1)
 http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
@@ -56,13 +56,13 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,Jamuna TV
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,Maasranga TV
-http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/playlist.m3u8
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1,MOHONA TV
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1,MY TV
 http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/my_tv_hi/index.m3u8
 #EXTINF:-1,NTV
-http://telelivetv.webredirect.org:8081/globeworld2020/ntv/playlist.m3u8
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1,NTV (UK)
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1,Nagorik TV
@@ -70,7 +70,7 @@ http://42.0.6.130/hls/P2n6mKElOtuUx228uH9PeQ/1576664140/nagorik_tv_hi/index.m3u8
 #EXTINF:-1,News 24
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1,RTV
-http://telelivetv.webredirect.org:8081/globeworld2020/rtv/playlist.m3u8
+https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8
 #EXTINF:-1,SA TV
 http://42.0.6.130/hls/w6jIZwBfq-KOpg9GNUoQmw/1578199928/sa_tv_hi/index.m3u8
 #EXTINF:-1,Somoy News
@@ -260,7 +260,7 @@ http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:-1,Disney XD
-http://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+https://anevia115.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 #EXTINF:-1,Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1,ANIMAX
@@ -347,14 +347,14 @@ http://163.172.85.133:8080/TenS/sports/index.m3u8
 http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
 #EXTINF:-1,Sky Net Sports
 http://119.59.116.136:8889/threstr/skynethd/chunks.m3u8
-#EXTINF:-1,Sky Net Sports 1
-http://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1,Sky Net Sports 4
-http://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1,Sky Net Sports 5
-http://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1,Sky Net Sports 6
-http://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1,Arena Sport 1
+http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1,Sky Sports Cricket
 http://43.231.22.238:8081/temp1/ctg_skycricket/playlist.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -502,7 +502,7 @@ https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 #EXTINF:-1,HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1,WB TV
-http://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+https://anevia115.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -517,7 +517,7 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1,Lotus Macau
 https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
-#EXTINF:-1,CineMax HD
+#EXTINF:-1,CineMax
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
@@ -527,10 +527,10 @@ https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.
 https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-#EXTINF:-1,Fox Action Movies HD
-http://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:-1,Fox Family Movies HD
-http://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Action Movies
+https://anevia115.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
+#EXTINF:-1,Fox Family Movies
+https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #EXTINF:-1,Fox Movies
 https://anevia115.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
 #EXTINF:-1,Fox Crime
@@ -845,5 +845,7 @@ http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1,Channel [V]
 https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
+#EXTINF:-1,Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1,Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
