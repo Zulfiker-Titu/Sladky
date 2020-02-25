@@ -39,7 +39,7 @@ https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1,Sonic
 https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
-#EXTINF:-1,Nick
+#EXTINF:-1,Nick (Bangla)
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
@@ -255,7 +255,7 @@ http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 http://139.59.13.228:8081/live/stream/playlist.m3u8
 #EXTINF:-1,Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1,Nick
 https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
@@ -421,8 +421,6 @@ http://push12.feber.xyz/hls/channel21hd47/chunks.m3u8
 https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox Sports 2
 https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
-#EXTINF:-1,Fox Sports 3
-https://anevia115.mncnow.id:443/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
 #EXTINF:-1,RTA Sports (Opt-1)
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1,RTA Sports (Opt-2)
@@ -536,13 +534,11 @@ https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,Fox Action Movies
-https://live.mawintv2.com/02_FoxActionHD_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
 #EXTINF:-1,Fox Family Movies
-https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
+https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 #EXTINF:-1,Fox Movies
-https://live.mawintv2.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1,Fox Crime
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+http://103.68.251.140/live/foxmovies/index.m3u8
 #EXTINF:-1,FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1,HiTS
@@ -691,6 +687,8 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/uatv.stream/playlist.m3u8
 #EXTINF:-1,RT Documentary
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/playlist.m3u8
+#EXTINF:-1,Sony BBC Earth HD
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
 #EXTINF:-1,BBC Two
 https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
@@ -829,6 +827,8 @@ http://ott-cdn.ucom.am/s10/index.m3u8
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1,vh1 (India)
 http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_hi/index.m3u8
+#EXTINF:-1,MTV India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV HiTS
