@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[Visit in Facebook:Telefocus IPTV]
+#EXTINF:-1,Telefocus IPTV
 https://streamable.com/gdj7r
 #EXTINF:-1,Ananda TV
 https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
@@ -12,13 +12,14 @@ http://42.0.6.130/hls/Ui66w0QYoxIFoX1bmuOmYA/1564900319/atn_news_hi/index.m3u8
 #EXTINF:-1,BANGLA TV
 http://telelivetv.webredirect.org:8081/globeworld2020/banglatv/playlist.m3u8
 #EXTINF:-1,BANGLA VISION
+http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 http://103.68.116.50/live/feed1012/index.m3u8
 #EXTINF:-1,BIJOY TV
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI TV
 http://42.0.6.130/hls/Ui66w0QYoxIFoX1bmuOmYA/1564900319/boishakhi_tv_hi/index.m3u8
 #EXTINF:-1,BTV
-http://103.68.116.50/live/feed1001/index.m3u8
+http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/playlist.m3u8
 #EXTINF:-1,BTV World
 http://42.0.6.130/hls/-bSsQP2bB9EAopwEDkllbg/1578199997/btv_world_hi/index.m3u8
 #EXTINF:-1,CHANNEL 9 (Opt-01)
@@ -28,11 +29,11 @@ http://telelivetv.webredirect.org:8081/globeworld2020/channel9/chunks.m3u8
 #EXTINF:-1,CHANNEL 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1,CHANNEL I
-http://103.68.116.50/live/feed1011/index.m3u8
+http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1,DBC News
-http://103.68.116.50/live/feed1010/index.m3u8
+http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,Desh TV
@@ -52,21 +53,21 @@ http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV (Opt-3)
-http://103.68.116.50/live/feed1001/index.m3u8
+http://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1,BD IP 1
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
-http://103.68.116.50/live/feed1008/index.m3u8
+http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.144.200.7:8080/hls/jamunatv/index.m3u8
 #EXTINF:-1,Maasranga TV
-http://103.68.116.50/live/feed1003/index.m3u8
+https://itpolly.iptv.digijadoo.net/live/maasranga/playlist.m3u8
 #EXTINF:-1,MOHONA TV
 http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/mohona_tv_hi/index.m3u8
 #EXTINF:-1,MY TV
 http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/my_tv_hi/index.m3u8
 #EXTINF:-1,NTV
-http://103.68.116.50/live/feed1007/index.m3u8
+https://itpolly.iptv.digijadoo.net/live/ntv/playlist.m3u8
 #EXTINF:-1,NTV (UK)
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1,Nagorik TV
@@ -312,7 +313,7 @@ http://103.58.73.26/streams/1004/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://103.68.116.50/live/feed1006/index.m3u8
+http://103.58.73.26/streams/1016/index.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://103.58.73.26/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 2
@@ -359,6 +360,8 @@ https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 http://43.231.22.238:8081/temp1/ctg_skycricket/playlist.m3u8
 #EXTINF:-1,Sky Sports Football
 http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
+#EXTINF:-1,Bein Sports
+http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
 #EXTINF:-1,Bein Sports 1
 http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8
 #EXTINF:-1,Bein Sports 2
@@ -494,7 +497,11 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.58.73.26/streams/1011/index.m3u8
 #EXTINF:-1,HBO HD
-http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
+https://delivery.macan.live/stream/hbo/index.m3u8?token=ltmWyWnZ&v=20200202
+#EXTINF:-1,HBO Hits
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=ltmWyWnZ&v=20200202
+#EXTINF:-1,HBO Family
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=ltmWyWnZ&v=20200202
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -515,6 +522,10 @@ https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,ifilm
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Film Box Plus
+http://84.22.33.254/unicast.filmboxplus/index.m3u8
+#EXTINF:-1,amc
+http://proxyts.ec.cx:8082/hls1/amc.m3u8?wmsAuthSign=
 #EXTINF:-1,Fox Action Movies
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Fox Premium Movies
