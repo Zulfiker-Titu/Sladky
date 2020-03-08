@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Telefocus IPTV
+#EXTINF:-1,[WhatsApp +8801711262512]
 https://streamable.com/gdj7r
 #EXTINF:-1,Ananda TV
 https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
@@ -53,7 +53,7 @@ http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV (Opt-3)
-http://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist.m3u8
+http://103.111.120.46/hls/gazi-tv.m3u8
 #EXTINF:-1,BD IP 1
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
@@ -256,6 +256,8 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
+#EXTINF:-1,NICK 2 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-817/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
@@ -307,7 +309,7 @@ https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-02)
 http://103.58.73.26/streams/106/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
-http://103.58.73.26/streams/104/index.m3u8
+http://68.183.92.29:1935/live/star1/playlist.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
 http://103.58.73.26/streams/1004/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
@@ -346,6 +348,14 @@ http://51.158.144.124:8090/CR/1/index.m3u8
 http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
 #EXTINF:-1,espn
 http://npse.brots.world/espn2.m3u8
+#EXTINF:-1,espn 2
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-724/tracks-v1a1/mono.m3u8
+#EXTINF:-1,espn 3
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-727/tracks-v1a1/mono.m3u8
+#EXTINF:-1,espn +
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-732/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DIRECTV SPORT HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-706/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Arena Sport 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 2
@@ -363,27 +373,27 @@ http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
 #EXTINF:-1,Bein Sports
 http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
 #EXTINF:-1,Bein Sports 1
-http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8
+http://local.referrari.com/live/60186_.m3u8
 #EXTINF:-1,Bein Sports 2
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8
+http://95.170.215.120/hls/m3u8/BeinSport2.m3u8
 #EXTINF:-1,Bein Sports 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8
+http://local.referrari.com/live/60188_.m3u8
 #EXTINF:-1,Bein Sports 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8
+http://local.referrari.com/live/60189_.m3u8
 #EXTINF:-1,Bein Sports 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8
+http://local.referrari.com/live/60190_.m3u8
 #EXTINF:-1,Bein Sports 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8
+http://local.referrari.com/live/60191_.m3u8
 #EXTINF:-1,Bein Sports 7
-http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8
+http://local.referrari.com/live/60192_.m3u8
 #EXTINF:-1,Bein Sports 8
-http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8
+http://local.referrari.com/live/60193_.m3u8
 #EXTINF:-1,Bein Sports 9
-http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8
+http://local.referrari.com/live/60194_.m3u8
 #EXTINF:-1,Bein Sports 10
-http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8
+http://95.170.215.120/hls/m3u8/BeinSport10.m3u8
 #EXTINF:-1,Bein Sports 11
-http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8
+http://95.170.215.120/hls/m3u8/BeinSport11.m3u8
 #EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1,Dubai Sports
@@ -496,12 +506,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.58.73.26/streams/1011/index.m3u8
-#EXTINF:-1,HBO HD
-https://delivery.macan.live/stream/hbo/index.m3u8?token=ltmWyWnZ&v=20200202
-#EXTINF:-1,HBO Hits
-https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=ltmWyWnZ&v=20200202
-#EXTINF:-1,HBO Family
-https://delivery.macan.live/stream/hbo_family/index.m3u8?token=ltmWyWnZ&v=20200202
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -529,7 +533,7 @@ http://proxyts.ec.cx:8082/hls1/amc.m3u8?wmsAuthSign=
 #EXTINF:-1,Fox Action Movies
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Fox Premium Movies
-http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-752/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FX
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:-1,Fox Crime
@@ -800,3 +804,4 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1,Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
+
