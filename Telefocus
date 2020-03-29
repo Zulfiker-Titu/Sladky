@@ -16,15 +16,17 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/5/58/বিজয়_টিভির_লোগো.png/220px-বিজয়_টিভির_লোগো.png" group-title="Entertainment",Bijoy TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Entertainment",boishakhi tv
-http://telelivetv.webredirect.org:8081/globeworld2020/boishakhi/playlist.m3u8
+http://iptvbd.jagobd.com:1934/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="National TV",BTV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="National TV",BTV World
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Educational",Sangsad TV
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Entertainment",Channel 9 (Opt-01)
-http://telelivetv.webredirect.org:8081/globeworld2020/channel9/chunks.m3u8
+http://103.58.73.26/streams/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Entertainment",Channel 9 (Opt-02)
-http://fr-c.movply.stream/hls/channel9-tv.m3u8
+http://103.115.159.69:25461/2632020/2632020/40
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/240px-Channel24logo.svg.png" group-title="News",Channel 24
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Entertainment",Channel i
@@ -385,6 +387,8 @@ http://51.158.144.124:8090/CR/2/index.m3u8
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:-1,Euro Sports 2
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1,Fox Sports 1
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -492,13 +496,13 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,FOX Action Movies (Opt-01)
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1,Fox Action Movies (Opt-02)
-http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
-#EXTINF:-1,Fox Premium Movies
-http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
+#EXTINF:-1,Fox Movies
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1,FX
-http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1,Fox Crime
-http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star World (UAE)
@@ -649,7 +653,9 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://p5.giffy.be:8080/Testing1/Testing1/21068
-#EXTINF:-1,FOX Life HD
+#EXTINF:-1,FOX Life
+https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
+#EXTINF:-1,National Geographic HD
 http://p5.giffy.be:8080/Testing1/Testing1/21061
 #EXTINF:-1,History TV HD
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
@@ -775,6 +781,8 @@ http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Mooz HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Latido Music
 https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
 #EXTINF:-1,MUSIC 24
@@ -799,6 +807,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://p5.giffy.be:8080/Testing1/Testing1/21052
 #EXTINF:-1,MTV Beats
 http://p5.giffy.be:8080/Testing1/Testing1/21053
+#EXTINF:-1,Bonce TV
+https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 #EXTINF:-1,Q Music
