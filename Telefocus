@@ -253,6 +253,8 @@ http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1,Disney channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Disney XD
+https://tv4.chang55.com/live2/tv4ch29.stream/playlist.m3u8
 #EXTINF:-1,Nick Jr
 http://188.35.9.6:10019/stolen/418j/rainbow.udf
 #EXTINF:-1,CARTOON NETWORK 1
