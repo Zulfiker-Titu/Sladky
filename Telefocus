@@ -517,8 +517,10 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star World
+#EXTINF:-1,Star World UAE
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1,Star World
+https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 #EXTINF:-1,Movie Kingdom 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,Movies Now
@@ -601,7 +603,9 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 #EXTINF:-1,Movie Express
 http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
-#EXTINF:-1,Colors HD
+#EXTINF:-1,Colors HD (Opt-01)
+https://bracnet.iptv.jadoodigital.com:443/live/colors_hd/chunks.m3u8
+#EXTINF:-1,Colors HD (Opt-02)
 http://p5.giffy.be:8080/Testing1/Testing1/21056
 #EXTINF:-1,Colors (Opt-01)
 http://fr-c.movply.stream/hls/Colors.m3u8
@@ -633,7 +637,9 @@ http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 http://p5.giffy.be:8080/Testing1/Testing1/21058
 #EXTINF:-1,Star Select HD
 http://p5.giffy.be:8080/Testing1/Testing1/21055
-#EXTINF:-1,Star Bharat
+#EXTINF:-1,Star Bharat (Opt-01)
+https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
+#EXTINF:-1,Star Bharat (Opt-02)
 http://p5.giffy.be:8080/Testing1/Testing1/21042
 #EXTINF:-1,UTV HD
 http://p5.giffy.be:8080/Testing1/Testing1/21059
