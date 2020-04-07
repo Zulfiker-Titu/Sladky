@@ -683,8 +683,6 @@ http://p5.giffy.be:8080/Testing1/Testing1/21068
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 #EXTINF:-1,Fox Life (India)
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
-#EXTINF:-1,National Geographic HD
-http://p5.giffy.be:8080/Testing1/Testing1/21061
 #EXTINF:-1,History TV HD
 https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,History TV
@@ -737,8 +735,6 @@ https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 http://p5.giffy.be:8080/Testing1/Testing1/21047
 #EXTINF:-1,Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-1,Fish TV
-http://proxyts.ec.cx:8082/hls1/fishtv.m3u8
 #EXTINF:-1,CGTV Documentary
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1,Docu Box
