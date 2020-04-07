@@ -167,8 +167,6 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/frXHYFM/NRB-Connect.jpg" group-title="Entertainment",NRB Connect
 http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rbwNxSX/Channel-S.png" group-title="Entertainment",Channel S
-http://cdn01.eiego.net:8081/playout/channels/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWnjmsW/Shopno-HD.jpg" group-title="Entertainment",Shopno HD
 http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qBHLrMr/Deshe-Bideshe.jpg" group-title="Entertainment",Deshe Bideshe
@@ -261,8 +259,6 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Disney XD
 https://tv4.chang55.com/live2/tv4ch29.stream/playlist.m3u8
-#EXTINF:-1,Nick Jr
-http://188.35.9.6:10019/stolen/418j/rainbow.udf
 #EXTINF:-1,CARTOON NETWORK 1
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
@@ -302,7 +298,7 @@ http://103.58.73.26/streams/1004/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://p5.giffy.be:8080/gabi12/gabi12/20731
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://103.81.104.222/live/starsport1dh/index.m3u8
+http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-01)
 http://103.115.159.37:8080/starsportsselect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-02)
