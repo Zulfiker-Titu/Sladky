@@ -534,21 +534,21 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1,Sony Pix HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Zee Cafe HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafehd/index.m3u8
+http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Picture HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Flix HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Prive HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& TV HD
-http://zee18.site/zee/get.php?channel=andtvhd
+http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema
 https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
 #EXTINF:-1,Zee Cinema HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema USA
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:-1,B4U Aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 #EXTINF:-1,B4U Movies
@@ -576,13 +576,15 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1,Zee Anmol
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeeanmol/index.m3u8
+http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bollywood
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
+http://z5amshls.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Action (Opt-1)
 https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
 #EXTINF:-1,Zee Action (Opt-2)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
+http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee World
+http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
 #EXTINF:-1, Gem Bollywood
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 #EXTINF:-1,Zing
@@ -629,8 +631,6 @@ https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 http://p5.giffy.be:8080/Testing1/Testing1/21042
 #EXTINF:-1,UTV HD
 http://p5.giffy.be:8080/Testing1/Testing1/21059
-#EXTINF:-1,Zee World
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
@@ -644,7 +644,7 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1,The Q
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1,Big Magic
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bigmagic/index.m3u8
+http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF:-1,Subrang TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,MK Six
@@ -653,7 +653,7 @@ http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1,ANALAI EXPRESS
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
-#EXTINF:-1,GABRU TV
+#EXTINF:-1,GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1,atv SD
 http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
@@ -762,9 +762,9 @@ http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 #EXTINF:-1,9xM
 https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
 #EXTINF:-1,9x Jalwa
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xjalwa/index.m3u8
+http://z5amshls.akamaized.net/9xjalwa/tracks-v1a1/index.m3u8
 #EXTINF:-1,9xO
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xo/index.m3u8
+http://z5amshls.akamaized.net/9xo/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zoom (Opt-01)
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,Zoom (Opt-02)
@@ -819,6 +819,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://p5.giffy.be:8080/Testing1/Testing1/21052
 #EXTINF:-1,MTV Beats
 http://p5.giffy.be:8080/Testing1/Testing1/21053
+#EXTINF:-1,Prime Plus HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1,Bonce TV
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1,CMC TV
