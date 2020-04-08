@@ -321,9 +321,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,PTV Sports (Opt-01)
-http://51.158.144.124:8090/CR/1/index.m3u8
-#EXTINF:-1,PTV Sports (Opt-02)
+#EXTINF:-1,PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,espn
 http://npse.brots.world/espn2.m3u8
@@ -373,8 +371,6 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1,DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1,Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:-1,Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
 #EXTINF:-1,SPORTSCAST
@@ -398,21 +394,19 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1,CNN USA
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+https://bracnet.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
+#EXTINF:-1,CNN International
+https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
 #EXTINF:-1,CNA World
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1,Al Jazeera
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
+https://bracnet.iptv.jadoodigital.com/live/al_jazeera/chunks.m3u8
 #EXTINF:-1,DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1,NHK WORLD
-http://45.126.83.51/uq2663/h/h23/index.m3u8
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,France 24
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
-#EXTINF:-1,Bloomberg
-http://45.126.83.51/session/7470f670-4cad-11ea-a63a-839f825d21d0/uq2663/h/h03/index.m3u8
 #EXTINF:-1,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,TIMES NOW
@@ -428,7 +422,7 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1,RT News
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
 #EXTINF:-1,Zee News
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
+http://z5amshls.akamaized.net/zeenews/tracks-v1a1/index.m3u8
 #EXTINF:-1,LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,Saudi Quran
