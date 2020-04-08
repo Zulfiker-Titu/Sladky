@@ -56,7 +56,7 @@ http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-01)
 http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-02)
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+https://bracnet.iptv.jadoodigital.com/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-03)
 http://103.111.120.46/hls/gazi-tv.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ExR2n3p6MYc/W78bjBdKUHI/AAAAAAAAAWU/Wy6_RLabNJYgTeNcMGAbj1rgtX1k3KVpwCLcBGAs/s320/Gazi TV-live-cricket-gazi-tv-live.png" group-title="Spotrs",BD IP (Live Only)
