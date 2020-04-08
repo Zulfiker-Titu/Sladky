@@ -450,12 +450,12 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?
 #EXTINF:-1,Food Network
 https://delivery.ghanacloud.ga/LiveApp/streams/842293636447220341220267.m3u8
 #EXTINF:-1,Living Foodz
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1,Hum Masala
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1,DABL
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
-#EXTINF:-1,Zee Living
+#EXTINF:-1,Zee Drama
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,Faith USA
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
@@ -463,9 +463,7 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO HD
 http://iptvfree.gq/live/hbo.m3u8
-#EXTINF:-1,HBO (Opt-01)
-http://103.58.73.26/streams/1011/index.m3u8
-#EXTINF:-1,HBO (Opt-02)
+#EXTINF:-1,HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO Hits
 http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
