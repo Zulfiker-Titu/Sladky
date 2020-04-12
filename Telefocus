@@ -296,13 +296,13 @@ http://p5.giffy.be:8080/gabi12/gabi12/20731
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-01)
-http://103.115.159.37:8080/starsportsselect1/tracks-v1a1/mono.m3u8
+http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-02)
 http://p5.giffy.be:8080/gabi12/gabi12/20733
 #EXTINF:-1,Star Sports Select 2 (Opt-01)
 http://p5.giffy.be:8080/gabi12/gabi12/20734
 #EXTINF:-1,Star Sports Select 2 (Opt-02)
-http://103.58.73.26/streams/114/index.m3u8
+http://103.81.104.222/live/startsports-select-2hd/index.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,Abu Dhabi Sports 2
