@@ -325,8 +325,12 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,PTV Sports
+#EXTINF:-1,PTV Sports (Opt-01)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1,PTV Spirts (Opt-02)
+http://p5.giffy.be:8080/gabi12/gabi12/20735
+#EXTINF:-1,Geo Super Sports
+http://p5.giffy.be:8080/gabi12/gabi12/20736
 #EXTINF:-1,Sky Net Sports
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1,Sky Net Sports 1
@@ -339,6 +343,22 @@ https://tv4.chang55.com/live2/tv4ch04.stream/playlist.m3u8
 https://tv4.chang55.com/live2/tv4ch05.stream/playlist.m3u8
 #EXTINF:-1,Sky Net Sports 5
 https://tv4.chang55.com/live2/tv4ch06.stream/playlist.m3u8
+#EXTINF:-1,Super Sports 1
+http://p5.giffy.be:8080/gabi12/gabi12/68780
+#EXTINF:-1,Super Sports 2
+http://p5.giffy.be:8080/gabi12/gabi12/68781
+#EXTINF:-1,Super Sports 3
+http://p5.giffy.be:8080/gabi12/gabi12/68782
+#EXTINF:-1,Super Sports 4
+http://p5.giffy.be:8080/gabi12/gabi12/68783
+#EXTINF:-1,Super Sports 5
+http://p5.giffy.be:8080/gabi12/gabi12/68784
+#EXTINF:-1,Super Sports 6
+http://p5.giffy.be:8080/gabi12/gabi12/68785
+#EXTINF:-1,Super Sports 7
+http://p5.giffy.be:8080/gabi12/gabi12/68786
+#EXTINF:-1,Super Sports 8
+http://p5.giffy.be:8080/gabi12/gabi12/68787
 #EXTINF:-1,Bein Sports
 http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
 #EXTINF:-1,Bein Sports 3
@@ -383,6 +403,8 @@ http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://203.162.235.46:19004/hls/EROSPORT_HD/playlist.m3u8
+#EXTINF:-1,Willow Cricket
+http://p5.giffy.be:8080/gabi12/gabi12/12689
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
