@@ -423,8 +423,6 @@ http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1,Peace TV
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,Hadi TV
-http://38.96.175.40:1935/liveTrans//channel1_190k/chunklist.m3u8
 #EXTNIF:-1,Islam Channel
 http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 #EXTINF:-1,Bible Explorations
