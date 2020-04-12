@@ -713,8 +713,6 @@ https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 http://178.62.176.153/hls/tv100/index.m3u8
 #EXTINF:-1,Arirang World
 https://streamer-1.toffeelive.com/live/arirang_720/index.m3u8
-#EXTINF:-1,ID Fashion
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1,Fashion TV 1
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 #EXTINF:-1,Fashion TV 2
@@ -781,10 +779,10 @@ http://ott-cdn.ucom.am/s10/index.m3u8
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,MTV HD
-http://p5.giffy.be:8080/Testing1/Testing1/21052
+#EXTINF:-1,MTV Music+1
+http://78.110.169.226:8000/play/a04z?checkedby:iptvcat.com
 #EXTINF:-1,MTV Beats
-http://p5.giffy.be:8080/Testing1/Testing1/21053
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1,Prime Plus HD
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1,Bonce TV
