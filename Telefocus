@@ -575,12 +575,6 @@ http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
 https://bracnet.iptv.jadoodigital.com:443/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Colors HD (Opt-02)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Colors (Opt-01)
-http://fr-c.movply.stream/hls/Colors.m3u8
-#EXTINF:-1,Colors (Opt-02)
-http://103.111.120.46/hls/Colors.m3u8
-#EXTINF:-1,Colors Rishtey
-http://p5.giffy.be:8080/Testing1/Testing1/21039
 #EXTINF:-1,Sony TV HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Sony TV
@@ -601,16 +595,10 @@ http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold HD
-http://p5.giffy.be:8080/Testing1/Testing1/21058
-#EXTINF:-1,Star Select HD
-http://p5.giffy.be:8080/Testing1/Testing1/21055
+#EXTINF:-1,Star Gold 2
+https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1,Star Bharat (Opt-01)
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1,Star Bharat (Opt-02)
-http://p5.giffy.be:8080/Testing1/Testing1/21042
-#EXTINF:-1,UTV HD
-http://p5.giffy.be:8080/Testing1/Testing1/21059
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
