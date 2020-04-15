@@ -484,7 +484,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO HD
 http://iptvfree.gq/live/hbo.m3u8
 #EXTINF:-1,HBO (India)
-http://103.81.104.222/live/hbo/index.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO Hits
@@ -614,21 +614,21 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 #EXTINF:-1,Sony TV
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1,SONY SET MAX HD
-https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,SONY SET MAX
-https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
-#EXTINF:-1,Sony SAB HD
+http://109.169.56.170/hls/sonymax.m3u8
+#EXTINF:-1,Sony SAB HD (Opt-01)
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,Sony SAB
-https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+#EXTINF:-1,Sony SAB HD (Opt-02)
+http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Pal
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1,Star Plus HD
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus
-http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+http://109.169.56.170/hls/starplus.m3u8
+#EXTINF:-1,Star Gold HD
+https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1,Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1,Star Bharat (Opt-01)
@@ -636,7 +636,7 @@ https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
-https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
+http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee TV
 http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE BIOSKOP
@@ -687,6 +687,8 @@ http://23.106.120.40:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8
 #EXTINF:-1,Sony BBC Earth HD
 https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
+
+
 #EXTINF:-1,NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
