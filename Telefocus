@@ -482,7 +482,7 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO HD
-http://iptvfree.gq/live/hbo.m3u8
+https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
 #EXTINF:-1,HBO (India)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,HBO
