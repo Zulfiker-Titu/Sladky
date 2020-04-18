@@ -127,7 +127,7 @@ http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 http://163.172.29.246:8081/globeworld2020/zeebangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla (Opt-3)
 http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD
 http://z5amshls.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-01)
 http://163.172.29.246:8081/globeworld2020/zeebanglacinema/chunks.m3u8
