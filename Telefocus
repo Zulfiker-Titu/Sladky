@@ -318,9 +318,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1,PTV Sports (Opt-01)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,PTV Spirts (Opt-02)
-http://p5.giffy.be:8080/gabi12/gabi12/20735
-#EXTINF:-1,Geo Super Sports
-http://p5.giffy.be:8080/gabi12/gabi12/20736
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1,Sky Net Sports
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1,Sky Net Sports 1
