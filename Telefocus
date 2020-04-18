@@ -351,14 +351,10 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1,DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1,Stadium
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
 #EXTINF:-1,SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1,RTA Sports (Opt-1)
 http://212.47.252.54/hls/stream.m3u8
-#EXTINF:-1,RTA Sports (Opt-2)
-http://51.158.144.124:8090/CR/2/index.m3u8
 #EXTINF:-1,Euro Sports 1
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:-1,Euro Sports 2
@@ -367,10 +363,6 @@ http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://203.162.235.46:19004/hls/EROSPORT_HD/playlist.m3u8
-#EXTINF:-1,Ten Sports
-http://103.81.104.222/live/ten-cricket/index.m3u8
-#EXTINF:-1,Willow Cricket
-http://p5.giffy.be:8080/gabi12/gabi12/12689
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
