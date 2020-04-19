@@ -339,16 +339,6 @@ http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
 https://h1-s5.c.markiza.sk/hls/novasport1-hd-master.m3u8
 #EXTINF:-1,Nova Sports 2
 https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8
-#EXTINF:-1,World Football
-https://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
-#EXTINF:-1,Sports Focus
-https://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_640x480_306820/playlist.m3u8
-#EXTINF:-1,Sports Premium
-https://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
-#EXTINF:-1,Sports Life
-https://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
-#EXTINF:-1,Sports Arena
-https://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
 #EXTINF:-1,RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1,rm tv
