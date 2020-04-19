@@ -612,15 +612,15 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2
 #EXTINF:-1,Sony TV HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Sony TV
-https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
 #EXTINF:-1,SONY SET MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,SONY SET MAX
 http://109.169.56.170/hls/sonymax.m3u8
-#EXTINF:-1,Sony SAB HD (Opt-01)
+#EXTINF:-1,Sony SAB HD
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,Sony SAB HD (Opt-02)
-http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony
+http://103.205.133.42:1935/local/sony_sab_720/index.m3u8
 #EXTINF:-1,Sony Pal
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1,Star Plus HD
@@ -743,8 +743,6 @@ https://distro.akamaized.net/indexfd_1280x720.m3u8
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1,TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1,Arirang World
-https://streamer-1.toffeelive.com/live/arirang_720/index.m3u8
 #EXTINF:-1,Fashion TV 1
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 #EXTINF:-1,Fashion TV 2
