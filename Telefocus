@@ -503,6 +503,8 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1,Lotus Macau
+https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 #EXTINF:-1,Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1,ROMEDY NOW
@@ -603,7 +605,9 @@ http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
 https://bracnet.iptv.jadoodigital.com:443/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Colors HD (Opt-02)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Colors Cineplex
+#EXTINF:-1,Colors Cineplex (Opt-01)
+https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
+#EXTINF:-1,Colors Cineplex (Opt-02)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/rishteycineplexuk/playlist.m3u8
 #EXTINF:-1,Sony TV HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
