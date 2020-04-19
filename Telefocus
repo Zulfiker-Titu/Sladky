@@ -527,7 +527,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 #EXTINF:-1,Movie Kingdom 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-
 #EXTINF:-1,MOVIE ZONE
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
 #EXTINF:-1,MY CINEMA CHANNEL
@@ -559,7 +558,7 @@ http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& TV HD
 http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema
-https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
+https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema USA
@@ -674,8 +673,6 @@ https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
 http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1,History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
-#EXTINF:-1,History TV 18 HD
-http://103.81.104.222/live/history-tv/index.m3u8
 #EXTINF:-1,VoA TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/chunks.m3u8
 #EXTINF:-1,US TV
@@ -683,7 +680,6 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1,RT Documentary
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8
 #EXTINF:-1,Sony BBC Earth HD
-https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
@@ -701,8 +697,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1,Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Discovery HD
-https://streamer-1.toffeelive.com/live/discovery_hd_720/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1,Discovery Jeet
@@ -756,7 +750,7 @@ http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1,SBI Music HD
 http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 #EXTINF:-1,9xM
-https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
+http://z5amshls.akamaized.net/9xm/tracks-v1a1/index.m3u8
 #EXTINF:-1,9x Jalwa
 http://z5amshls.akamaized.net/9xjalwa/tracks-v1a1/index.m3u8
 #EXTINF:-1,9xO
