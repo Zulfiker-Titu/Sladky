@@ -660,7 +660,7 @@ https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,Wion TV
-https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
+http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://103.81.104.222/live/animal-planet-hd/index.m3u8
 #EXTINF:-1,FOX Life
