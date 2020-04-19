@@ -469,8 +469,6 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,Faith USA
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
-#EXTINF:-1,OSN Movies HD
-http://88.198.65.79:25461/ottplayer/bP6OTjdW3m/40
 #EXTINF:-1,Star Movies (UAE)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,Star Movies (India)
