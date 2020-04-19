@@ -479,6 +479,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO Hits
 http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
+#EXTING:-1,TNT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11534
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -649,6 +651,8 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
 #EXTINF:-1,GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
+#EXTING:-1,Nepal Television HD
+https://nepaltv.nettvnepal.com.np/notoken/NTVNEPAL1500.stream/playlist.m3u8
 #EXTINF:-1,atv SD
 http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,atv HD
@@ -816,6 +820,8 @@ https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1,Dee Jay HD
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,Q Music
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1,1HD Music
@@ -832,6 +838,8 @@ http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTING:-1,Trace Ayiti
+https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/5/prog_index.m3u8
 #EXTINF:-1,Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1,Trace Naija
