@@ -839,7 +839,7 @@ http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTING:-1,Trace Ayiti
+#EXTINF:-1,Trace Ayiti
 https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/5/prog_index.m3u8
 #EXTINF:-1,Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
