@@ -605,6 +605,8 @@ http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
 https://bracnet.iptv.jadoodigital.com:443/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Colors HD (Opt-02)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1,Colors
+http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,Colors Cineplex (Opt-01)
 https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
 #EXTINF:-1,Colors Cineplex (Opt-02)
@@ -640,7 +642,7 @@ http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee TV
 http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE BIOSKOP
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 #EXTINF:-1,ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1,The Q
