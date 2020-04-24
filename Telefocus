@@ -32,7 +32,7 @@ http://103.141.66.36/bpk-tv/10080/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Entertainment",Channel 9 (Opt-02)
 http://103.115.159.37:8080/channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/240px-Channel24logo.svg.png" group-title="News",Channel 24
-http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+https://anytv.gov.gdn/channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Entertainment",Channel i
 https://anytv.gov.gdn/channeli/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="Entertainment",Channel S (UK)
@@ -813,10 +813,8 @@ http://ott-cdn.ucom.am/s10/index.m3u8
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTING:-1,MTV India
+#EXTINF:-1,MTV India
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/mtvindia/playlist.m3u8
-#EXTINF:-1,MTV Music+1
-http://78.110.169.226:8000/play/a04z?checkedby:iptvcat.com
 #EXTINF:-1,MTV Beats
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1,Prime Plus HD
