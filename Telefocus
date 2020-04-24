@@ -474,9 +474,9 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,Star Movies (India)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
 #EXTINF:-1,HBO HD
-http://vtv.iptvfree.gq:2086/live/hbo.m3u8
-#EXTINF:-1,HBO (India)
-http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1,HBO Asia
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO Hits
