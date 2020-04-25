@@ -48,7 +48,7 @@ http://telelivetv.webredirect.org:8081/globeworld2020/duronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Children TV",Sonic Bangla
 https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Children TV",Nick (Bangla)
-http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
+https://bracnet.iptv.jadoodigital.com:443/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg" group-title="Children TV",Sony Yay Bangla
 http://103.205.133.42:1935/local/sony_yay_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News",Ekattor TV
@@ -329,26 +329,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,PTV Spirts (Opt-2)
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1,PTV Spirts (Opt-3)
-http://p5.giffy.be:8080/gabi12/gabi12/20735
-#EXTINF:-1,Geo Super Sports
-http://p5.giffy.be:8080/gabi12/gabi12/20736
-#EXTINF:-1,Super Sports 1
-http://p5.giffy.be:8080/gabi12/gabi12/68780
-#EXTINF:-1,Super Sports 2
-http://p5.giffy.be:8080/gabi12/gabi12/68781
-#EXTINF:-1,Super Sports 3
-http://p5.giffy.be:8080/gabi12/gabi12/68782
-#EXTINF:-1,Super Sports 4
-http://p5.giffy.be:8080/gabi12/gabi12/68783
-#EXTINF:-1,Super Sports 5
-http://p5.giffy.be:8080/gabi12/gabi12/68784
-#EXTINF:-1,Super Sports 6
-http://p5.giffy.be:8080/gabi12/gabi12/68785
-#EXTINF:-1,Super Sports 7
-http://p5.giffy.be:8080/gabi12/gabi12/68786
-#EXTINF:-1,Super Sports 8
-http://p5.giffy.be:8080/gabi12/gabi12/68787
 #EXTINF:-1,Bein Sports
 http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
 #EXTINF:-1,Bein Sports 1
@@ -391,8 +371,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:-1,Euro Sports 2
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1,Willow Cricket
-http://p5.giffy.be:8080/gabi12/gabi12/12689
 #EXTINF:-1,Fox Sports
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox Sports 3
