@@ -461,8 +461,12 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1,HBO
+#EXTINF:-1,HBO (Opt-1)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
+#EXTINF:-1,HBO ((Opt-2)
+http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO Hits
+http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
 #EXTING:-1,TNT
 http://nitro.ltd:25461/StevenD2020/StevFr2019/11534
 #EXTINF:-1,MBC MAX HD
