@@ -331,8 +331,20 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,PTV Spirts (Opt-2)
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1,A Spor
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1,Bein Sports
 http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
+#EXTINF:-1,Bein Sports 1
+http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
+EXTINF:-1,Bein Sports 2
+http://tv.vodu.me:2052/bein1/2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 3
+http://tv.vodu.me:2052/bein1/3/tracks-v1a1/mono.m3u8
+EXTINF:-1,Bein Sports 2
+http://tv.vodu.me:2052/bein1/4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 5
+http://tv.vodu.me:2052/bein1/5/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,ART Sports 1
@@ -488,7 +500,7 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,AXN
-http://210.210.155.66/h/h141/01.m3u8
+http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,amc
