@@ -58,7 +58,7 @@ http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-01)
 http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-02)
-https://bracnet.iptv.jadoodigital.com/live/gazi_tv/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-03)
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ExR2n3p6MYc/W78bjBdKUHI/AAAAAAAAAWU/Wy6_RLabNJYgTeNcMGAbj1rgtX1k3KVpwCLcBGAs/s320/Gazi TV-live-cricket-gazi-tv-live.png" group-title="Spotrs",BD IP (Live Only)
@@ -74,7 +74,7 @@ https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Entertainment",My TV
 https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment",NTV
-https://bracnet.iptv.jadoodigital.com/live/ntv/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment",NTV UK
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Entertainment",Nagorik TV
@@ -84,7 +84,7 @@ http://telelivetv.webredirect.org:8081/globeworld2020/news24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Entertainment",RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Entertainment",SA TV
-https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="News",Somoy TV
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="Documentary",Fox Life
@@ -458,7 +458,7 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?
 #EXTINF:-1,Food Network
 https://delivery.ghanacloud.ga/LiveApp/streams/842293636447220341220267.m3u8
 #EXTINF:-1,FYI 18 TV HD
-https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1,Hum Masala
@@ -628,7 +628,7 @@ http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
 #EXTINF:-1,SONY SET MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,SONY SET MAX
-http://109.169.56.170/hls/sonymax.m3u8
+http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SAB HD
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Sony
@@ -638,7 +638,7 @@ https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdn
 #EXTINF:-1,Star Plus HD
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus
-http://109.169.56.170/hls/starplus.m3u8
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1,Star Gold HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,Star Gold 2
