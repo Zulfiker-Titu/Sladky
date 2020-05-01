@@ -439,7 +439,7 @@ http://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 http://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
 #EXTINF:-1,Peace TV
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTNIF:-1,Islam Channel
+#EXTINF:-1,Islam Channel
 http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 #EXTINF:-1,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
@@ -481,7 +481,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO Hits
 http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
-#EXTING:-1,TNT
+#EXTINF:-1,TNT
 http://nitro.ltd:25461/StevenD2020/StevFr2019/11534
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
@@ -511,7 +511,7 @@ https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTING:-1,Unic TV
+#EXTINF:-1,Unic TV
 http://116.203.225.253:25461/live/iMRxAu90Fm/O6OZNuQ2ON/2.m3u8
 #EXTINF:-1,MY Comedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
@@ -629,7 +629,7 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SAB HD
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,Sony
+#EXTINF:-1,Sony SAB
 http://103.205.133.42:1935/local/sony_sab_720/index.m3u8
 #EXTINF:-1,Sony Pal
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
@@ -667,7 +667,7 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
 #EXTINF:-1,GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTING:-1,Nepal Television HD
+#EXTINF:-1,Nepal Television HD
 https://nepaltv.nettvnepal.com.np/notoken/NTVNEPAL1500.stream/playlist.m3u8
 #EXTINF:-1,atv SD
 http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
@@ -783,7 +783,7 @@ http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 https://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#XTINF:-1,DIL SE
+#EXTINF:-1,DIL SE
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:-1,Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
