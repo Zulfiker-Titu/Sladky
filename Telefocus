@@ -417,14 +417,8 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1,Saudi Sunnah
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
-#EXTINF:-1,Karbala Live 1
-http://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
-#EXTINF:-1,Karbala Live 2
-http://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
 #EXTINF:-1,Peace TV
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,Islam Channel
-http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 #EXTINF:-1,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1,Swamiji TV
@@ -483,6 +477,8 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1,Arirang World
+http://103.205.133.42:1935/local/arirang_720/index.m3u8
 #EXTINF:-1,amc
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HITS
@@ -577,9 +573,7 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://z5amshls.akamaized.net/classic/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Action (Opt-1)
-https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
-#EXTINF:-1,Zee Action (Opt-2)
+#EXTINF:-1,Zee Action
 http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee World
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
