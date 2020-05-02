@@ -817,18 +817,12 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1,Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
-#EXTINF:-1,Radio Contact Vision
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:-1,Radio Taormina
-http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 #EXTINF:-1,Rock
 http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
 #EXTINF:-1,Rock TV
 http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,OYE CANAL 7
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1,Trace Ayiti
 https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/5/prog_index.m3u8
 #EXTINF:-1,Trace Urban
@@ -839,7 +833,5 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 #EXTINF:-1,Trace Gospel
 https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1,VH1 HITS
-http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
 #EXTINF:-1,Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
