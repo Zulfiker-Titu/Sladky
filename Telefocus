@@ -766,7 +766,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,Prime Plus HD
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1,Zee ETC
-https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
+http://z5amshls.akamaized.net/etc/tracks-v1a1/index.m3u8
 #EXTINF:-1,Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1,PUBLIC MUSIC
