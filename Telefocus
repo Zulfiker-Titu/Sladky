@@ -280,13 +280,13 @@ https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hd
 #EXTINF:-1,Sony Ten 1 (Opt-02)
 http://103.205.133.42:1935/local/sony_ten1_hd_720/playlist.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-01)
-http://103.205.133.42:1935/local/sony_ten2_hd_720/playlist.m3u8
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
 https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Sony Ten 3 (Opt-01)
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1582605000_4b1c79efce6656ccd86924f6e1e75b93
 #EXTINF:-1,Sony Ten 3 (Opt-02)
-http://163.172.85.133:8080/TenS/3/index.m3u8
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:-1,Sony SIX (Opt-01)
 http://103.205.133.42:1935/local/sony_six_hd_720/playlist.m3u8
 #EXTINF:-1,Sony SIX (Opt-02)
