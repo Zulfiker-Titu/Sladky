@@ -375,8 +375,6 @@ https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://203.162.235.46:19004/hls/EROSPORT_HD/playlist.m3u8
-#EXTINF:-1,Arirang World
-http://103.205.133.42:1935/local/arirang_720/index.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -540,7 +538,7 @@ http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Prive HD
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& TV HD
-http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+http://45.120.188.76:8080/0.ts
 #EXTINF:-1,Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1,Zee Cinema HD
@@ -620,7 +618,7 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
-http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+http://103.141.66.36/bpk-tv/10403/default/manifest.mpd
 #EXTINF:-1,Zee TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1,ZEE MUNDO
