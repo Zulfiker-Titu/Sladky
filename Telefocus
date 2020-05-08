@@ -249,8 +249,6 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1 tvg-logo="http://kanaknews.com/wp-content/uploads/2018/12/K-LOGO-SMALL-1.png" group-title="Odia",Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
-#EXTINF:-1,Sony Yay
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Disney Junior
@@ -271,6 +269,12 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,NICK JR
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1,Nick
+http://178.159.5.210:1000/play/NickJrPeppa/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://178.159.5.210:1000/play/Nickelodeon/index.m3u8
+#EXTINF:-1,Nickelodeon+1
+http://178.159.5.210:1000/play/a04a/index.m3u8
 #EXTINF:-1,Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1,EBS KIDS
