@@ -453,8 +453,10 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,Star Movies (India)
 http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1,HBO HD (Opt-01)
 http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1,HBO HD (Opt-02)
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO
