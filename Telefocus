@@ -744,7 +744,7 @@ http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus0
 #EXTINF:-1,The BOX
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1,9xM
-http://z5amshls.akamaized.net/9xm/tracks-v1a1/index.m3u8
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1,9x Jalwa
 http://z5amshls.akamaized.net/9xjalwa/tracks-v1a1/index.m3u8
 #EXTINF:-1,9xO
