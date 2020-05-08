@@ -675,6 +675,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+#EXTINF:-1,National Geographic HD
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1,YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1,ACC TV
@@ -744,9 +746,9 @@ http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus0
 #EXTINF:-1,9xM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1,9x Jalwa
-http://z5amshls.akamaized.net/9xjalwa/tracks-v1a1/index.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,9xO
-http://z5amshls.akamaized.net/9xo/tracks-v1a1/index.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1,Zoom (Opt-01)
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,Zoom (Opt-02)
