@@ -596,7 +596,7 @@ https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:-1,Colors Cineplex (Opt-02)
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/rishteycineplexuk/playlist.m3u8
 #EXTINF:-1,Sony TV HD
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+http://103.141.66.36/bpk-tv/10401/default/manifest.mpd
 #EXTINF:-1,Sony TV
 http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
 #EXTINF:-1,SONY SET MAX HD
