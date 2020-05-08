@@ -269,12 +269,6 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,NICK JR
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-#EXTINF:-1,Nick
-http://178.159.5.210:1000/play/NickJrPeppa/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://178.159.5.210:1000/play/Nickelodeon/index.m3u8
-#EXTINF:-1,Nickelodeon+1
-http://178.159.5.210:1000/play/a04a/index.m3u8
 #EXTINF:-1,Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1,EBS KIDS
@@ -379,10 +373,6 @@ http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 #EXTINF:-1,Fox Sports
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1,FOX Sport 2 FHD
-http://coklat.cricket:8888/saskia/saskia/3651
-#EXTINF:-1,FOX Sport 3 FHD
-http://coklat.cricket:8888/saskia/saskia/3653
 #EXTINF:-1,Fox Sports 3
 http://203.162.235.46:19004/hls/EROSPORT_HD/playlist.m3u8
 #EXTINF:-1,Arirang World
@@ -469,10 +459,6 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
-#EXTINF:-1,Sony Movies Christmas
-http://178.159.5.210:1000/play/a03s/index.m3u8
-#EXTINF:-1,Sony movies Action
-http://178.159.5.210:1000/play/a03r/index.m3u8
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -509,8 +495,6 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
 #EXTINF:-1,Fox Movies
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
-#EXTINF:-1,FOX FHD
-http://coklat.cricket:8888/saskia/saskia/3634
 #EXTINF:-1,FX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1,Fox Crime
