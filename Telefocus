@@ -459,20 +459,16 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,Star Movies (India)
 http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1,HBO HD (Opt-1)
+#EXTINF:-1,HBO HD
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1,HBO HD (Opt-2)
-http://coklat.cricket:8888/saskia/saskia/4828
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
-#EXTINF:-1,HBO Signature HD
-http://coklat.cricket:8888/saskia/saskia/4831
-#EXTINF:-1,HBO Family HD
-http://coklat.cricket:8888/saskia/saskia/4830
-#EXTINF:-1,HBO Hits HD
-http://coklat.cricket:8888/saskia/saskia/4829
+#EXTINF:-1,Sony Movies Christmas
+http://178.159.5.210:1000/play/a03s/index.m3u8
+#EXTINF:-1,Sony movies Action
+http://178.159.5.210:1000/play/a03r/index.m3u8
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
