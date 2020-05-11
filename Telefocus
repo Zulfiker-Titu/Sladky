@@ -306,13 +306,13 @@ http://103.58.73.26/streams/1016/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
-
+http://103.58.73.26/streams/1013/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
+http://103.58.73.26/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
-http://103.58.73.26/streams/114/index.m3u8
+http://103.58.73.26/streams/1014/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8
+http://103.58.73.26/streams/114/index.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,Abu Dhabi Sports 2
@@ -483,8 +483,10 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,AXN HD
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,AXN
-https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
+
 #EXTINF:-1,amc
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HITS
