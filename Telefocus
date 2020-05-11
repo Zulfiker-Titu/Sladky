@@ -117,11 +117,11 @@ https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha
 http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD
-http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies (Opt-01)
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+http://ddn.amrbd.com:8081/live/jalshamovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies (Opt-02)
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies (Opt-03)
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla (Opt-1)
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
@@ -149,6 +149,8 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/e1d81d8ff063f6d187823c1028deb12c.png" group-title="News",Zee 24 Ghanta
 http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cumilla24.tv/wp-content/uploads/2019/01/cropped-cumilla24-logo.png" group-title="Entertainment",Cumilla 24 TV
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="Entertainment",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCBh5d6/Tele-Film-TV.jpg" group-title="Bangla Movies",Tele Film
@@ -281,6 +283,8 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,SPACETOON
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:-1,OKTO on 5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Sony Ten 1 (Opt-02)
@@ -300,7 +304,7 @@ http://103.58.73.26/streams/106/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://103.58.73.26/streams/1004/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
-http://103.58.73.26/streams/104/index.m3u8
+http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.58.73.26/streams/1016/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
