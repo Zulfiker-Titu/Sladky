@@ -308,11 +308,11 @@ http://103.81.104.222/live/starsport-s1hd/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.58.73.26/streams/1016/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://103.58.73.26/streams/116/index.m3u8
+http://103.81.104.222/live/star-sports-2/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
 http://103.58.73.26/streams/1013/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
-http://103.58.73.26/streams/113/index.m3u8
+https://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
 http://103.58.73.26/streams/1014/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
