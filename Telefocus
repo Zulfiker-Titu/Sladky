@@ -303,6 +303,8 @@ http://103.58.73.26/streams/106/index.m3u8
 http://103.58.73.26/streams/1004/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
 http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
+#EXTINF:-1,Star Sports 1 (Opt-3)
+http://103.81.104.222/live/starsport-s1hd/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.58.73.26/streams/1016/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
