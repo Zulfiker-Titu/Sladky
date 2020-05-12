@@ -397,6 +397,10 @@ http://188.93.95.34:80/setanta_georgia/index.m3u8
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://203.162.235.46:19004/hls/EROSPORT_HD/playlist.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+rtmp://xiaoyu.speedws.com/sat/tv731
+#EXTINF:-1,Fox Sports 2 HD
+rtmp://xiaoyu.speedws.com/sat/tv741
 #EXTINF:-1,Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1,Fox News
