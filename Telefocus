@@ -523,8 +523,6 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1,Fox Action Movies (Opt-02)
 https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
-#EXTINF:-1,Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist.m3u8
 #EXTINF:-1,Fox Movies
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1,FX
@@ -541,8 +539,6 @@ https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,MOVIE ZONE
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
-#EXTINF:-1,MY CINEMA CHANNEL
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1,BLACK CINEMA
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1,TVS WESTERN MOVIES
