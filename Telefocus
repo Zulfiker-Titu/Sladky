@@ -105,8 +105,6 @@ http://103.141.66.36/bpk-tv/10112/default/manifest.mpd
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD (Opt-02)
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla
-http://ddn.amrbd.com:8081/live/ekushey/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7_H8dWEkZhk/WKHdX8JCZNI/AAAAAAAAACI/Ysc-AjiUMfkR1tehUK8NcvWOTvdSch-pgCLcB/s280/Rupashi%2BBangla.png" group-title="Entertainment",Ruposhi Bangla
 http://103.141.66.36/bpk-tv/10111/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
