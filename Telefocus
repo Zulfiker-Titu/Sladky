@@ -309,9 +309,13 @@ http://cdn.banglatv.xyz/beeiptv-stb/starsports2/chunks.m3u8
 http://103.58.73.26/streams/1016/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-3)
 http://103.81.104.222/live/star-sports-2/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://tv.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
-http://103.58.73.26/streams/1013/index.m3u8
+http://tv.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
+http://103.58.73.26/streams/1013/index.m3u8
+#EXTINF:-1,Star Sports Select 1 (Opt-3)
 http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
 http://103.58.73.26/streams/1014/index.m3u8
