@@ -105,10 +105,14 @@ http://103.141.66.36/bpk-tv/10112/default/manifest.mpd
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD (Opt-02)
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD
+https://triangle.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7_H8dWEkZhk/WKHdX8JCZNI/AAAAAAAAACI/Ysc-AjiUMfkR1tehUK8NcvWOTvdSch-pgCLcB/s280/Rupashi%2BBangla.png" group-title="Entertainment",Ruposhi Bangla
 http://103.141.66.36/bpk-tv/10111/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-1)
 http://103.205.133.42:1935/live/sony_aath_240/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-2)
+http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-01)
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-02)
@@ -312,14 +316,18 @@ http://103.81.104.222/live/star-sports-2/index.m3u8
 #EXTINF:-1,Star Sports 3
 http://tv.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
-http://tv.ebox.live:8080/live/starsports-1.m3u8
+http://cdn.banglatv.xyz/beeiptv-stb/select1/chunks.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
-http://103.58.73.26/streams/1013/index.m3u8
+http://tv.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-3)
+http://103.58.73.26/streams/1013/index.m3u8
+#EXTINF:-1,Star Sports Select 1 (Opt-4)
 http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
-http://103.58.73.26/streams/1014/index.m3u8
+http://cdn.banglatv.xyz/beeiptv-stb/select2/chunks.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
+http://103.58.73.26/streams/1014/index.m3u8
+#EXTINF:-1,Star Sports Select 2 (Opt-3)
 http://103.81.104.222/live/startsports-select-2hd/index.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
