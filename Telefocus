@@ -454,7 +454,7 @@ http://z5amshls.akamaized.net/zeenews/tracks-v1a1/index.m3u8
 #EXTINF:-1,LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,Saudi Quran
-http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
 #EXTINF:-1,Saudi Sunnah
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1,Peace TV
