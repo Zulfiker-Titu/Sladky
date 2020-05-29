@@ -329,6 +329,8 @@ http://cdn.banglatv.xyz/beeiptv-stb/select2/chunks.m3u8
 http://103.58.73.26/streams/1014/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-3)
 http://103.81.104.222/live/startsports-select-2hd/index.m3u8
+#EXTINF:-1,Star Cricket
+http://boyztoyz.us/RonDenston/15.05.19/7517
 #EXTINF:-1,Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,Abu Dhabi Sports 2
@@ -500,7 +502,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls/mbc2.m3u8?token=1FURHbJq_Zp2poJanRK5Nw&e=1590789356&channel=mbc2
 #EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 #EXTINF:-1,MBC Bollywood
@@ -698,7 +700,7 @@ https://stream.simpaisa.com/pitvlive2/ptvglobal3/playlist.m3u8
 #EXTINF:-1,AAJ ENT
 https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8
 #EXTINF:-1,atv SD
-http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
+https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,atv HD
 https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
