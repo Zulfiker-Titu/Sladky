@@ -304,13 +304,13 @@ https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?h
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
-http://103.58.73.26/streams/1004/index.m3u8
+http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-3)
 http://103.81.104.222/live/starsport-s1hd/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://cdn.banglatv.xyz/beeiptv-stb/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://103.58.73.26/streams/1016/index.m3u8
+http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-3)
 http://103.81.104.222/live/star-sports-2/index.m3u8
 #EXTINF:-1,Star Sports 3
@@ -320,13 +320,13 @@ http://cdn.banglatv.xyz/beeiptv-stb/select1/chunks.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
 http://tv.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-3)
-http://103.58.73.26/streams/1013/index.m3u8
+http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-4)
 http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
 http://cdn.banglatv.xyz/beeiptv-stb/select2/chunks.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
-http://103.58.73.26/streams/1014/index.m3u8
+http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-3)
 http://103.81.104.222/live/startsports-select-2hd/index.m3u8
 #EXTINF:-1,Star Cricket
