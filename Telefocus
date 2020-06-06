@@ -411,10 +411,22 @@ https://streams.livetv.az/azerbaijan/idman2_stream_sd/playlist.m3u8
 http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 #EXTINF:-1,Setanta Sports
 http://188.93.95.34:80/setanta_georgia/index.m3u8
-#EXTINF:-1,Fox Sports
-https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://mantul.biz.id:8888/live/kayaz/q12345/267.ts
+#EXTINF:-1,Fox Sports 2
+http://mantul.biz.id:8888/live/kayaz/q12345/268.ts
 #EXTINF:-1,Fox Sports 3
-http://203.162.235.46:19004/hls/EROSPORT_HD/playlist.m3u8
+http://mantul.biz.id:8888/live/kayaz/q12345/269.ts
+#EXTINF:-1,Champions TV 1 HD
+http://mantul.biz.id:8888/live/kayaz/q12345/232.ts
+#EXTINF:-1,Champions TV 2 HD
+http://mantul.biz.id:8888/live/kayaz/q12345/253.ts
+#EXTINF:-1,Usec Sports 1
+http://mantul.biz.id:8888/live/kayaz/q12345/241.ts
+#EXTINF:-1,Usec Sports 2
+http://mantul.biz.id:8888/live/kayaz/q12345/234.ts
+#EXTINF:-1,Super Tennis HD
+http://mantul.biz.id:8888/live/kayaz/q12345/110.ts
 #EXTINF:-1,Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1,Fox News
@@ -433,6 +445,8 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 #EXTINF:-1,DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1,KBS WORLD
+http://mantul.biz.id:8888/live/kayaz/q12345/266.ts
 #EXTINF:-1,NHK WORLD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,France 24
@@ -859,6 +873,8 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1,MTV LIVE
+http://mantul.biz.id:8888/live/kayaz/q12345/222.ts
 #EXTINF:-1,Prime Plus HD
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1,CMC TV
