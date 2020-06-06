@@ -460,7 +460,7 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,Saudi Quran
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
 #EXTINF:-1,Saudi Sunnah
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/live-orgin/madina.stream/chunks.m3u8
 #EXTINF:-1,Peace TV
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,Bible Explorations
@@ -502,15 +502,15 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,MBC MAX HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:-1,MBC 2 HD
-http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls/mbc2.m3u8?token=1FURHbJq_Zp2poJanRK5Nw&e=1590789356&channel=mbc2
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 #EXTINF:-1,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 #EXTINF:-1,MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
 #EXTINF:-1,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 #EXTINF:-1,MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,Thrill HD
