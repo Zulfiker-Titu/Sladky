@@ -310,10 +310,12 @@ http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-4)
 http://103.81.104.222/live/starsport-s1hd/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
-http://cdn.banglatv.xyz/beeiptv-stb/starsports2/chunks.m3u8
+http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-3)
+http://cdn.banglatv.xyz/beeiptv-stb/starsports2/chunks.m3u8
+#EXTINF:-1,Star Sports 2 (Opt-4)
 http://103.81.104.222/live/star-sports-2/index.m3u8
 #EXTINF:-1,Star Sports 3
 http://tv.ebox.live:8080/live/starsports-3.m3u8
