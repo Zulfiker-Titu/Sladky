@@ -414,7 +414,7 @@ http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 #EXTINF:-1,Setanta Sports
 http://188.93.95.34:80/setanta_georgia/index.m3u8
 #EXTINF:-1,Fox Sports 1
-http://mantul.biz.id:8888/live/kayaz/q12345/267.ts
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox Sports 2
 http://mantul.biz.id:8888/live/kayaz/q12345/268.ts
 #EXTINF:-1,Fox Sports 3
@@ -505,18 +505,26 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,Faith USA
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
-#EXTINF:-1,Star Movies (UAE)
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1,Star Movies (India)
+#EXTINF:-1,Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:-1,Star Movies (India) (Opt-1)
+http://202.163.117.6:9981/stream/channelid/1210441427
+#EXTINF:-1,Star Movies (India) (Opt-2)
 http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1,HBO HD (Opt-01)
+#EXTINF:-1,HBO HD
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1,HBO HD (Opt-02)
-http://mantul.biz.id:8888/live/kayaz/q12345/252.ts
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
+#EXTINF:-1,HBO Zone
+http://live.highstream.club/live/HBOZone/playlist.m3u8
+#EXTINF:-1,HBO Signature
+http://live.highstream.club/live/HBOSignature/playlist.m3u8
+#EXTINF:-1,WB TV
+https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+#EXTINF:-1,SKY CINEMA24 UHD
+http://hrv.00387.info/GER:SKYCINEMA24UHD/index.m3u8?token=test
 #EXTINF:-1,MBC MAX HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:-1,MBC 2 HD
