@@ -93,7 +93,7 @@ https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 http://streamidvo.multitvsolution.in/DiscoveryHindi-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC
 http://streamidvo.multitvsolution.in/TLCEng-a/playlist.m3u8
@@ -733,12 +733,12 @@ https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,Wion TV
 http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
-#EXTINF:-1,Animal Planet
-http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Animal Planet HD
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1,SONY BBC EARTH HD
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,FOX Life
-https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
+#EXTINF:-1,FOX Life HD
+http://136.243.177.164/FOXLIFE/playlist.m3u8
 #EXTINF:-1,Fox Life (India)
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,History TV HD
@@ -755,8 +755,10 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://triangle.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
 https://triangle.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1,National Geographic HD (Opt-1)
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+#EXTINF:-1,National Geographic HD (Opt-2)
+http://136.243.177.164/NATIONALGEOGRAPHIC/playlist.m3u8
 #EXTINF:-1,YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1,ACC TV
