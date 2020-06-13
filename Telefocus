@@ -417,22 +417,8 @@ https://streams.livetv.az/azerbaijan/idman2_stream_sd/playlist.m3u8
 http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 #EXTINF:-1,Setanta Sports
 http://188.93.95.34:80/setanta_georgia/index.m3u8
-#EXTINF:-1,Fox Sports 1
+#EXTINF:-1,Fox Sports
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://mantul.biz.id:8888/live/kayaz/q12345/268.ts
-#EXTINF:-1,Fox Sports 3
-http://mantul.biz.id:8888/live/kayaz/q12345/269.ts
-#EXTINF:-1,Champions TV 1 HD
-http://mantul.biz.id:8888/live/kayaz/q12345/232.ts
-#EXTINF:-1,Champions TV 2 HD
-http://mantul.biz.id:8888/live/kayaz/q12345/253.ts
-#EXTINF:-1,Usec Sports 1
-http://mantul.biz.id:8888/live/kayaz/q12345/241.ts
-#EXTINF:-1,Usec Sports 2
-http://mantul.biz.id:8888/live/kayaz/q12345/234.ts
-#EXTINF:-1,Super Tennis HD
-http://mantul.biz.id:8888/live/kayaz/q12345/110.ts
 #EXTINF:-1,Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1,Fox News
