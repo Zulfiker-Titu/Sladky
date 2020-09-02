@@ -50,7 +50,7 @@ https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Children TV",Nick (Bangla)
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg" group-title="Children TV",Sony Yay (Bangla)
-http://103.205.133.42:1935/live/sony_yay_240/index.m3u8
+https://watchindia.net:8443/live/71446/19395/2104.ts
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925043807s.jpg" group-title="Children TV",POGO
 http://202.163.117.6:9981/stream/channelid/872564616
 #EXTINF:-1 tvg-logo="https://img.favpng.com/8/9/18/hungama-tv-television-channel-television-show-hungama-digital-media-entertainment-png-favpng-WqxDUPb2HJ1V31yDh7L79UgB5.jpg" group-title="Children TV",Hungama
