@@ -56,7 +56,7 @@ http://202.163.117.6:9981/stream/channelid/872564616
 #EXTINF:-1 tvg-logo="https://img.favpng.com/8/9/18/hungama-tv-television-channel-television-show-hungama-digital-media-entertainment-png-favpng-WqxDUPb2HJ1V31yDh7L79UgB5.jpg" group-title="Children TV",Hungama
 http://202.163.117.6:9981/stream/channelid/1357890196
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News",Ekattor TV
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+http://45.249.187.238:8081/hls/live6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Entertainment",Eekushey TV
 http://103.205.133.14/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-01)
