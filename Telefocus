@@ -273,12 +273,8 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1,CARTOON NETWORK 1
-http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
-#EXTINF:-1,CARTOON NETWORK 2
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,CARTOON NETWORK 3
-https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,Boomerang
