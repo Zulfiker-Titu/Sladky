@@ -144,7 +144,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="News",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/e1d81d8ff063f6d187823c1028deb12c.png" group-title="News",Zee 24 Ghanta
-http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+https://z5ams.akamaized.net/24ghanta/index.m3u8?hdnts=st=1599122745~exp=1599125745~acl=/*~hmac=dcaf4c0fd667eb4f5cde372d4ea915125dbbd7cee261d35fd42cfb3d4264ed44
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Kolkata_TV_2010.png/150px-Kolkata_TV_2010.png" group-title="News",Kolkata TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="Entertainment",Cumilla 24 TV
