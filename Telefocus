@@ -148,7 +148,7 @@ https://z5ams.akamaized.net/24ghanta/index.m3u8?hdnts=st=1599122745~exp=15991257
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Kolkata_TV_2010.png/150px-Kolkata_TV_2010.png" group-title="News",Kolkata TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="Entertainment",Cumilla 24 TV
-http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/playlist.m3u8
+http://tempt.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="Entertainment",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCBh5d6/Tele-Film-TV.jpg" group-title="Bangla Movies",Tele Film
