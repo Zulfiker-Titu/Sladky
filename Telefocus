@@ -293,7 +293,9 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 #EXTINF:-1,Sony SIX (Opt-2)
 https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,Star Sports 1
+#EXTINF:-1,Star Sports 1 (Opt-01)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+#EXTINF:-1,Star Sports 1 (Opt-02)
 http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
@@ -306,19 +308,13 @@ http://103.81.104.222/live/star-sports-2/index.m3u8
 #EXTINF:-1,Star Sports 3
 http://tv.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
-http://cdn.banglatv.xyz/beeiptv-stb/select1/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
-http://tv.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1,Star Sports Select 1 (Opt-3)
 http://otv.ftpbd.net/streams/113/index.m3u8
-#EXTINF:-1,Star Sports Select 1 (Opt-4)
-http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
-http://cdn.banglatv.xyz/beeiptv-stb/select2/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
 http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1,Star Sports Select 2 (Opt-3)
-http://103.81.104.222/live/startsports-select-2hd/index.m3u8
 #EXTINF:-1,Star Cricket
 http://boyztoyz.us/RonDenston/15.05.19/7517
 #EXTINF:-1,Abu Dhabi Sports 1
@@ -370,7 +366,7 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1,rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1,Dsport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
 #EXTINF:-1,BAHRAIN TV SPORTS
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
 #EXTINF:-1,Dubai Racing
@@ -409,7 +405,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,BBC World News
+#EXTINF:-1,BBC World News (Opt-01)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
+#EXTINF:-1,BBC World News (Opt-02)
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1,CNN International
 https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
