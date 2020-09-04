@@ -257,8 +257,8 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 #EXTINF:-1,NICK JR
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-#EXTINF:-1,Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1,B Kids HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,SPACETOON
