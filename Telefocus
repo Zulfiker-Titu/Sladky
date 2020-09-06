@@ -698,9 +698,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 #EXTINF:-1,BBC lifestyle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 #EXTINF:-1,FOX Life HD
-http://136.243.177.164/FOXLIFE/playlist.m3u8
-#EXTINF:-1,Fox Life (India)
-http://robi.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1,History TV HD
 http://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,VoA TV
