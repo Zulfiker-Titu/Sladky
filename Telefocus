@@ -251,6 +251,8 @@ http://45.249.187.238:8081/hls/live0.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1,Nick HD+
+http://robi.iptv.digijadoo.net/live/nick_hd/playlist.m3u8?@amarnettv.live
 #EXTINF:-1,Nick
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 #EXTINF:-1,NICK JR
@@ -479,6 +481,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
 http://live.highstream.club/live/HBOZone/playlist.m3u8
 #EXTINF:-1,HBO Signature
 http://live.highstream.club/live/HBOSignature/playlist.m3u8
+#EXTINF:-1,Sony Movies
+http://51.52.156.22:8888/http/009
 #EXTINF:-1,WB TV
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 #EXTINF:-1,SKY CINEMA24 UHD
