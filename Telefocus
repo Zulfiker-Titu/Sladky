@@ -261,8 +261,8 @@ http://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,SPACETOON
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:-1,Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-1)
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Sony Ten 1 (Opt-2)
@@ -687,6 +687,8 @@ https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,Wion TV
 http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
+#EXTINF:-1,Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Animal Planet HD
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-,BBC earth
@@ -715,9 +717,13 @@ http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 #EXTINF:-1,NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1,Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Discovery Channel
 https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
-#EXTINF:-1,Discovery Jeet
+#EXTINF:-1,Investigation Discovery
 https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
 #EXTINF:-1,TLC HD
 https://streamitv.multitvsolution.in/idvo/tlchd.m3u8
