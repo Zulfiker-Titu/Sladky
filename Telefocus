@@ -468,9 +468,9 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,Star Movies UAE
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/54341
 #EXTINF:-1,Star Movies India
-http://175.41.46.16:8081/hls/2.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 #EXTINF:-1,HBO HD
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1,HBO Asia
