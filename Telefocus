@@ -259,6 +259,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 http://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1,B Kids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:-1,Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,Da Vinci
@@ -473,10 +475,10 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1,HBO
+#EXTINF:-1,HBO (Opt-1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
-#EXTINF:-1,HBO Zone
-http://live.highstream.club/live/HBOZone/playlist.m3u8
+#EXTINF:-1,HBO (Opt-2)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1,HBO Signature
 http://live.highstream.club/live/HBOSignature/playlist.m3u8
 #EXTINF:-1,Sony Movies
@@ -525,8 +527,8 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1,Fox
 http://103.47.132.165/PLTV/88888888/224/3221227137/3.m3u8
-#EXTINF:-1,Fox Movies
-https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+#EXTINF:-1,1
+http://tcl73tsv.megatv.fun/iptv/5L5VZWMHF5SSYK/5022/index.m3u8
 #EXTINF:-1,FX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1,Fox Crime
