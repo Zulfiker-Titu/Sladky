@@ -266,13 +266,13 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-1)
-https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://edge4.bioscopelive.com/hls/anonymous/M3HRW1TMA-R665pv4U6tzw/1599491957/ten_sports_1.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1,Sony Ten 2 (Opt-1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 #EXTINF:-1,Sony Ten 2 (Opt-2)
-https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://edge4.bioscopelive.com/hls/anonymous/uJTwBiU-BLUyEjFGrif3gQ/1599492198/ten_sports_2.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-1)
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1582605000_4b1c79efce6656ccd86924f6e1e75b93
 #EXTINF:-1,Sony Ten 3 (Opt-2)
@@ -280,7 +280,7 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:-1,Sony SIX (Opt-1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 #EXTINF:-1,Sony SIX (Opt-2)
-https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://edge4.bioscopelive.com/hls/anonymous/qDCPWHLgqZfHLBdxnOryBQ/1599492279/sony_six.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-01)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1,Star Sports 1 (Opt-02)
