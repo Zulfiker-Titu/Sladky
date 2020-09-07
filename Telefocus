@@ -521,10 +521,10 @@ http://45.249.187.238:8081/hls/new13.m3u8
 http://116.203.225.253:25461/live/iMRxAu90Fm/O6OZNuQ2ON/2.m3u8
 #EXTINF:-1,MY Comedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1,FOX Action Movies (Opt-01)
+#EXTINF:-1,FOX Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1,Fox Action Movies (Opt-02)
-https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
+#EXTINF:-1,Fox
+http://103.47.132.165/PLTV/88888888/224/3221227137/3.m3u8
 #EXTINF:-1,Fox Movies
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1,FX
