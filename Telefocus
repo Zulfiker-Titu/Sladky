@@ -309,6 +309,8 @@ http://otv.ftpbd.net/streams/113/index.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
 http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8614?checkedby:hlscat.com
 #EXTINF:-1,Star Cricket
 http://boyztoyz.us/RonDenston/15.05.19/7517
 #EXTINF:-1,Abu Dhabi Sports 1
@@ -493,6 +495,8 @@ http://live.highstream.club/live/HBOSignature/playlist.m3u8
 http://51.52.156.22:8888/http/009
 #EXTINF:-1,WB TV
 http://live4.ocnttv.com:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1,Osn Movies HD
+http://62.210.181.164:7777/yacinenew448/yacinenew448/105
 #EXTINF:-1,SKY CINEMA24 UHD
 http://hrv.00387.info/GER:SKYCINEMA24UHD/index.m3u8?token=test
 #EXTINF:-1,MBC MAX HD
