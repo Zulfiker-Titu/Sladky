@@ -98,7 +98,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD (Opt-01)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD (Opt-02)
-http://robi.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD
 http://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7_H8dWEkZhk/WKHdX8JCZNI/AAAAAAAAACI/Ysc-AjiUMfkR1tehUK8NcvWOTvdSch-pgCLcB/s280/Rupashi%2BBangla.png" group-title="Entertainment",Ruposhi Bangla
@@ -106,18 +106,18 @@ http://robi.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-01)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-02)
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-03)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/jalsha.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies (Opt-01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies
 http://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies (Opt-02)
-http://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-1)
+http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla (Opt-1)
 http://103.205.133.19/hls/zeebangla.m3u8?banglatvbkash
@@ -345,8 +345,8 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1,A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
-#EXTINF:-1,Bein Sports
-http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
+#EXTINF:-1,Bein Sports HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/3159
 #EXTINF:-1,Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,ART Sports 1
@@ -399,6 +399,10 @@ https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1,Action Sports 4U
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,NTV SPORTS HD
+http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:-1,ESPN Brazil
+http://189.91.128.150:5555/udp/227.10.20.81:1234
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -441,10 +445,12 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 http://z5amshls.akamaized.net/zeenews/tracks-v1a1/index.m3u8
 #EXTINF:-1,LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1,CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,Saudi Quran
-http://45.249.187.238:8081/hls/new11.m3u8
-#EXTINF:-1,Saudi Sunnah
 http://45.249.187.238:8081/hls/new15.m3u8
+#EXTINF:-1,Saudi Sunnah
+http://45.249.187.238:8081/hls/new11.m3u8
 #EXTINF:-1,Peace TV
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,Madani TV
@@ -457,6 +463,8 @@ http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.strea
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
 #EXTINF:-1,Distro TV
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8
+#EXTINF:-1,afn
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10355
 #EXTINF:-1,FOOD 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,The Outdoor Cooking Channel
@@ -518,7 +526,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 #EXTINF:-1,Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,AXN (Opt-01)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 #EXTINF:-1,AXN (Opt-02)
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1,amc
@@ -545,8 +553,10 @@ http://103.47.132.165/PLTV/88888888/224/3221227137/3.m3u8
 http://tcl73tsv.megatv.fun/iptv/5L5VZWMHF5SSYK/5022/index.m3u8
 #EXTINF:-1,FX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
-#EXTINF:-1,Fox Movies
+#EXTINF:-1,Fox Movies (Opt-1)
 http://103.47.132.164/PLTV/88888888/224/3221227119/index.m3u8
+#EXTINF:-1,Fox Movies (Opt-2)
+http://ip2121.com:8081/live2/foxpre/playlist.m3u8
 #EXTINF:-1,Fox Crime
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1,E!
@@ -573,8 +583,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1,WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1,7 HD
-http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Osn Movies HD
+http://62.210.181.164:7777/yacinenew448/yacinenew448/105
 #EXTINF:-1,Sony Pix HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Cinemax HD
@@ -733,6 +743,8 @@ http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 http://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,VoA TV
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voa.stream/live-orgin/voa.stream/chunks.m3u8
+#EXTINF:-1,NAT GEO
+http://nodemaster.homelinux.com/_NATGEO/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,NAT GEO WILD
 http://robi.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
@@ -781,19 +793,21 @@ http://45.126.83.51/dr9445/h/h16/01.m3u8
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
 #EXTINF:-1,Better Health TV
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-#EXTINF:-1,English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1,TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 #EXTINF:-1,Film On TV
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1,M
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1,TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1,Fashion TV 1
+#EXTINF:-1,Fashion TV (Opt-1)
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1,Fashion TV 2
+#EXTINF:-1,Fashion TV (Opt-2)
+https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8
+#EXTINF:-1,Fashion Teen (Opt-1)
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Fashion TV 3
+#EXTINF:-1,Fashion Teen (Opt-2)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1,WF
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
