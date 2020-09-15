@@ -84,7 +84,7 @@ http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="News",Somoy TV
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="Documentary",Fox Life
-http://robi.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+http://randomserver.site:2086/live/crystal/12345/88739.m3u8?checkedby
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic
@@ -553,12 +553,16 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1,FOX Action Movies (Opt-2)
 http://103.135.208.14/live/ibox/bd/136.m3u8
+#EXTINF:-1,FOX PREMIUM ACTION
+http://randomserver.site:2086/live/Bria/Bria/88746.m3u8?checkedby
 #EXTINF:-1,Fox
 http://103.47.132.165/PLTV/88888888/224/3221227137/3.m3u8
 #EXTINF:-1,1
 http://tcl73tsv.megatv.fun/iptv/5L5VZWMHF5SSYK/5022/index.m3u8
 #EXTINF:-1,FX
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
+http://ingrid.ltd:25461/Melon3175/Melon7531/3668
+#EXTINF:-1,FXM
+http://ingrid.ltd:25461/Melon3175/Melon7531/19682
 #EXTINF:-1,Fox Movies (Opt-1)
 http://103.47.132.164/PLTV/88888888/224/3221227119/index.m3u8
 #EXTINF:-1,Fox Movies (Opt-2)
@@ -661,8 +665,10 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,Colors HD
 http://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Colors
+#EXTINF:-1,Colors (Opt-1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF:-1,Colors (Opt-2)
+http://103.205.133.44:1935/live/colors/playlist.m3u8
 #EXTINF:-1,Colors Cineplex
 http://iptv.mirrorace.net/?channelid=482
 #EXTINF:-1,Sony TV HD (Opt-01)
@@ -773,8 +779,10 @@ http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 #EXTINF:-1,NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1,Discovery
+#EXTINF:-1,Discovery (Opt-1)
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Discovery (Opt-2)
+http://iptvclub.live:25461/AazgnEiu7hApIL8/QUeZ5KVouljjMo1/56516
 #EXTINF:-1,Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Discovery Channel
