@@ -545,8 +545,10 @@ http://45.249.187.238:8081/hls/new13.m3u8
 http://116.203.225.253:25461/live/iMRxAu90Fm/O6OZNuQ2ON/2.m3u8
 #EXTINF:-1,MY Comedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1,FOX Action Movies
+#EXTINF:-1,FOX Action Movies (Opt-1)
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1,FOX Action Movies (Opt-2)
+http://103.135.208.14/live/ibox/bd/136.m3u8
 #EXTINF:-1,Fox
 http://103.47.132.165/PLTV/88888888/224/3221227137/3.m3u8
 #EXTINF:-1,1
@@ -596,7 +598,7 @@ http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Flix HD
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Flix
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+http://103.135.208.14/live/ibox/bd/125.m3u8
 #EXTINF:-1,& Prive HD
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& TV HD
