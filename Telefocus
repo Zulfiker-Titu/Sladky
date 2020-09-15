@@ -347,6 +347,10 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1,Bein Sports HD
 http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/3159
+#EXTINF:-1,Bein Sorts 1 HD
+https://pvqyb3godz24-hls-live.5centscdn.com/sport/beinsport2.stream/playlist.m3u8
+#EXTINF:-1,Super Variety 3
+http://51.210.118.147:25461/live/omer/omer/61895.m3u8?token=GBtcVEVfEgkVCVABUQFbVQteAQZfAAUAAwYGBQICCVVaXQUBDwAFUgAaShoQFhEDWAtoX10SXA4FWglRSkNNRwZLa1xSFQoRBQxVD0FOQRJQC1IUAwBKGkQLVEZcD01YDxUWUE5DVUFZWQpnBwcVD1oDFQxXRQpUGEBfCjkFXVkCV1AXDBUBERsaD0sTQFkITApbGhtSD0xGA0QBRFtWQQ9VGBdVWEVdQ0ofGllAISEbShVTQUQDVkcLXwpEWxpZUEwMFxoVWUBoSgNLFxAGB1QDRRQDElYaGEBdBR4+W1sNV1FWQl5fXUQaXBpSQE9EVAlZX01fFGdEC1RGXA9NWA9E
 #EXTINF:-1,Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,ART Sports 1
@@ -587,6 +591,8 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1,Osn Movies HD
 http://62.210.181.164:7777/yacinenew448/yacinenew448/105
+#EXTINF:-1,Sci-fi 4U
+https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Sony Pix HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Cinemax HD
@@ -727,6 +733,8 @@ https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8
 https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,atv HD
 https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+#EXTINF:-1,Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,Wion TV
@@ -745,12 +753,14 @@ http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 http://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,VoA TV
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voa.stream/live-orgin/voa.stream/chunks.m3u8
+#EXTINF:-1,H2
+http://185.236.229.27:8000/play/vmM0SsP5@3RqM70Z
 #EXTINF:-1,NAT GEO
 http://nodemaster.homelinux.com/_NATGEO/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,NAT GEO WILD
-http://robi.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+http://randomserver.site:2086/live/Bria/Bria/88790.m3u8?checkedby
 #EXTINF:-1,NAT GEO PEOPLE
-http://robi.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227127/index.m3u8
 #EXTINF:-1,National Geographic HD (Opt-1)
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1,National Geographic HD (Opt-2)
