@@ -247,8 +247,12 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1,Disney Channel (Opt-2)
 http://103.47.132.165/PLTV/88888888/224/3221227183/2.m3u8
+#EXTINF:-1,Disney Channel (Opt-3)
+http://p.dtv.sx:80/live/visiontv/775142/06574.ts
 #EXTINF:-1,Disney JR
 http://103.47.132.165/PLTV/88888888/224/3221227539/4.m3u8
+#EXTINF:-1,Disney Junior
+http://p.dtv.sx:80/live/visiontv/775142/06573.ts
 #EXTINF:-1,Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 #EXTINF:-1,Cbeebies BBC
@@ -361,12 +365,18 @@ http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ART Sports 3
 http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nova Sports 1
-https://h1-s5.c.markiza.sk/hls/novasport1-hd-master.m3u8
-#EXTINF:-1,Nova Sports 2
-https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8
-#EXTINF:-1,RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1,Nova Sports 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/20767.ts
+#EXTINF:-1,True Premier Football HD 1
+http://ip2121.com:8081/at1/ENG1/chunks.m3u8
+#EXTINF:-1,True Premier Football HD 2
+http://ip2121.com:8081/at1/ENG2/chunks.m3u8
+#EXTINF:-1,True Premier Football HD 3
+http://ip2121.com:8081/at1/ENG3/chunks.m3u8
+#EXTINF:-1,RTSH Sports
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+#EXTINF:-1,EPT Sports HD
+http://p.dtv.sx:80/live/visiontv/775142/19812.ts
 #EXTINF:-1,rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1,Dsport
@@ -505,8 +515,22 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
 #EXTINF:-1,HBO (Opt-2)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1,HBO Signature
-http://live.highstream.club/live/HBOSignature/playlist.m3u8
+#EXTINF:-1,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/1.m3u8?token=Zalogi
+#EXTINF:-1,HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/1.m3u8?token=Zalogi
+#EXTINF:-1,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
+#EXTINF:-1,Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/1.m3u8?token=Zalogi
+#EXTINF:-1,Bein Movies 1
+http://fariszah.myq-see.com:8008/live/demo/demo/21585.m3u8
+#EXTINF:-1,Bein Movies 2
+http://fariszah.myq-see.com:8008/live/demo/demo/21586.m3u8
+#EXTINF:-1,Bein Movies 3
+http://fariszah.myq-see.com:8008/live/demo/demo/21587.m3u8
+#EXTINF:-1,Bein Movies 4
+http://fariszah.myq-see.com:8008/live/demo/demo/21588.m3u8
 #EXTINF:-1,Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF:-1,WB TV
@@ -571,8 +595,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227119/index.m3u8
 http://ip2121.com:8081/live2/foxpre/playlist.m3u8
 #EXTINF:-1,Fox Crime
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
-#EXTINF:-1,E!
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTSH Film
+http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
 #EXTINF:-1,Star World (UAE)
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,Star World (India)
@@ -601,16 +625,14 @@ http://62.210.181.164:7777/yacinenew448/yacinenew448/105
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Sony Pix HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,Cinemax HD
-https://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan
 #EXTINF:-1,Zee Cafe HD
 http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Picture HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1,& Flix HD
+#EXTINF:-1,& Flix HD (Opt-1)
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,& Flix
-http://103.135.208.14/live/ibox/bd/125.m3u8
+#EXTINF:-1,& Flix HD (Opt-2)
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Prive HD
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& TV HD
