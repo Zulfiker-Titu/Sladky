@@ -357,6 +357,10 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/3159
 #EXTINF:-1,Bein Sorts 1 HD
 https://pvqyb3godz24-hls-live.5centscdn.com/sport/beinsport2.stream/playlist.m3u8
+#EXTINF:-1,Bein Sports Extra
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1,TVRI SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1,Super Variety 3
 http://51.210.118.147:25461/live/omer/omer/61895.m3u8?token=GBtcVEVfEgkVCVABUQFbVQteAQZfAAUAAwYGBQICCVVaXQUBDwAFUgAaShoQFhEDWAtoX10SXA4FWglRSkNNRwZLa1xSFQoRBQxVD0FOQRJQC1IUAwBKGkQLVEZcD01YDxUWUE5DVUFZWQpnBwcVD1oDFQxXRQpUGEBfCjkFXVkCV1AXDBUBERsaD0sTQFkITApbGhtSD0xGA0QBRFtWQQ9VGBdVWEVdQ0ofGllAISEbShVTQUQDVkcLXwpEWxpZUEwMFxoVWUBoSgNLFxAGB1QDRRQDElYaGEBdBR4+W1sNV1FWQl5fXUQaXBpSQE9EVAlZX01fFGdEC1RGXA9NWA9E
 #EXTINF:-1,Bayern Munich TV
