@@ -284,10 +284,8 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-1)
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-2)
-http://175.41.46.15/2.flv
-#EXTINF:-1,Sony Ten 1 (Opt-3)
 https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1,Sony Ten 1 (Opt-4)
+#EXTINF:-1,Sony Ten 1 (Opt-3)
 http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-1)
 http://175.41.46.15/4.flv
@@ -311,6 +309,8 @@ http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 http://195.181.168.3:49798/STARSP_1HD/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-02)
 http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1,Star Sports 1 (Opt-03)
+http://175.41.46.15/2.flv
 #EXTINF:-1,Star Sports 1 Hindi (Opt-1)
 http://195.181.168.3:49798/STARSP_HINDI/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi (Opt-2)
