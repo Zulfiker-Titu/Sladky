@@ -747,10 +747,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
 http://103.205.133.44:1935/live/colors/playlist.m3u8
 #EXTINF:-1,Colors Cineplex
 http://iptv.mirrorace.net/?channelid=482
-#EXTINF:-1,Sony TV HD (Opt-01)
-http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
-#EXTINF:-1,Sony TV HD (Opt-02)
-http://103.141.66.36/bpk-tv/10401/default/manifest.mpd
+#EXTINF:-1,Sony TV HD
+http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,Sony TV
 http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
 #EXTINF:-1,SONY SET MAX HD
