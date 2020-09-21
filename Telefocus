@@ -29,6 +29,8 @@ http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Entertainment",Channel 9 (Opt-02)
 http://45.249.187.238:8081/hls/live3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Entertainment",Channel 9 (Opt-03)
+http://otv.ftpbd.net/streams/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/240px-Channel24logo.svg.png" group-title="News",Channel 24
 http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Entertainment",Channel i
@@ -37,14 +39,18 @@ http://tempt.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="News",DBC News
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Entertainment",Deepto TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Entertainment",Deepto TV (Opt-1)
 http://45.249.187.238:8081/hls/new22.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Entertainment",Deepto TV (Opt-2)
+http://otv.ftpbd.net/streams/103/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Entertainment",Desh TV
 http://103.205.133.19/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
 http://45.249.187.238:8081/hls/new3.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News",Ekattor TV
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News",Ekattor TV (Opt-1)
 http://175.41.46.15/10.flv
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News",Ekattor TV (Opt-2)
+http://otv.ftpbd.net/streams/119/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Entertainment",Eekushey TV
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-01)
@@ -53,6 +59,8 @@ http://45.249.187.238:8081/hls/live5.m3u8
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-03)
 http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-03)
+http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ExR2n3p6MYc/W78bjBdKUHI/AAAAAAAAAWU/Wy6_RLabNJYgTeNcMGAbj1rgtX1k3KVpwCLcBGAs/s320/Gazi TV-live-cricket-gazi-tv-live.png" group-title="Spotrs",BD IP (Live Only)
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
@@ -101,8 +109,10 @@ http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 http://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7_H8dWEkZhk/WKHdX8JCZNI/AAAAAAAAACI/Ysc-AjiUMfkR1tehUK8NcvWOTvdSch-pgCLcB/s280/Rupashi%2BBangla.png" group-title="Entertainment",Ruposhi Bangla
 http://robi.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-2)
+http://otv.ftpbd.net/streams/127/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-01)
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-02)
@@ -114,7 +124,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies SD
 http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla (Opt-1)
-http://103.205.133.19/hls/zeebangla.m3u8?banglatvbkash
+http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla (Opt-2)
 http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
@@ -287,12 +297,16 @@ http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-3)
 http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+#EXTINF:-1,Sony Ten 1 (Opt-4)
+http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-1)
 http://175.41.46.15/4.flv
 #EXTINF:-1,Sony Ten 2 (Opt-2)
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-3)
 http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+#EXTINF:-1,Sony Ten 2 (Opt-4)
+http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-1)
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-2)
@@ -305,12 +319,16 @@ http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 http://103.49.168.172:8081/ebox/six/chunks.m3u8
 #EXTINF:-1,Sony SIX (Opt-2)
 http://103.214.202.218:8081/live/sonysix/chunks.m3u8
+#EXTINF:-1,Sony SIX (Opt-3)
+http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-01)
 http://195.181.168.3:49798/STARSP_1HD/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-02)
 http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-03)
 http://175.41.46.15/2.flv
+#EXTINF:-1,Star Sports 1 (Opt-04)
+http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi (Opt-1)
 http://195.181.168.3:49798/STARSP_HINDI/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi (Opt-2)
@@ -319,14 +337,20 @@ http://randomserver.site:2086/Bria/Bria/94792?checkedby:rockettvapp.ml
 http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://195.181.168.3:49798/STARSP_2HD/index.m3u8
+#EXTINF:-1,Star Sports 2 (Opt-3)
+http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
 http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
 http://103.214.202.218:8081/live/select1/chunks.m3u8
+#EXTINF:-1,Star Sports Select 1 (Opt-3)
+http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
 http://103.214.202.218:8081/live/select2/chunks.m3u8
+#EXTINF:-1,Star Sports Select 2 (Opt-3)
+http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:-1,Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
 #EXTINF:-1,Sky Sports Cricket FHD
@@ -538,7 +562,7 @@ http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/54341
 #EXTINF:-1,Star Movies India
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 #EXTINF:-1,HBO HD
-http://136.243.177.164/HBO/playlist.m3u8
+http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO (Opt-1)
@@ -747,8 +771,10 @@ http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
 #EXTINF:-1,SONY SET MAX HD
 http://iptv.mirrorace.net/?channelid=476
-#EXTINF:-1,SONY SET MAX
+#EXTINF:-1,SONY SET MAX (Opt-1)
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1,SONY SET MAX (Opt-2)
+http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1,Sony Max 2
 http://iptv.mirrorace.net/?channelid=483
 #EXTINF:-1,Sony SAB HD
@@ -838,7 +864,7 @@ http://randomserver.site:2086/live/Bria/Bria/88790.m3u8?checkedby
 #EXTINF:-1,NAT GEO PEOPLE
 http://103.47.132.165/PLTV/88888888/224/3221227127/index.m3u8
 #EXTINF:-1,National Geographic HD (Opt-1)
-http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1,National Geographic HD (Opt-2)
 http://136.243.177.164/NATIONALGEOGRAPHIC/playlist.m3u8
 #EXTINF:-1,YTN Science
