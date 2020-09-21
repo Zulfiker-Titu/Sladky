@@ -383,12 +383,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 http://51.210.118.147:25461/live/omer/omer/61895.m3u8?token=GBtcVEVfEgkVCVABUQFbVQteAQZfAAUAAwYGBQICCVVaXQUBDwAFUgAaShoQFhEDWAtoX10SXA4FWglRSkNNRwZLa1xSFQoRBQxVD0FOQRJQC1IUAwBKGkQLVEZcD01YDxUWUE5DVUFZWQpnBwcVD1oDFQxXRQpUGEBfCjkFXVkCV1AXDBUBERsaD0sTQFkITApbGhtSD0xGA0QBRFtWQQ9VGBdVWEVdQ0ofGllAISEbShVTQUQDVkcLXwpEWxpZUEwMFxoVWUBoSgNLFxAGB1QDRRQDElYaGEBdBR4+W1sNV1FWQl5fXUQaXBpSQE9EVAlZX01fFGdEC1RGXA9NWA9E
 #EXTINF:-1,Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
-#EXTINF:-1,ART Sports 1
-http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ART Sports 2
-http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ART Sports 3
-http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nova Sports 1 HD
 http://p.dtv.sx:80/live/visiontv/775142/20767.ts
 #EXTINF:-1,True Premier Football HD 1
