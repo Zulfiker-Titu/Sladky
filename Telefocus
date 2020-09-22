@@ -409,8 +409,6 @@ http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28731?play_token=Zkl
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,TVRI SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1,Super Variety 3
-http://51.210.118.147:25461/live/omer/omer/61895.m3u8?token=GBtcVEVfEgkVCVABUQFbVQteAQZfAAUAAwYGBQICCVVaXQUBDwAFUgAaShoQFhEDWAtoX10SXA4FWglRSkNNRwZLa1xSFQoRBQxVD0FOQRJQC1IUAwBKGkQLVEZcD01YDxUWUE5DVUFZWQpnBwcVD1oDFQxXRQpUGEBfCjkFXVkCV1AXDBUBERsaD0sTQFkITApbGhtSD0xGA0QBRFtWQQ9VGBdVWEVdQ0ofGllAISEbShVTQUQDVkcLXwpEWxpZUEwMFxoVWUBoSgNLFxAGB1QDRRQDElYaGEBdBR4+W1sNV1FWQl5fXUQaXBpSQE9EVAlZX01fFGdEC1RGXA9NWA9E
 #EXTINF:-1,Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,Nova Sports 1 HD
@@ -442,9 +440,7 @@ http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1,All Sports TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1,Euro Sports 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
-#EXTINF:-1,Euro Sports 2
-http://91.126.39.98:8086/udp/224.168.32.4:3204
+http://194.54.183.122:8000/play/a01o
 #EXTINF:-1,MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 #EXTINF:-1,Fight Box HD
