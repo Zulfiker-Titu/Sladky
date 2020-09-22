@@ -277,6 +277,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28798?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,CN HD+
 http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10346.ts
+#EXTINF:-,CN (Opt-1)
+http://flowfhd.xyz:25461/Michelle/2020/8514
 #EXTINF:-,CN (Opt-2)
 http://103.135.208.14/live/ibox/bd/2.m3u8
 #EXTINF:-1,KETNET JUNIOR
@@ -343,6 +345,8 @@ http://otv.ftpbd.net/streams/104/index.m3u8
 http://195.181.168.3:49798/STARSP_HINDI/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi (Opt-2)
 http://randomserver.site:2086/Bria/Bria/94792?checkedby:rockettvapp.ml
+#EXTINF:-1,Star Sports 1 Hindi (Opt-3)
+https://cutt.ly/ipl-rockettvapp-hindi?RocketTVApp.ml
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
@@ -1077,6 +1081,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/89.ts
 #EXTINF:-1,Closal HD
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/colosal.stream/live-orgin/colosal.stream/chunks.m3u8
+#EXTINF:-1,City
+http://zigfreed.ru/A7Z/300.m3u8
 #EXTINF:-1,[V]
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28735?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,Zeta TV HD
