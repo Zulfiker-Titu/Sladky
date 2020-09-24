@@ -449,8 +449,10 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1,All Sports TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1,Euro Sports 1
+#EXTINF:-1,Eurosports 1 (Opt-1)
 http://194.54.183.122:8000/play/a01o
+#EXTINF:-1,Eurosports 1 (Opt-2)
+http://rstr0.teamnetwork.co/stream125/stream.m3u8
 #EXTINF:-1,MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 #EXTINF:-1,Fight Box HD
@@ -469,7 +471,7 @@ https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
 http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:-1,ESPN Brazil (Opt-1)
 http://189.91.128.150:5555/udp/227.10.20.81:1234
-#EXTINF:-1,ESPN Brazil (Opt-1)
+#EXTINF:-1,ESPN Brazil (Opt-2)
 http://nodemaster.homelinux.com/ESPNBRASIL-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,Espn HD
 http://nodemaster.homelinux.com/ESPN-HD/mpegts?token=cOAOwU8SC2
@@ -653,8 +655,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,Filmbox
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVS WESTERN MOVIES
-http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1,STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1,AXN SPIN
