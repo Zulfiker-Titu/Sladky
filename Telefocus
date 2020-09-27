@@ -277,6 +277,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227539/4.m3u8
 http://p.dtv.sx:80/live/visiontv/775142/06573.ts
 #EXTINF:-1,Disney Junior (Opt-2)
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28789?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1,Disney Junior (Opt-3)
+http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28656?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1,Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 #EXTINF:-1,Cbeebies BBC
@@ -344,11 +346,11 @@ http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 #EXTINF:-1,Sony SIX (Opt-3)
 http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-01)
-http://195.181.168.3:49798/STARSP_1HD/index.m3u8
+http://aklivetv.com:8080/gazitv/mono.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-02)
 http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-03)
-http://175.41.46.15/2.flv
+http://aklivetv.com:8080/starsports1/mono.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-04)
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi (Opt-1)
@@ -818,7 +820,7 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1,Shemaroo Hindi TV
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,Colors HD
-http://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/32159
 #EXTINF:-1,Colors (Opt-1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
 #EXTINF:-1,Colors (Opt-2)
@@ -828,7 +830,7 @@ http://iptv.mirrorace.net/?channelid=482
 #EXTINF:-1,Sony TV HD
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,Sony TV
-http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
+http://iptvtree.net:8080/13354/27c12697/1072
 #EXTINF:-1,SONY SET MAX HD
 http://iptv.mirrorace.net/?channelid=476
 #EXTINF:-1,SONY SET MAX (Opt-1)
@@ -911,8 +913,8 @@ http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34481?play_token=vRkKehJUOG&tok
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28815?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-,BBC earth
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
-#EXTINF:-1,BBC lifestyle
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+#EXTINF:-1,Sony BBC Earth
+http://iptvtree.net:8080/13354/27c12697/192995
 #EXTINF:-1,FOX Life HD
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1,History TV HD
@@ -993,6 +995,8 @@ https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1,TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
+#EXTINF:-1,Persona HD
+http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28651?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1,Fashion TV (Opt-1)
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 #EXTINF:-1,Fashion TV (Opt-2)
