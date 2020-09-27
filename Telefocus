@@ -1137,5 +1137,7 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1,Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1,Tile Mousiki
+http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1,Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
