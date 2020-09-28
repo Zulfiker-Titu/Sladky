@@ -364,7 +364,7 @@ http://aklivetv.com:8080/starsports1/mono.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-04)
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi (Opt-1)
-http://195.181.168.3:49798/STARSP_HINDI/index.m3u8
+http://35.227.143.189:25461/live/5C4SK1sO3s/3piZLBUJu9/1.m3u8
 #EXTINF:-1,Star Sports 1 Hindi (Opt-2)
 http://randomserver.site:2086/Bria/Bria/94792?checkedby:rockettvapp.ml
 #EXTINF:-1,Star Sports 1 Hindi (Opt-3)
@@ -425,10 +425,36 @@ http://nodemaster.homelinux.com/SPORTV2-HD/mpegts?token=cOAOwU8SC2
 http://nodemaster.homelinux.com/SPORTV3-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1,Bein Sports 1
-http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28732?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1,Bein Sports 2
-http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28731?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1,GOL TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64107
+#EXTINF:-1,Eleven Sports 1
+http://tv-swirtvteam.info/oq/co.m3u8?sid=F5357911&id=11633&q=tvhd
+#EXTINF:-1,Eleven Sports 2
+http://tv-swirtvteam.info/oq/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
+#EXTINF:-1,Eleven Sports 3
+http://tv-swirtvteam.info/oq/co.m3u8?sid=27C47133&id=13105&q=tvhd
+#EXTINF:-1,Sports Fight HD
+http://tv-swirtvteam.info/oq/co.m3u8?sid=F3CF3C96&id=12311&q=tvhd
+#EXTINF:-1,Bein Sports HD 1
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/306
+#EXTINF:-1,Bein Sports HD 2
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/30u
+#EXTINF:-1,Bein Sports HD 3
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/308
+#EXTINF:-1,Bein Sports HD 4
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/299
+#EXTINF:-1,Bein Sports HD 5
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/300
+#EXTINF:-1,Bein Sports HD 6
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/301
+#EXTINF:-1,Bein Sports HD 7
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/302
+#EXTINF:-1,Bein Sports HD 8
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/303
+#EXTINF:-1,Bein Sports HD 9
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/304
+#EXTINF:-1,Bein Sports HD 10
+http://62.210.168.203:25461/serverpc3/uaYjwFr5Fu/305
 #EXTINF:-1,Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,TVRI SPORT HD
@@ -769,8 +795,10 @@ http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Flix HD (Opt-2)
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,& Prive HD
+#EXTINF:-1,& Prive HD (Opt-1)
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,& Prive HD (Opt-2)
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& TV HD
 http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34479?play_token=vRkKehJUOG&token=QhVcUhcJRggXUwQDAgRUVVkDAQRQUQdTVgFWUFUGUAIMUg0LU1ZWC1ZGGURBEkJRAFtpWgVEXlBRUAJRSkAXElxFa1oAQ14QB1wBVwFQEhhDQl9eBEReUlBdAFhfVVRWDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,& TV
@@ -944,7 +972,7 @@ http://nodemaster.homelinux.com/_NATGEO/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,NAT GEO WILD
 http://randomserver.site:2086/live/Bria/Bria/88790.m3u8?checkedby
 #EXTINF:-1,NAT GEO PEOPLE
-http://103.47.132.165/PLTV/88888888/224/3221227127/index.m3u8
+http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28658?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs=
 #EXTINF:-1,National Geographic HD (Opt-1)
 http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1,National Geographic HD (Opt-2)
@@ -1029,6 +1057,8 @@ http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28758?play_token=Zkl
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,Arirang (Opt-2)
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28813?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1,Subrang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,SBI Music HD
 http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 #EXTINF:-1,Kerrang!
@@ -1141,5 +1171,11 @@ http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1,Tile Mousiki
 http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1,Music HD
+http://tv-swirtvteam.info/oq/co.m3u8?sid=B9EFC54E&id=10259&q=tvhd
+#EXTINF:-1,Apeha
+http://78.129.228.178/iptv/RRAQT4US9KGKE9/528/index.m3u8
+#EXTINF:-1,TRT Muzik
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
