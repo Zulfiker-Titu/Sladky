@@ -640,7 +640,7 @@ http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO (Opt-1)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1,HBO (Opt-2)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1,HBO Hits
