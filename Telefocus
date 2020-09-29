@@ -40,7 +40,7 @@ http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="News",DBC News
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Entertainment",Deepto TV (Opt-1)
-http://103.211.185.98:8082/8/index.m3u8?token=779992fa05ca5cead950dcb066705a1ae2439098-900b7fa6a35d746e7f7f22bce56910c3-1601312507-1601301707
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Entertainment",Deepto TV (Opt-2)
 http://otv.ftpbd.net/streams/103/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Entertainment",Desh TV
@@ -92,7 +92,7 @@ http://103.214.202.218:8081/live/ntv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment",NTV UK
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Entertainment",Nagorik TV
-http://103.211.185.98:8082/59/index.m3u8?token=20e0d44247dc654f6b33776ff7ded595571b4dfc-fc27a517d29b865874759561487b52e6-1601314834-1601304034
+http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="News",News 24
 http://tempt.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Entertainment",RTV
