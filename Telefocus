@@ -634,11 +634,9 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,Faith USA
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1,Star Movies Select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:-1,Star Movies UAE
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/54341
+http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,Star Movies India
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1,HBO HD
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1,HBO Asia
