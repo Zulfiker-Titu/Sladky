@@ -22,7 +22,7 @@ http://45.249.187.238:8081/hls/new24.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="National TV",BTV World
 http://templv3.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TKqgJ4g/images-jpeg.jpg" group-title="National TV",BTV Chottogram
-http://templv3:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?@amarnettv.live
+https://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Educational",Sangsad TV
 http://templv3.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Entertainment",Channel 9 (Opt-01)
@@ -156,7 +156,7 @@ http://185.59.222.234:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=am
 #EXTINF:-1 tvg-logo="http://www.telugumirchi.com/en/wp-content/uploads/2013/09/tollywood.png" group-title="Entertainment",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://jagoroni.tv/wp-content/uploads/2020/02/cropped-logo-90-2-3.png" group-title="Entertainment",Jagoroni TV
-http://templv3.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
+http://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="Entertainment",Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG" group-title="Entertainment",DD Bangla
