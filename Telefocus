@@ -619,8 +619,8 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1,FYI 18 TV HD
-http://robi.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://136.243.177.164/24KITCHEN/playlist.m3u8
 #EXTINF:-1,Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1,Hum Masala
