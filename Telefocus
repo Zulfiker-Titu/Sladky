@@ -357,6 +357,8 @@ http://103.49.168.172:8081/ebox/six/chunks.m3u8
 http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 #EXTINF:-1,Sony SIX (Opt-3)
 http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1,Sony SIX (Opt-4)
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/32156
 #EXTINF:-1,Star Sports 1 (Opt-01)
 http://aklivetv.com:8080/gazitv/mono.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-02)
