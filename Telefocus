@@ -125,6 +125,8 @@ http://otv.ftpbd.net/streams/127/index.m3u8
 http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-02)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-03)
+http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
 http://ccntv.anytv.live:8080/star-jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-2)
