@@ -649,8 +649,6 @@ http://45.249.187.238:8081/hls/new13.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1,HBO Signature
 http://me.zichannels.my.id/ch/sighd.m3u8
-#EXTINF:-1,HBO Max
-http://me.zichannels.my.id/ch/max.m3u8
 #EXTINF:-1,HBO Hits (Opt-1)
 http://me.zichannels.my.id/ch/hits.m3u8
 #EXTINF:-1,HBO Hits (Opt-2)
@@ -663,7 +661,9 @@ http://me.zichannels.my.id/ch/hbo.m3u8
 http://nodemaster.homelinux.com/HBO2-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,A HBO
 http://91.103.248.78:8000/play/50/index.m3u8
-#EXTINF:-1,Cinemax
+#EXTINF:-1,cinemax (Opt-1)
+http://me.zichannels.my.id/ch/max.m3u8
+#EXTINF:-1,Cinemax (Opt-2)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/1.m3u8?token=Zalogi
 #EXTINF:-1,TNT HD
 http://nodemaster.homelinux.com/TNT-HD/mpegts?token=cOAOwU8SC2
