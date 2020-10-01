@@ -499,8 +499,8 @@ http://84.22.33.210/FIGHTBOX/index.m3u8
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1,Sports TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Setanta Sports
-http://188.93.95.34:80/setanta_georgia/index.m3u8
+#EXTINF:-1,CH Sports
+http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8
 #EXTINF:-1,Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1,Action Sports 4U
