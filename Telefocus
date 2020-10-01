@@ -585,10 +585,8 @@ https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1,DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1,Zee News (Opt-1)
-http://z5amshls.akamaized.net/zeenews/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee News (Opt-2)
-http://t100v.com/play.php?id=48189
+#EXTINF:-1,Zee News
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
 #EXTINF:-1,India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
 #EXTINF:-1,LOK SABHA TV
@@ -916,7 +914,7 @@ http://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
-http://103.141.66.36/bpk-tv/10403/default/manifest.mpd
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee TV
 http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1,ZEE MUNDO
