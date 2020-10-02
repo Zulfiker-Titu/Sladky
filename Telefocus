@@ -694,15 +694,15 @@ http://62.210.181.164:7777/yacinenew448/yacinenew448/105
 #EXTINF:-1,SKY CINEMA24 UHD
 http://hrv.00387.info/GER:SKYCINEMA24UHD/index.m3u8?token=test
 #EXTINF:-1,MBC MAX HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC Bollywood
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/index_1.m3u8
 #EXTINF:-1,MBC 4
-https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+https://shls-mbc4-prod.dub.shahid.net/out/v1/index_1.m3u8
 #EXTINF:-1,MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,MN+
