@@ -551,6 +551,8 @@ http://203.162.235.41:16918
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28799?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,CNA World
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
+#EXTINF:-1,ABC News
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
 #EXTINF:-1,Bloombarg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1,NBC
