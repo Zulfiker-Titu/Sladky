@@ -633,8 +633,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
 http://62.210.181.164:7777/yacinetv2290/yacinetv2290/32
 #EXTINF:-1,Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1,Faith USA
-http://hls-live-media.cdn01.net/default/stream_14889.m3u8
+#EXTINF:-1,Bein Gourmet HD
+http://62.210.181.164:7777/yacinetv2290/yacinetv2290/33
 #EXTINF:-1,Star Movies Select HD
 http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,Star Movies India
