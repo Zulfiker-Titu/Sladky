@@ -553,6 +553,8 @@ http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28799?play_token=Zkl
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
 #EXTINF:-1,Bloombarg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1,CBN
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1,Al Jazeera
