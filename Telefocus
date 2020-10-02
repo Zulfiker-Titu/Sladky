@@ -629,8 +629,8 @@ http://136.243.177.164/24KITCHEN/playlist.m3u8
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1,Hum Masala
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
-#EXTINF:-1,DABL
-https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
+#EXTINF:-1,Fatafeat
+http://62.210.181.164:7777/yacinetv2290/yacinetv2290/32
 #EXTINF:-1,Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,Faith USA
@@ -672,7 +672,7 @@ http://nodemaster.homelinux.com/TNT-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,TNT Series HD
 http://nodemaster.homelinux.com/TNTSERIES-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,Bein Movies 1
-http://fariszah.myq-see.com:8008/live/demo/demo/21585.m3u8
+http://62.210.181.164:7777/yacinetv2290/yacinetv2290/31
 #EXTINF:-1,Bein Movies 2
 http://fariszah.myq-see.com:8008/live/demo/demo/21586.m3u8
 #EXTINF:-1,Bein Movies 3
