@@ -503,6 +503,8 @@ http://185.180.14.46/stream126/stream.m3u8
 http://185.180.14.46/stream127/stream.m3u8
 #EXTINF:-1,Digi Sports 2 HD
 http://185.180.14.46/stream128/stream.m3u8
+#EXTINF:-1,BTV 2
+http://live.btv2020.com:1935/live/btv2/playlist.m3u8
 #EXTINF:-1,MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 #EXTINF:-1,Fight Box HD
