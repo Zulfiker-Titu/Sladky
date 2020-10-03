@@ -781,6 +781,8 @@ http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1,Filmrise Free Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1,Grovy TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1,Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1,The Film Detective
