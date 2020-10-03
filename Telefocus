@@ -505,6 +505,8 @@ http://185.180.14.46/stream127/stream.m3u8
 http://185.180.14.46/stream128/stream.m3u8
 #EXTINF:-1,BTV 2
 http://live.btv2020.com:1935/live/btv2/playlist.m3u8
+#EXTINF:-1,S Sports
+http://115.76.91.167:9981/stream/channelid/1445803072?profile=pass
 #EXTINF:-1,MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 #EXTINF:-1,Fight Box HD
