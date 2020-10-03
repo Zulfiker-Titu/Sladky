@@ -496,7 +496,13 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1,Eurosports 1 (Opt-1)
 http://194.54.183.122:8000/play/a01o
 #EXTINF:-1,Eurosports 1 (Opt-2)
-http://rstr0.teamnetwork.co/stream125/stream.m3u8
+http://185.180.14.46/stream125/stream.m3u8
+#EXTINF:-1,Eurosports 2
+http://185.180.14.46/stream126/stream.m3u8
+#EXTINF:-1,Digi Sports 1 HD
+http://185.180.14.46/stream127/stream.m3u8
+#EXTINF:-1,Digi Sports 2 HD
+http://185.180.14.46/stream128/stream.m3u8
 #EXTINF:-1,MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 #EXTINF:-1,Fight Box HD
