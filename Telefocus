@@ -707,14 +707,18 @@ http://37.9.56.206:8000/play/a05g/index.m3u8
 http://62.210.181.164:7777/yacinenew448/yacinenew448/105
 #EXTINF:-1,SKY CINEMA24 UHD
 http://hrv.00387.info/GER:SKYCINEMA24UHD/index.m3u8?token=test
-#EXTINF:-1,MBC MAX HD
+#EXTINF:-1,MBC MAX HD (Opt-1)
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
-#EXTINF:-1,MBC 2 HD
+#EXTINF:-1,MBC MAX HD (Opt-2)
+http://channelsstream.xyz:8080/live/streeem/streeem/7.m3u8
+#EXTINF:-1,MBC 2 HD (Opt-1)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
+#EXTINF:-1,MBC 2 HD (Opt-2)
+http://channelsstream.xyz:8080/live/streeem/streeem/2.m3u8
 #EXTINF:-1,MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
-#EXTINF:-1,MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/index_1.m3u8
+#EXTINF:-1,MBC Bollywood HD
+http://channelsstream.xyz:8080/live/streeem/streeem/12.m3u8
 #EXTINF:-1,MBC 4
 https://shls-mbc4-prod.dub.shahid.net/out/v1/index_1.m3u8
 #EXTINF:-1,MNX
