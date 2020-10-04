@@ -1223,5 +1223,7 @@ http://78.129.228.178/iptv/RRAQT4US9KGKE9/528/index.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1,Xalastra TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1,Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
