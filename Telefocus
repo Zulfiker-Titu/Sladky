@@ -775,10 +775,8 @@ http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 https://chama.ml/channelgratisan-FOX
 #EXTINF:-1,FX
 http://ts.ec.cx:8080/a/hls1/fx.m3u8
-#EXTINF:-1,Fox Movies (Opt-1)
-http://103.47.132.164/PLTV/88888888/224/3221227119/index.m3u8
-#EXTINF:-1,Fox Movies (Opt-2)
-http://ip2121.com:8081/live2/foxpre/playlist.m3u8
+#EXTINF:-1,Fox Movies
+http://62.112.9.63:88/fox_movies/index.m3u8?token=test
 #EXTINF:-1,Fox Crime (Opt-1)
 http://194.54.183.122:8000/play/a01m
 #EXTINF:-1,Fox Crime (Opt-2)
