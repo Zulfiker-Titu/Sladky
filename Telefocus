@@ -448,23 +448,29 @@ http://tv-swirtvteam.info/oq/co.m3u8?sid=27C47133&id=13105&q=tvhd
 #EXTINF:-1,Sports Fight HD
 http://tv-swirtvteam.info/oq/co.m3u8?sid=F3CF3C96&id=12311&q=tvhd
 #EXTINF:-1,Bein Sports HD 1
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/1
+http://185.246.210.55:2200/EX/bein1hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports HD 2
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/2
+http://185.246.210.55:2200/EX/bein2hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports HD 3
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/3
+http://185.246.210.55:2200/EX/bein3hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports HD 4
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/4
+http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports HD 5
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/5
+http://185.246.210.55:2200/EX/bein5hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports HD 6
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/6
+http://185.246.210.55:2200/EX/bein6hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports HD 7
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/20
+http://185.246.210.55:2200/EX/bein7hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports HD 8
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/21
+http://185.246.210.55:2200/EX/bein8hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports HD 9
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/22
+http://185.246.210.55:2200/EX/bein9hd-ar/index.m3u8?token=
+#EXTINF:-1,Bein Sports HD 10
+http://185.246.210.55:2200/EX/bein10hd-ar/index.m3u8?token=
+#EXTINF:-1,Bein Sports HD 11
+http://185.246.210.55:2200/EX/bein11hd-ar/index.m3u8?token=
+#EXTINF:-1,Bein Sports HD 12
+http://185.246.210.55:2200/EX/bein12hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,TVRI SPORT HD
