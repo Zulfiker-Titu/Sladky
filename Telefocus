@@ -448,9 +448,9 @@ http://tv-swirtvteam.info/oq/co.m3u8?sid=27C47133&id=13105&q=tvhd
 #EXTINF:-1,Sports Fight HD
 http://tv-swirtvteam.info/oq/co.m3u8?sid=F3CF3C96&id=12311&q=tvhd
 #EXTINF:-1,Bein Sports HD 1
-http://185.246.210.55:2200/EX/bein1hd-ar/index.m3u8?token=
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 2
-http://185.246.210.55:2200/EX/bein2hd-ar/index.m3u8?token=
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 3
 http://185.246.210.55:2200/EX/bein3hd-ar/index.m3u8?token=
 #EXTINF:-1,Bein Sports HD 4
