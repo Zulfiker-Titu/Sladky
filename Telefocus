@@ -662,7 +662,7 @@ http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1,HBO HD (Opt-1)
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1,HBO HD (Opt-2)
-http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
+http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO (Opt-1)
@@ -762,7 +762,7 @@ http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,Movies Now
-http://45.249.187.238:8081/hls/new13.m3u8
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,Unic TV
 http://116.203.225.253:25461/live/iMRxAu90Fm/O6OZNuQ2ON/2.m3u8
 #EXTINF:-1,MY Comedy
