@@ -653,22 +653,20 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
 http://62.210.181.164:7777/yacinetv2290/yacinetv2290/32
 #EXTINF:-1,Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1,Bein Gourmet HD
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/33
 #EXTINF:-1,Star Movies Select HD
 http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,Star Movies India
 http://45.249.187.238:8081/hls/tsl-8.m3u8
-#EXTINF:-1,HBO HD (Opt-1)
+#EXTINF:-1,HBO (Opt-1)
 http://otv.ftpbd.net/streams/111/index.m3u8
-#EXTINF:-1,HBO HD (Opt-2)
+#EXTINF:-1,HBO (Opt-2)
 http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:-1,HBO (Opt-3)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1,HBO (Opt-1)
-http://45.249.187.238:8081/hls/new13.m3u8
-#EXTINF:-1,HBO (Opt-2)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1,HBO HD
+http://198.255.87.59:8080/INDIA_ENGLISH/HBO_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,HBO Signature
 http://me.zichannels.my.id/ch/sighd.m3u8
 #EXTINF:-1,HBO Hits (Opt-1)
@@ -691,14 +689,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/1.m3u8?token=Zalogi
 http://nodemaster.homelinux.com/TNT-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,TNT Series HD
 http://nodemaster.homelinux.com/TNTSERIES-HD/mpegts?token=cOAOwU8SC2
-#EXTINF:-1,Bein Movies 1
-http://62.210.181.164:7777/yacinetv2290/yacinetv2290/31
-#EXTINF:-1,Bein Movies 2
-http://fariszah.myq-see.com:8008/live/demo/demo/21586.m3u8
-#EXTINF:-1,Bein Movies 3
-http://fariszah.myq-see.com:8008/live/demo/demo/21587.m3u8
-#EXTINF:-1,Bein Movies 4
-http://fariszah.myq-see.com:8008/live/demo/demo/21588.m3u8
 #EXTINF:-1,Cine Life
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:-1,WB TV (Opt-1)
