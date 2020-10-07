@@ -669,8 +669,10 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1,HBO (Opt-2)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1,HBO Signature
+#EXTINF:-1,HBO Signature (Opt-1)
 http://me.zichannels.my.id/ch/sighd.m3u8
+#EXTINF:-1,HBO Signature (Opt-2)
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/90
 #EXTINF:-1,HBO Hits (Opt-1)
 http://me.zichannels.my.id/ch/hits.m3u8
 #EXTINF:-1,HBO Hits (Opt-2)
