@@ -271,10 +271,10 @@ http://139.59.13.228:8081/live/stream/playlist.m3u8
 https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
 #EXTINF:-1,Animax (Opt-2)
 http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1,Disvovery Kids (Opt-1)
+#EXTINF:-1,Disvovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
-#EXTINF:-1,Disvovery Kids (Opt-2)
-http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34483?play_token=vRkKehJUOG&token=QhVcUhcJRggXUwQDAgRUVVkDAQRQUQdTVgFWUFUGUAIMUg0LU1ZWC1ZGGURBEkJRAFtpWgVEXlBRUAJRSkAXElxFa1oAQ14QB1wBVwFQEhhDQl9eBEReUlBdAFhfVVRWDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1,Hungama Kids
+http://anytv.live:8080/live/saiful/saiful/372.m3u8
 #EXTINF:-1,NatGeo Kids
 https://tv4.live/api/stream/betofioshd@gmail.com/504142/livetv.epg/natgeo.kids.br.m3u8
 #EXTINF:-1,Boomerang
@@ -667,14 +667,16 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,HBO HD
 http://198.255.87.59:8080/INDIA_ENGLISH/HBO_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,HBO Signature
+#EXTINF:-1,HBO Signature (Opt-1)
 http://me.zichannels.my.id/ch/sighd.m3u8
+#EXTINF:-1,HBO Signature (Opt-2)
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
 #EXTINF:-1,HBO Hits (Opt-1)
 http://me.zichannels.my.id/ch/hits.m3u8
 #EXTINF:-1,HBO Hits (Opt-2)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/1.m3u8?token=Zalogi
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
 #EXTINF:-1,HBO Family
-http://ts.ec.cx:8080/a/hls1/hbofamily.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:-1,HBO
 http://me.zichannels.my.id/ch/hbo.m3u8
 #EXTINF:-1,HBO 2
