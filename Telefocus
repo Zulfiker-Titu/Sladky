@@ -69,6 +69,8 @@ http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
 http://ccntv.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IPL 4
 http://ns3035950.ip-164-132-160.eu/hls/stream.m3u8
+#EXTINF:-1,IPL 5
+https://rebrand.ly/Fox-cricket-501-2
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ExR2n3p6MYc/W78bjBdKUHI/AAAAAAAAAWU/Wy6_RLabNJYgTeNcMGAbj1rgtX1k3KVpwCLcBGAs/s320/Gazi TV-live-cricket-gazi-tv-live.png" group-title="Spotrs",BD IP (Live Only)
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
@@ -547,6 +549,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1,Premier Club HD
 http://nodemaster.homelinux.com/PREMIERECLUBES-HD/mpegts?token=cOAOwU8SC2
+#EXTINF:-1,TRING SPORT 2 SD
+http://5.135.92.133:42692/out/u/691_1.m3u8
+#EXTINF:-1,Win Mas
+http://xtv.mooo.com/stream/winmas/playlist.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -589,6 +595,8 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?checkedby:hlscat.co
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,Russia Today
 http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live
+#EXTINF:-1,CBSN News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1,ARY News
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1,NDTV 24x7
@@ -693,8 +701,6 @@ http://nodemaster.homelinux.com/TNTSERIES-HD/mpegts?token=cOAOwU8SC2
 http://51.52.156.22:8888/http/009
 #EXTINF:-1,WB TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1,A&E
-http://nodemaster.homelinux.com/A&E-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,itv 1
 http://51.52.156.22:8888/http/004
 #EXTINF:-1,itv 2
@@ -815,6 +821,10 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1,Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,AKSION HD
+http://188.138.9.87:8081/streamrtmp/aksion/playlist.m3u8
+#EXTINF:-1,Tring Super HD
+http://185.47.188.226/live/tring_super/playlist.m3u8
 #EXTINF:-1,Sony Pix HD
 http://global.thunderbd.com/41/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Pix SD
@@ -985,9 +995,9 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
 #EXTINF:-1,Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://familytv.net:80/joao12/joao12/58401
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1,Animal Planet HD (Opt-1)
+http://62.210.82.206:25461/live/12345/1234/34466.m3u8?token=QhVcUhcJRggXXVNWCwcAB1VQUAcHXlUFBFENVANWWlUKUVZSUVhXBg1GGURBEkJRAFtpWgVEXlBRUANXSkAXElxFa1oAQ14QAFYFUwJfEhhDQl9eBEReU0lGRQgCQFhDAAYGB0ZNRldNEFAUXAdcawVTQFoCA0ZZCxFZDUpADQ9mU1FeBQ8AEA9GBEQeRFlHERQMXRQKCE9HBlwVFAMWBBsNWkYIDUgQVgtACEYUSRZbFHR0Q0pGBh0QUA8VCw0PGw0WXlcUXBAZRlwVbRRVRxVEU1IMAxZBX0YFQ0pADwBBaFdcCg8BUUENWghBRAoWUBQaEQwJCgoRC0c+FgsGQwMVDQJUVUZP
+#EXTINF:-1,Animal Planet HD (Opt-2)
 http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34481?play_token=vRkKehJUOG&token=QhVcUhcJRggXUwQDAgRUVVkDAQRQUQdTVgFWUFUGUAIMUg0LU1ZWC1ZGGURBEkJRAFtpWgVEXlBRUAJRSkAXElxFa1oAQ14QB1wBVwFQEhhDQl9eBEReUlBdAFhfVVRWDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,Animal Planet (eng)
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28815?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
@@ -1205,6 +1215,8 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1,Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1,Tile Mousiki
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1,Music HD
