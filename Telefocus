@@ -683,14 +683,18 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/1.m3u8?token=Zalogi
 http://nodemaster.homelinux.com/TNT-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,TNT Series HD
 http://nodemaster.homelinux.com/TNTSERIES-HD/mpegts?token=cOAOwU8SC2
-#EXTINF:-1,Cine Life
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:-1,Sony Movies Action
+http://51.52.156.22:8888/http/009
 #EXTINF:-1,WB TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1,A&E
 http://nodemaster.homelinux.com/A&E-HD/mpegts?token=cOAOwU8SC2
-#EXTINF:-1,itv 3
-http://37.9.56.206:8000/play/a05g/index.m3u8
+#EXTINF:-1,itv 1
+http://51.52.156.22:8888/http/004
+#EXTINF:-1,itv 2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1,itv 2
+http://51.52.156.22:8888/http/006
 #EXTINF:-1,SKY CINEMA24 UHD
 http://hrv.00387.info/GER:SKYCINEMA24UHD/index.m3u8?token=test
 #EXTINF:-1,MBC MAX HD (Opt-1)
