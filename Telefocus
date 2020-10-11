@@ -228,9 +228,11 @@ http://global.thunderbd.com/58/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Music",RTV Music
 http://tempt.jagobd.com:441/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
-http://45.249.187.238:8081/hls/new7.m3u8
+http://global.thunderbd.com/96/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dhoom_music_in.png" group-title="Music",Dhoom Music
 http://global.thunderbd.com/57/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bangla Talkies
+http://global.thunderbd.com/91/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-oujmC_xPCic/W7hNwyi3nPI/AAAAAAAACkY/O4vbZqc3UO4sEAB7DzG2b_SRBiodxEjogCLcBGAs/s200/Jonack.png" group-title="Assamese",Jonack TV
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talk
@@ -803,14 +805,12 @@ http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv
 #EXTINF:-1,CLASSIC MOVIES
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1,MOVIES 1
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,MOVIES  PLUS
+http://global.thunderbd.com/97/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1,WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1,Osn Movies HD
-http://62.210.181.164:7777/yacinenew448/yacinenew448/105
 #EXTINF:-1,Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Sony Pix HD
@@ -824,7 +824,9 @@ http://global.thunderbd.com/69/tracks-v1a1/mono.m3u8
 #EXTINF:-1,& Picture HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Picture
-http://45.249.187.238:8081/hls/tsl-2.m3u8
+http://global.thunderbd.com/100/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,& Flix HD
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Flix
@@ -875,8 +877,10 @@ http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bollywood (Opt-02)
 http://103.141.66.36/bpk-tv/10104/default/manifest.mpd
-#EXTINF:-1,Zee Action
+#EXTINF:-1,Zee Action (Opt-1)
 http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Action (Opt-1)
+http://global.thunderbd.com/90/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee World
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zing
@@ -947,8 +951,8 @@ http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,MK Six
 http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
-#EXTINF:-1,Hum Sitaray
-http://iptv.kitv.live:1935/live/Shari/MTV-P/34.m3u8
+#EXTINF:-1,PTV World
+http://global.thunderbd.com/92/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A Abzy Dhakad
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 #EXTINF:-1,Shimaroo TV
