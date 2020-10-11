@@ -825,8 +825,6 @@ http://global.thunderbd.com/69/tracks-v1a1/mono.m3u8
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Picture
 http://global.thunderbd.com/100/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1,& Flix HD
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Flix
@@ -927,10 +925,8 @@ https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b564000_sleng.m3u8
 http://global.thunderbd.com/38/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus
 http://global.thunderbd.com/67/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold Select HD
-http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
 #EXTINF:-1,Star Gold HD
-http://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1,Star Bharat
