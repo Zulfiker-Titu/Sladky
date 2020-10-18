@@ -636,9 +636,9 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,CGTN
 https://live.cgtn.com/1000/prog_index.m3u8?@amarnettv.live
 #EXTINF:-1,Saudi Quran
-http://45.249.187.238:8081/hls/new15.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
 #EXTINF:-1,Saudi Sunnah
-http://45.249.187.238:8081/hls/new11.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1,Peace TV
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,ARY Q TV
@@ -751,10 +751,8 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 http://nodemaster.homelinux.com/AXN-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,AXN (Opt-04)
 http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28696?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
-#EXTINF:-1,amc (Opt-1)
+#EXTINF:-1,amc
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
-#EXTINF:-1,amc (Opt-2)
-http://play.lookplay.ml/look/amc/index.m3u8
 #EXTINF:-1,HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1,Lotus Macau
@@ -765,8 +763,6 @@ http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1,Unic TV
-http://116.203.225.253:25461/live/iMRxAu90Fm/O6OZNuQ2ON/2.m3u8
 #EXTINF:-1,MY Comedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 #EXTINF:-1,FOX Action Movies (Opt-1)
@@ -1139,6 +1135,8 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:-1,Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1,DeeJay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,MH 1
