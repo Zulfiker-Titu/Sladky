@@ -495,6 +495,8 @@ http://ip2121.com:8081/at1/ENG2/chunks.m3u8
 http://ip2121.com:8081/at1/ENG3/chunks.m3u8
 #EXTINF:-1,RTSH Sports
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+#EXTINF:-1,BT Sport 1 HD
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,EPT Sports HD
 http://p.dtv.sx:80/live/visiontv/775142/19812.ts
 #EXTINF:-1,rm tv
@@ -1117,6 +1119,8 @@ http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus0
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,magic-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1,Kiss
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1,Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,The BOX
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1,EBC Music
