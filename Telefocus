@@ -703,30 +703,20 @@ https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:-1,HBO
 http://me.zichannels.my.id/ch/hbo.m3u8
-#EXTINF:-1,HBO 2
-http://nodemaster.homelinux.com/HBO2-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,A HBO
 http://global.thunderbd.com/42/tracks-v1a1/mono.m3u8
-#EXTINF:-1,cinemax (Opt-1)
+#EXTINF:-1,Vinemax (Opt-1)
 http://me.zichannels.my.id/ch/max.m3u8
 #EXTINF:-1,Cinemax (Opt-2)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/1.m3u8?token=Zalogi
-#EXTINF:-1,TNT HD
-http://nodemaster.homelinux.com/TNT-HD/mpegts?token=cOAOwU8SC2
-#EXTINF:-1,TNT Series HD
-http://nodemaster.homelinux.com/TNTSERIES-HD/mpegts?token=cOAOwU8SC2
+https://rebrand.ly/CIN-62
 #EXTINF:-1,Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1,WB TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1,itv 1
-http://51.52.156.22:8888/http/004
 #EXTINF:-1,itv 2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1,itv 2
+#EXTINF:-1,itv 3
 http://51.52.156.22:8888/http/006
-#EXTINF:-1,SKY CINEMA24 UHD
-http://hrv.00387.info/GER:SKYCINEMA24UHD/index.m3u8?token=test
 #EXTINF:-1,MBC MAX HD (Opt-1)
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC MAX HD (Opt-2)
@@ -1133,8 +1123,10 @@ http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus0
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 #EXTINF:-1,The BOX
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1,8xM
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.ts
+#EXTINF:-1,EBC Music
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1,Earth Tones
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1,9xM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1,9x Jalwa
@@ -1145,6 +1137,8 @@ https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,DIL SE
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1,Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1,Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,MH 1
