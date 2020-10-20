@@ -319,6 +319,8 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NICK JR
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,Nickelodeon
+http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,B Kids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1,Baby First
@@ -423,6 +425,16 @@ http://103.214.202.218:8081/live/select2/chunks.m3u8
 http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-4)
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,World Football
+http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
+#EXTINF:-1,Sports Focus
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_640x480_306820/playlist.m3u8
+#EXTINF:-1,Sports Premium
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
+#EXTINF:-1,Sports Life
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
+#EXTINF:-1,Sports Arena
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
 #EXTINF:-1,Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
 #EXTINF:-1,Sky Sports Cricket FHD
@@ -825,12 +837,6 @@ https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1,Film On TV
 https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
-#EXTINF:-1,The Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1,Star World (UAE)
-http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-#EXTINF:-1,Star World (India)
-http://robi.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1,Movie Kingdom 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,MOVIE ZONE
@@ -944,7 +950,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 #EXTINF:-1,Colors HD
 http://medotv.nl:8000/samih991/dgV3ZGHwyX/32159
 #EXTINF:-1,Colors (Opt-1)
-http://45.249.187.238:8081/hls/live2.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1,Colors (Opt-2)
 http://global.thunderbd.com/68/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors Cineplex
