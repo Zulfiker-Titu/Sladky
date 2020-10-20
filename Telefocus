@@ -551,6 +551,8 @@ http://nodemaster.homelinux.com/PREMIERECLUBES-HD/mpegts?token=cOAOwU8SC2
 http://5.135.92.133:42692/out/u/691_1.m3u8
 #EXTINF:-1,Win Mas
 http://xtv.mooo.com/stream/winmas/playlist.m3u8
+#EXTINF:-1,Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -582,7 +584,7 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1,DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1,KBS WORLD
-http://mantul.biz.id:8888/live/kayaz/q12345/266.ts
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,NHK WORLD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,France 24 (Opt-1)
@@ -612,7 +614,7 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1,DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1,Zee News
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+https://load.airtelxstream.in/zeenews/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
 #EXTINF:-1,LOK SABHA TV
@@ -726,9 +728,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 #EXTINF:-1,Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,Filmbox
-https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Filmbox Arthouse
-https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
+http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:-1,AXN SPIN
 http://rstr0.teamnetwork.co/stream156/stream.m3u8
 #EXTINF:-1,AXN (Opt-01)
@@ -751,6 +751,8 @@ http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1,Global Comedy
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1,MY Comedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 #EXTINF:-1,FOX Action Movies (Opt-1)
@@ -779,6 +781,8 @@ http://136.243.177.164/FOXCRIME/playlist.m3u8
 http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28682?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1,RTSH Film
 http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
+#EXTINF:-1,KIX
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1,Filmrise Free Movies
@@ -813,8 +817,14 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1,Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,AKSION HD
-http://188.138.9.87:8081/streamrtmp/aksion/playlist.m3u8
+#EXTINF:-1,Film Hits HD
+http://pop-kanale.com:20201/Restream/topiptv/23
+#EXTINF:-1,Film Dy HD
+http://pop-kanale.com:20201/Restream/topiptv/22
+#EXTINF:-1,Film Autor HD
+http://pop-kanale.com:20201/Restream/topiptv/20
+#EXTINF:-1,Film Aksion HD
+http://pop-kanale.com:20201/Restream/topiptv/19
 #EXTINF:-1,Tring Super HD
 http://185.47.188.226/live/tring_super/playlist.m3u8
 #EXTINF:-1,Sony Pix HD
@@ -977,8 +987,8 @@ https://stream.simpaisa.com/pitvlive2/ptvglobal3/playlist.m3u8
 https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8
 #EXTINF:-1,atv
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
-#EXTINF:-1,TRT
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/32157
+#EXTINF:-1,TRT Kurdi
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
@@ -1002,7 +1012,7 @@ http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1,FOX Life (eng)
 http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28677?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1,History TV
-http://80.98.116.74:8001/1:0:1:40a:7:1:e082e56:0:0:0
+https://ch.iptvmate.net/5e9350258beb894140335ff6.m3u8
 #EXTINF:-1,VoA TV
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voa.stream/live-orgin/voa.stream/chunks.m3u8
 #EXTINF:-1,H2
@@ -1016,7 +1026,7 @@ http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28658?play_token=Sh
 #EXTINF:-1,National Geographic HD (Opt-1)
 http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1,National Geographic HD (Opt-2)
-http://136.243.177.164/NATIONALGEOGRAPHIC/playlist.m3u8
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
 #EXTINF:-1,National Geographic HD (Opt-3)
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,YTN Science
@@ -1087,6 +1097,10 @@ https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Fashion Teen (Opt-2)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1,Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,HD Fashion & Life Style
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,WFC
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1,Lifestyle Fashion
@@ -1117,6 +1131,8 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1,9x Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,9x Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
 #EXTINF:-1,Alegeria TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1,B4U Music
