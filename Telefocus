@@ -682,8 +682,6 @@ http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1,HBO (Opt-1)
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1,HBO (Opt-2)
-http://45.249.187.238:8081/hls/new13.m3u8
-#EXTINF:-1,HBO (Opt-3)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
@@ -704,7 +702,13 @@ https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1,HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:-1,HBO
-http://me.zichannels.my.id/ch/hbo.m3u8
+http://136.243.177.164/HBO/index.m3u8?h=JeOi47bJdh4_FyW-Aa24CQ
+#EXTINF:-1,HBO2
+http://136.243.177.164/HBO2/index.m3u8?h=JeOi47bJdh4_FyW-Aa24CQ
+#EXTINF:-1,HBO3
+http://136.243.177.164/HBO3/index.m3u8?h=JeOi47bJdh4_FyW-Aa24CQ
+#EXTINF:-1,Cinema
+http://46.8.46.4:80/cinema/playlist.m3u8
 #EXTINF:-1,A HBO
 http://global.thunderbd.com/42/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cinemax (Opt-1)
