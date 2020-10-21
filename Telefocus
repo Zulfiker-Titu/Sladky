@@ -435,14 +435,8 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
 #EXTINF:-1,Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
-#EXTINF:-1,Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
-#EXTINF:-1,Sky Sports Cricket FHD
-http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/200
 #EXTINF:-1,Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-#EXTINF:-1,Premier Clubes
-http://ts.ec.cx:8080/a/hls1/premiereclubes.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,Abu Dhabi Sports 2
@@ -488,25 +482,27 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 3
-http://cdn1.52dvb.xyz/5002/playlist.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_3_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 4
-http://cdn1.52dvb.xyz/5003/playlist.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_4_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 5
-http://cdn1.52dvb.xyz/5004/playlist.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_5_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 6
-http://cdn1.52dvb.xyz/5005/playlist.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_6_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 7
-http://cdn1.52dvb.xyz/5006/playlist.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_7_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 8
-http://cdn1.52dvb.xyz/5007/playlist.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_8_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 9
-http://cdn1.52dvb.xyz/5008/playlist.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_9_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 10
-http://cdn1.52dvb.xyz/5009/playlist.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_10_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 11
-http://62.210.157.87:8080/live/0000/0000/2745.m3u8?token=QhVcUhcJRggXBlAAUQAHB1YPUwFWVAVVVAZWUFBQBlQPAwIFVlJUUQNGGURBEkJRAFtpWgVEXlFSUABNRBcRBEtoXVdGW0YLAlIMVQFEHBYVX1tWQ1xUT0cUXAVEWEBSCQYCAkZNRldNEFAUXAdcawVTQFoCA0ZZCxFZDUpADQ9mU1FeBQ8AEA9GBUQeRFlHERQMXRQKCE9HBlwVFAMWBBsNFgJQUVUQGUZWCUcIREYYFAwRIyFGT0cBTRUDDBEIVlkWCUYMV0cNRhlEWxVvRgRFQkEEBwkGF0YPQ1ZATkNUVkxsBw4KXFAHQQ9dCEMWWxQHEU1ECQwLDUEOFD0SCF0VDhFXUlwDFxk=
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_11_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 12
-http://cdn1.52dvb.xyz/5011/playlist.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_12_HD/index.m3u8
+#EXTINF:-1,Bein Sports HD 13
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_13_HD/index.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,TVRI SPORT HD
@@ -827,8 +823,6 @@ http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28682?play_token=99tSHQmz6a&tok
 http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
 #EXTINF:-1,KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,Bein Series HD 1
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
 #EXTINF:-1,iFILM English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Filmrise Free Movies
