@@ -165,6 +165,8 @@ https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Kolkata TV
 https://load.airtelxstream.in/kolkatatv/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,Calcutta News
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 #EXTINF:-1,CTVN AKD PLUS
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/ABP_Anada_logo.png/100px-ABP_Anada_logo.png" group-title="News",ABP Ananda
