@@ -347,12 +347,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1,ting POP
-http://37.9.56.206:8000/play/a03n/index.m3u8
-#EXTINF:-1,tvn HD
-https://fra-haproxy.angelthump.com/hls/menie1/index.m3u8?stream=menie1
-#EXTINF:-1,VIP Family
-http://188.93.95.83:80/tv5/index.m3u8?streamType=live
 #EXTINF:-1,Sony Ten 1 (Opt-1)
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-2)
@@ -845,6 +839,8 @@ https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,MOVIE ZONE
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
+#EXTINF:-1,VIP Family
+http://188.93.95.83:80/tv5/index.m3u8?streamType=live
 #EXTINF:-1,BLACK CINEMA
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1,TVS WESTERN MOVIES
@@ -1065,7 +1061,9 @@ http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28677?play_token=99tSHQmz6a&tok
 https://ch.iptvmate.net/5e9350258beb894140335ff6.m3u8
 #EXTINF:-1,VoA TV
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voa.stream/live-orgin/voa.stream/chunks.m3u8
-#EXTINF:-1,H2
+#EXTINF:-1,H2 (Opt-1)
+https://fra-haproxy.angelthump.com/hls/menie1/index.m3u8?stream=menie1
+#EXTINF:-1,H2 (Opt-2)
 http://185.236.229.27:8000/play/vmM0SsP5@3RqM70Z
 #EXTINF:-1,NAT GEO
 http://nodemaster.homelinux.com/_NATGEO/mpegts?token=cOAOwU8SC2
