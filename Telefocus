@@ -296,7 +296,7 @@ https://load.airtelxstream.in/newslive/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/DD_Odia.png" group-title="Odia",DD Odia
 https://streamitv.multitvsolution.in/idvo/ddodia.m3u8
 #EXTINF:-1,MBC TV
-https://load.airtelxstream.in/mvctv/smil:common.smil/chunklist.m3u8
+https://load.airtelxstream.in/mbctv/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2018/11/Naxatra-News.png" group-title="Odia",Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1 tvg-logo="http://kanaknews.com/wp-content/uploads/2018/12/K-LOGO-SMALL-1.png" group-title="Odia",Kanak News
