@@ -102,7 +102,7 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic
-http://global.thunderbd.com/35/tracks-v1a1/mono.m3u8
+http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28752?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD (Hindi)
@@ -212,13 +212,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.ibb.co/87GY8Qc/Millennium-TV.jpg" group-title="Entertainment",Millennium TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RbDyWwm/Nokshi-TV.jpg" group-title="Entertainment",Nakshi TV
-https://bddl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="Entertainment",Joy Jatra TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png" group-title="Entertainment",Jonmobhumi TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/live-orgin/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg" group-title="Entertainment",71 Bangla TV
-http://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6FyphR/Pan-Vision-TV.jpg" group-title="Entertainment",Pan Vision TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
 #EXTINF:-1,Magic Bangla TV
@@ -227,8 +225,6 @@ http://enaniptv.com/magicbanglatv/1080/index.m3u8
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1,Times 24
 https://cdn.priyoiptv.com:444/priyoiptv/times24tv.stream/playlist.m3u8
-#EXTINF:-1,Shadhin Bangla
-https://iptv6.raytahost.com/live/sadhinbangla/index.m3u8
 #EXTINF:-1,Binodon Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bindonbangla.stream/chunks.m3u8
 #EXTINF:-1,Ayna TV
@@ -243,20 +239,16 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1,QTV Bangla
 https://qtvbangla-hls.telelivebd.com/QTV/qtv_manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TLd6CwQ/TV-One.jpg" group-title="Religious",TV One UK
-http://tempskyview.jagobd.com:441/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/live-orgin/tvoneuksni.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="Religious",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Religious",ATN Islamic TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aldawah.tv/wp-content/themes/al_dawah/images/logo.png" group-title="Religious",AL Dawah TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-K2QMJuh7t9I/W7hN5DR_s7I/AAAAAAAACkk/HpN6-nET6-UxyKg_9JMH3NFpgjzJLZCCQCLcBGAs/s200/iqra-bangla-uk.png" group-title="Religious",Iqra Bangla UK
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.azan.tv/assets/importent_images/logo.png" group-title="Religious",Azan TV
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL0nsTH/Itv.jpg" group-title="Religious",ITV USA
-http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music",ATN Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Music",Gaan Bangla
