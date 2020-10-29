@@ -465,42 +465,40 @@ http://nodemaster.homelinux.com/SPORTV-HD/mpegts?token=cOAOwU8SC2
 http://nodemaster.homelinux.com/SPORTV2-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,Sports 3 HD
 http://nodemaster.homelinux.com/SPORTV3-HD/mpegts?token=cOAOwU8SC2
-#EXTINF:-1,Olympic Channel
+#EXTINF:-1,Olympic Channel (Opt-1)
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1,GOL TV
-http://185.232.53.5:2086/wickeduk/etqyhww45e/64107
-#EXTINF:-1,Eleven Sports 1
-http://tv-swirtvteam.info/oq/co.m3u8?sid=F5357911&id=11633&q=tvhd
-#EXTINF:-1,Eleven Sports 2
-http://tv-swirtvteam.info/oq/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
-#EXTINF:-1,Eleven Sports 3
-http://tv-swirtvteam.info/oq/co.m3u8?sid=27C47133&id=13105&q=tvhd
-#EXTINF:-1,Sports Fight HD
-http://tv-swirtvteam.info/oq/co.m3u8?sid=F3CF3C96&id=12311&q=tvhd
+#EXTINF:-1,Olympic Channel (Opt-2)
+http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856?checkedby:hlscat.com
+#EXTINF:-1,SS1
+http://144.76.91.70:8081/streamrtmp/ss1/playlist.m3u8
+#EXTINF:-1,SS2
+http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
+#EXTINF:-1,SS3
+http://144.76.91.70:8081/streamrtmp/ss3/playlist.m3u8
 #EXTINF:-1,Bein Sports HD 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 3
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_3_HD/index.m3u8
+http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Bein Sports HD 4
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_4_HD/index.m3u8
+http://digitalxpress2.gcdn.co/live1/RTMP-bein4/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Bein Sports HD 5
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_5_HD/index.m3u8
+http://digitalxpress2.gcdn.co/live1/RTMP-bein5/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Bein Sports HD 6
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_6_HD/index.m3u8
+http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Bein Sports HD 7
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_7_HD/index.m3u8
+http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6870?checkedby:hlscat.com
 #EXTINF:-1,Bein Sports HD 8
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_8_HD/index.m3u8
+http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Bein Sports HD 9
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_9_HD/index.m3u8
+http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Bein Sports HD 10
 http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_10_HD/index.m3u8
 #EXTINF:-1,Bein Sports HD 11
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_11_HD/index.m3u8
+http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858?checkedby:hlscat.com
 #EXTINF:-1,Bein Sports HD 12
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_12_HD/index.m3u8
+http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6859?checkedby:hlscat.com
 #EXTINF:-1,Bein Sports HD 13
 http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_13_HD/index.m3u8
 #EXTINF:-1,Bein Sports Extra
@@ -512,11 +510,11 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 #EXTINF:-1,Nova Sports 1 HD
 http://p.dtv.sx:80/live/visiontv/775142/20767.ts
 #EXTINF:-1,True Premier Football HD 1
-http://ip2121.com:8081/at1/ENG1/chunks.m3u8
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premier Football HD 2
-http://ip2121.com:8081/at1/ENG2/chunks.m3u8
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premier Football HD 3
-http://ip2121.com:8081/at1/ENG3/chunks.m3u8
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1,RTSH Sports
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-1,BT Sport 1 HD
