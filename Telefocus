@@ -148,6 +148,8 @@ http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-01)
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-02)
+https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-03)
 http://master.beeiptv.com:8081/MB/zeebanglacinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.telugumirchi.com/en/wp-content/uploads/2013/09/tollywood.png" group-title="Entertainment",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
@@ -264,13 +266,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Music",RTV Music
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
-http://global.thunderbd.com/96/tracks-v1a1/mono.m3u8
+http://master.beeiptv.com:8081/MB/sangeetbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dhoom_music_in.png" group-title="Music",Dhoom Music
-http://global.thunderbd.com/57/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bangla Talkies
-http://global.thunderbd.com/91/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-oujmC_xPCic/W7hNwyi3nPI/AAAAAAAACkY/O4vbZqc3UO4sEAB7DzG2b_SRBiodxEjogCLcBGAs/s200/Jonack.png" group-title="Assamese",Jonack TV
-https://load.airtelxstream.in/jonack/smil:common.smil/chunklist.m3u8
+https://load.airtelxstream.in/dhoommusic/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Rang TV
 https://load.airtelxstream.in/rang/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Ramdhenu TV
@@ -1265,6 +1263,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/89.ts
 https://ch.iptvmate.net/5e936cdb655d2d10063e4b9a.m3u8
 #EXTINF:-1,City
 http://zigfreed.ru/A7Z/300.m3u8
+#EXTINF:-1,D5 Music
+http://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 #EXTINF:-1,[V]
 https://www.fanmingming.cn/hls/channelv.m3u8
 #EXTINF:-1,[V] HD
