@@ -64,9 +64,9 @@ http://aklivetv.com:8080/ipl2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJWNhHr/IPL-Logo-jpg.webp" group-title="Sports",IPL 2
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJWNhHr/IPL-Logo-jpg.webp" group-title="Sports",IPL 3
-http://113.212.111.246:8080/hls/col2.m3u8
+http://aklivetv.com:8080/ipl4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJWNhHr/IPL-Logo-jpg.webp" group-title="Sports",IPL 4
-http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+http://aklivetv.com:8080/ipl3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJWNhHr/IPL-Logo-jpg.webp" group-title="Sports",IPL 5
 http://85.203.33.15:25461/GG3R15rlPW/ZOHnfpIDcV/202376?play_token=yrHyGev4sb&token=ShdcBRFREglDAQcHWwpYB1dVAFMKAAEFBQdcUFEHCFNUAlBSAF8JVgRGHxERR0tSUF5mClwbCQVWVwoCAU4bRUJQRjsLXRIJQ1ABC1YEChUdEU0KVVwRDVdTCQcDUwoDAw0YRhJQVBFbRgIBVgYNFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCgYGABtPGlpcQggRS0wVWBt5fxcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUACCwMAChse
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJWNhHr/IPL-Logo-jpg.webp" group-title="Sports",IPL 6
