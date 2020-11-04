@@ -473,13 +473,13 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 https://live-kcs.cdnvideo.ru/shaamtv/superleag/chunklist.m3u8
 #EXTINF:-1,F+
 http://136.243.177.164/FPLUS/index.m3u8
-#EXTINF:-1,Sports 1 HD
+#EXTINF:-1,Sport TV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,Sports 2 HD
+#EXTINF:-1,Sport TV 2 HD
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,Sports 3 HD
+#EXTINF:-1,Sport TV 3 HD
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,Olympic Channel (Opt-1)
+#EXTINF:-1,Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 #EXTINF:-1,SS1
 http://144.76.91.70:8081/streamrtmp/ss1/playlist.m3u8
