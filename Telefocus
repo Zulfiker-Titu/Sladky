@@ -481,20 +481,10 @@ https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1,SS1
-http://144.76.91.70:8081/streamrtmp/ss1/playlist.m3u8
-#EXTINF:-1,SS2
-http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
-#EXTINF:-1,SS3
-http://144.76.91.70:8081/streamrtmp/ss3/playlist.m3u8
-#EXTINF:-1,Eleven 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1,Arena Sport 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 1
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 2
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 3
 http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/3
 #EXTINF:-1,Bein Sports HD 4
@@ -573,8 +563,8 @@ http://185.180.14.46/stream127/stream.m3u8
 http://185.180.14.46/stream128/stream.m3u8
 #EXTINF:-1,BTV 2
 http://live.btv2020.com:1935/live/btv2/playlist.m3u8
-#EXTINF:-1,S Sports
-http://115.76.91.167:9981/stream/channelid/1445803072?profile=pass
+#EXTINF:-1,S Sports TV
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 #EXTINF:-1,Fight Box HD
