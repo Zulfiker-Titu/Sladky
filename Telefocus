@@ -626,19 +626,19 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,BBC World News (Opt-01)
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+http://51.52.156.22:8888/http/004
 #EXTINF:-1,BBC World News (Opt-02)
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1,BBC World News (Opt-03)
 http://global.thunderbd.com/44/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CNN International (Opt-1)
+#EXTINF:-1,CNN International
 http://203.162.235.41:16918
-#EXTINF:-1,CNN International (Opt-2)
-http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28799?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,CNA World
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
-#EXTINF:-1,ABC News
+#EXTINF:-1,ABC News (Opt-1)
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
+#EXTINF:-1,ABC News (Opt-2)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,Bloombarg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1,NBC
