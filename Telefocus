@@ -322,13 +322,7 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Disvovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
 #EXTINF:-1,Disney Channel
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28685?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
-#EXTINF:-1,Disney Junior (Opt-1)
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28684?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
-#EXTINF:-1,Disney Junior (Opt-2)
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28656?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
-#EXTINF:-1,Disney XD
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28683?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/50129
 #EXTINF:-1,Cbeebies BBC
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,Cartoon Network
@@ -487,8 +481,6 @@ https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,Olympic Channel (Opt-1)
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1,Olympic Channel (Opt-2)
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856?checkedby:hlscat.com
 #EXTINF:-1,SS1
 http://144.76.91.70:8081/streamrtmp/ss1/playlist.m3u8
 #EXTINF:-1,SS2
@@ -539,14 +531,22 @@ https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premier Football HD 3
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,true sports 1 HD
+http://54.37.82.205:8081/liveorigin/hd-tsport1_720/playlist.m3u8
+#EXTINF:-1,true sports 2 HD
+http://54.37.82.205:8081/liveorigin/hd-tsport2_720/playlist.m3u8
+#EXTINF:-1,true sports 3 HD
+http://54.37.82.205:8081/liveorigin/hd-tsport3_720/playlist.m3u8
+#EXTINF:-1,true sports 4 HD
+http://54.37.82.205:8081/liveorigin/hd-tsport4_720/playlist.m3u8
 #EXTINF:-1,RTSH Sports
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-1,BT Sports 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT Sports 2 HD
 https://cdn.mmfootballdirect.com/hls/44159558-97a3-4146-8a7e-6eb687c1303f-mglt-c5797590-149b-11eb-94d5-9d7473e818c5-myanmar-c1fd9730-703a-402c-a5a6-36fc66e0c128/playlist.m3u8
-#EXTINF:-1,EPT Sports HD
-http://p.dtv.sx:80/live/visiontv/775142/19812.ts
+#EXTINF:-1,BT Sports 3 HD
+https://vd159.mycdn.me/expires/1604541783919/srcIp/36.78.203.243/srcAg/CHROME_ANDROID/ms/45.136.21.6/type/5/sig/3wisooh36yY/ct/8/urls/185.226.52.9/clientType/0/id/893458385510/video/
 #EXTINF:-1,rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Dsport
@@ -752,11 +752,11 @@ https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1,HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:-1,HBO
-http://136.243.177.164/HBO/index.m3u8?h=JeOi47bJdh4_FyW-Aa24CQ
+http://62.210.104.181:8080/HBO1/playlist.m3u8
 #EXTINF:-1,HBO2
-http://136.243.177.164/HBO2/index.m3u8?h=JeOi47bJdh4_FyW-Aa24CQ
+http://62.210.104.181:8080/HBO2/playlist.m3u8
 #EXTINF:-1,HBO3
-http://136.243.177.164/HBO3/index.m3u8?h=JeOi47bJdh4_FyW-Aa24CQ
+http://62.210.104.181:8080/HBO3/playlist.m3u8
 #EXTINF:-1,Cinema
 http://46.8.46.4:80/cinema/playlist.m3u8
 #EXTINF:-1,A HBO
@@ -1090,9 +1090,9 @@ https://fra-haproxy.angelthump.com/hls/menie1/index.m3u8?stream=menie1
 #EXTINF:-1,H2 (Opt-2)
 http://185.236.229.27:8000/play/vmM0SsP5@3RqM70Z
 #EXTINF:-1,NAT GEO
-http://nodemaster.homelinux.com/_NATGEO/mpegts?token=cOAOwU8SC2
+http://54.37.82.205:8081/liveorigin/hd-natgeo_720/playlist.m3u8
 #EXTINF:-1,NAT GEO WILD
-http://randomserver.site:2086/live/Bria/Bria/88790.m3u8?checkedby
+http://54.37.82.205:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
 http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28658?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs=
 #EXTINF:-1,National Geographic HD (Opt-1)
@@ -1257,6 +1257,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1,51
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1,MTV India
+http://dx3.gcdn.co/hindi-MTVINDIA/index.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV Hits
