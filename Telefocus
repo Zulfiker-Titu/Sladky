@@ -144,17 +144,17 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-1)
-http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8
+http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-2)
-http://otv.ftpbd.net/streams/107/index.m3u8
+http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-3)
-http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
+http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-01)
-http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-02)
 https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-03)
-http://global.thunderbd.com/29/tracks-v1a1/mono.m3u8
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.telugumirchi.com/en/wp-content/uploads/2013/09/tollywood.png" group-title="Entertainment",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:-1,Colors BD TV
@@ -368,9 +368,9 @@ http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-5)
 http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-1)
-http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_2PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-2)
-http://digilptv.ddns.net:25461/live/sajeeb33/123456/196.m3u8?token=GhBaAkILQwgRUl8ADwBTBwBRD1EBUV4HCVQGV1ICUAUFUAAHUgBWBgJHFRNFQkdSUQ9mD1ASAgcBUBoXEUUDFD5bVkELQVMABlEbHRRCXFpVQANWGBJIX1xEDBdVAlReVhAeQVQbFVdBC1hdaVJQQVkBXEQOXk1aVEoUWgppAgMMU1wHE1lDAhFJG1hFRhcNXhdVChgSWl9MFFdBARRcRFMBA1cTT0NRXBBXRURPFw0SIH1EGBJdTkwDWEYNWQhEWxBfUERbQx4RDEpuRFNGQ0IHWAtRQhoMGlYUGUZbBx4+UV0NXwYCRloKV0IUDBcGEk4bC1teUUJXFGlFDVJEXEMAClUEW0NP
+http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-3)
 http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-4)
@@ -388,7 +388,7 @@ http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-5)
 http://global.thunderbd.com/22/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SIX (Opt-1)
-http://digiptv.ddns.net:25461/live/sajeeb33/123456/185.m3u8?token=GhBaAkILQwgRAQpXBw5WVgZXCl9QAF5TCl5TAgBSA1NVBlFbCQADBwRHFRNFQkdSUQ9mD1ASAgcAUxoXEUUDFD5bVkELQVMABlEbHRRCXFpVQANWGBJIX1xEDBdXAF5RQx4QBkkXBEBdBFVuUlNDXlMHG1xaRVRaFERZWztSAwsAXFZBC0FREB9HUEJGFA9ZRQ5VShZSUUJKB0JQRgxEUlULCkEdQQJdRgtNQ08UDxVyJhtKFlVAQl0IRVwLWERcQ18BFglBTRBaFmZDU0VBRVUDVANGEgIUCEQaFwlXHjkCXVwNVAAVW1wLShMMFAQVHEBUCVpZTFlKOUZcABRcRFAGAFMTHg==
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_sixPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1,Sony SIX (Opt-2)
 http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 #EXTINF:-1,Sony SIX (Opt-3)
