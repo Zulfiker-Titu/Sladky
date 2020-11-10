@@ -124,12 +124,12 @@ http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-2)
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_aathPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_jalsha_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/27.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
 http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-2)
 http://103.205.133.50/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-1)
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
@@ -138,10 +138,12 @@ http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies SD
 http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_zee_banglaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-4)
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-1)
 http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
