@@ -207,8 +207,8 @@ http://nandansyst.com/hls/nandan.m3u8
 http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
 #EXTINF:-1,Onuvhuti TV
 https://iptv4.raytahost.com/live/onuvhuti/index.m3u8
-#EXTINF:-1,Channel S BD
-https://stream.telelivebd.com/ChannelSbd/ChannelSbd.m3u8
+#EXTINF:-1,Channel S HD
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8
 #EXTINF:-1,Deshi TV
 http://72.139.72.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,G Bangla TV
