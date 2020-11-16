@@ -124,7 +124,7 @@ https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-03as-1ffd2-sgh32x-z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-2)
 http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-h76T572LLS-01aq-f9rt-9sez2-t1359b-xtr34r-lk9y-dkf-7f5AJS-ort_452e_jRE532hAS_AZLY4589_star_jalsha_hdTRGX_9ty215SDE_s53IYHTD_lhrl_w97epxek_port57_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f74T357LLS-01aq-f9rt-9sez2-t1359b-xtr34r-lk9y-dkf-5s4AJS-ort_159e_jRE532hAS_AZLY5280_star_jalsha_hdTRGX_9ty215SDE_s53IYLKH_prot_w53ekjdh_port43_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
@@ -138,9 +138,9 @@ http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-2)
 http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies SD
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-h76T572LLS-01aq-f9rt-9sez2-t1359b-xtr34r-lk9y-dkf-7f5AJS-ort_452e_jRE532hAS_AZLY4589_jalsha_moviesTRGX_9ty215SDE_s53IYHTD_lhrl_w97epxek_port57_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f74T357LLS-01aq-f9rt-9sez2-t1359b-xtr34r-lk9y-dkf-5s4AJS-ort_159e_jRE532hAS_AZLY5280_jalsha_moviesTRGX_9ty215SDE_s53IYLKH_prot_w53ekjdh_port43_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-h76T572LLS-01aq-f9rt-9sez2-t1359b-xtr34r-lk9y-dkf-7f5AJS-ort_452e_jRE532hAS_AZLY4589_zee_banglaTRGX_9ty215SDE_s53IYHTD_lhrl_w97epxek_port57_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f74T357LLS-01aq-f9rt-9sez2-t1359b-xtr34r-lk9y-dkf-5s4AJS-ort_159e_jRE532hAS_AZLY5280_zee_banglaTRGX_9ty215SDE_s53IYLKH_prot_w53ekjdh_port43_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
@@ -160,7 +160,7 @@ https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-03)
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-04)
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-h76T572LLS-01aq-f9rt-9sez2-t1359b-xtr34r-lk9y-dkf-7f5AJS-ort_452e_jRE532hAS_AZLY4589_zee_bangla_cinemaTRGX_9ty215SDE_s53IYHTD_lhrl_w97epxek_port57_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f74T357LLS-01aq-f9rt-9sez2-t1359b-xtr34r-lk9y-dkf-5s4AJS-ort_159e_jRE532hAS_AZLY5280_zee_bangla_cinemaTRGX_9ty215SDE_s53IYLKH_prot_w53ekjdh_port43_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.telugumirchi.com/en/wp-content/uploads/2013/09/tollywood.png" group-title="Entertainment",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:-1,Colors BD TV
