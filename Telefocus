@@ -1237,14 +1237,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start
 https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
 #EXTINF:-1,MUSIC 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1,DJing Live
-https://www.djing.com/tv/live.m3u8
-#EXTINF:-1,DJing Karaoke
-https://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1,DJing HITS
-https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1,DJing Underground
-https://www.djing.com/tv/underground.m3u8
 #EXTINF:-1,BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1,21
