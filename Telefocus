@@ -118,7 +118,7 @@ https://ott.bingebd.com/live/ngrp:colors_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD (Opt-2)
 http://master.beeiptv.com:8081/MB/colorsbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7_H8dWEkZhk/WKHdX8JCZNI/AAAAAAAAACI/Ysc-AjiUMfkR1tehUK8NcvWOTvdSch-pgCLcB/s280/Rupashi%2BBangla.png" group-title="Entertainment",Ruposhi Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-03https://ott.bingebd.com/live/ngrp:ruposhi_bangla_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:ruposhi_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-1)
 https://ott.bingebd.com/live/ngrp:sony_aath_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-2)
@@ -378,7 +378,7 @@ http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-5)
 http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-1)
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_2PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:sony_ten_2_all/playlist.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-2)
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-3)
@@ -398,9 +398,9 @@ http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-5)
 http://global.thunderbd.com/22/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SIX (Opt-1)
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_sixPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:sony_six_all/playlist.m3u8
 #EXTINF:-1,Sony SIX (Opt-2)
-http://103.214.202.218:8081/live/sonysix/chunks.m3u8
+http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SIX (Opt-3)
 http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-4)
@@ -451,6 +451,10 @@ http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mo
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
 #EXTINF:-1,Sports Focus
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_640x480_306820/playlist.m3u8
+#EXTINF:-1,Sky Sports Football
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/chunks.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/chunks.m3u8
 #EXTINF:-1,Sports Premium
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
 #EXTINF:-1,Sports Life
@@ -808,7 +812,7 @@ https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
 #EXTINF:-1,HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1,Lotus Macau
-http://45.249.187.238:8081/hls/new22.m3u8
+https://ott.bingebd.com/live/ngrp:macau_lotus_all/playlist.m3u8
 #EXTINF:-1,Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1,ROMEDY NOW
