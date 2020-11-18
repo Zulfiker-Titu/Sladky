@@ -110,21 +110,21 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD (Hindi)
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_dillagiPQRT_9653SDE_s9023_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:dillagi_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_colors_bangla_hdPQRT_9653SDE_s9023_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:colors_bangla_hd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD (Opt-1)
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_colors_banglaPQRT_9653SDE_s9023_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:colors_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD (Opt-2)
 http://master.beeiptv.com:8081/MB/colorsbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7_H8dWEkZhk/WKHdX8JCZNI/AAAAAAAAACI/Ysc-AjiUMfkR1tehUK8NcvWOTvdSch-pgCLcB/s280/Rupashi%2BBangla.png" group-title="Entertainment",Ruposhi Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_ruposhi_banglaPQRT_9653SDE_s9023_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-03https://ott.bingebd.com/live/ngrp:ruposhi_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-1)
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_sony_aathPQRT_9653SDE_s9023_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:sony_aath_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-2)
 http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk1p-dkf-7j4AJD-ort_254e_jRE357hKH_AZLY7829_star_jalsha_hdTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port89_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
@@ -138,9 +138,9 @@ http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-2)
 http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies SD
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk1p-dkf-7j4AJD-ort_254e_jRE357hKH_AZLY7829_jalsha_moviesTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port89_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:jalsha_movies_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk1p-dkf-7j4AJD-ort_254e_jRE357hKH_AZLY7829_zee_banglaTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port89_DH/playlist.m3u8
+https://ott.bingebd.com:443/live/ngrp:zee_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
@@ -160,7 +160,7 @@ https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-03)
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Bangla Movies",Zee Bangla Cinema (Opt-04)
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk1p-dkf-7j4AJD-ort_254e_jRE357hKH_AZLY7829_zee_bangla_cinemaTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port89_DH/playlist.m3u8
+https://ott.bingebd.com:443/live/ngrp:zee_bangla_cinema_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.telugumirchi.com/en/wp-content/uploads/2013/09/tollywood.png" group-title="Entertainment",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:-1,Colors BD TV
@@ -325,22 +325,26 @@ http://210.210.155.35/dr9445/h/h144/01.m3u8
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Disvovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
+#EXTINF:-1,Sony YAY Bangla
+https://ott.bingebd.com/live/ngrp:sony_yay_all/playlist.m3u8
 #EXTINF:-1,Disney Channel
 http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/50129
 #EXTINF:-1,Cbeebies BBC
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1,CN HD+
-http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CN
+https://ott.bingebd.com/live/ngrp:cartoon_network_all/playlist.m3u8
 #EXTINF:-1,CN Arabic
 http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/5.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,Nick Bangla
 http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NICK JR
+#EXTINF:-1,NICK JR (Opt-1)
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,NICK JR (Opt-2)
+https://ott.bingebd.com/live/ngrp:nick_jr_all/playlist.m3u8
 #EXTINF:-1,Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,B Kids HD
@@ -884,7 +888,7 @@ http://pop-kanale.com:20201/Restream/topiptv/19
 #EXTINF:-1,Tring Super HD
 http://185.47.188.226/live/tring_super/playlist.m3u8
 #EXTINF:-1,Sony Pix HD
-http://global.thunderbd.com/41/tracks-v1a1/mono.m3u8
+https://ott.bingebd.com/live/ngrp:sony_pix_all/playlist.m3u8
 #EXTINF:-1,Sony Pix SD
 http://45.249.187.238:8081/hls/new21.m3u8
 #EXTINF:-1,Zee Cafe HD
@@ -1172,7 +1176,7 @@ http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28758?play_token=Zkl
 #EXTINF:-1,B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1,Zoom
-http://global.thunderbd.com/60/tracks-v1a1/mono.m3u8
+https://ott.bingebd.com/live/ngrp:zoom_all/playlist.m3u8
 #EXTINF:-1,Subrang TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,SBI Music HD
