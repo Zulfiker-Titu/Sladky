@@ -128,7 +128,7 @@ https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
-http://103.135.208.14:8082/30/index.m3u8?token=6f03abe6833fb2250925a76642adb0c84fcd063c-41e168b4a69f6f5bc553fc70c72fcfa5-1605808751-1605797951&remote=103.121.105.6
+http://103.135.208.14:8082/30/index.m3u8?token=7649f1e29f5b5d380b76ce85d60259a662a6aee0-0aa1e95cba60b6a14cd1d41105fc9d3a-1605892105-1605881305&remote=103.121.105.6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-2)
 http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-3)
