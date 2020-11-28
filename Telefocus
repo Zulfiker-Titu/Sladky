@@ -270,7 +270,7 @@ https://load.airtelxstream.in/rang/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Ramdhenu TV
 https://load.airtelxstream.in/ramdhenu/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,DD Assam
-https://load.airtelxstream.in/ddnortheast/smil:common.smil/chunklist.m3u8
+https://streamitv.multitvsolution.in/idvo/ddnortheast.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talk
 https://load.airtelxstream.in/assamtalks/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dy365.in/images/dy365.jpg" group-title="Assamese",dy365
@@ -301,12 +301,14 @@ https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=14186771
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1,Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Bein Cartoon Network
+http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:-1,Disvovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
 #EXTINF:-1,Sony YAY Bangla
 https://ott.bingebd.com/live/ngrp:sony_yay_all/playlist.m3u8
 #EXTINF:-1,Disney Channel
-http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/50129
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1,Cbeebies BBC
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,Cartoon Network
@@ -475,28 +477,6 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1,Bein Sports HD 3
-http://tv2iptv.com:8080/ammar/ammar/120625
-#EXTINF:-1,Bein Sports HD 4
-http://tv2iptv.com:8080/ammar/ammar/120626
-#EXTINF:-1,Bein Sports HD 5
-http://tv2iptv.com:8080/ammar/ammar/120627
-#EXTINF:-1,Bein Sports HD 6
-http://tv2iptv.com:8080/ammar/ammar/120628
-#EXTINF:-1,Bein Sports HD 7
-http://tv2iptv.com:8080/ammar/ammar/120629
-#EXTINF:-1,Bein Sports HD 8
-http://tv2iptv.com:8080/ammar/ammar/120630
-#EXTINF:-1,Bein Sports HD 9
-http://tv2iptv.com:8080/ammar/ammar/120631
-#EXTINF:-1,Bein Sports HD 10
-http://tv2iptv.com:8080/ammar/ammar/120632
-#EXTINF:-1,Bein Sports HD 11
-http://tv2iptv.com:8080/ammar/ammar/120633
-#EXTINF:-1,Bein Sports HD 12
-http://tv2iptv.com:8080/ammar/ammar/120634
-#EXTINF:-1,Bein Sports HD 13
-http://tv2iptv.com:8080/ammar/ammar/120635
 #EXTINF:-1,Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,TVRI SPORT HD
@@ -524,9 +504,7 @@ http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-1,BT Sports 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT Sports 2 HD
-https://cdn.mmfootballdirect.com/hls/44159558-97a3-4146-8a7e-6eb687c1303f-mglt-c5797590-149b-11eb-94d5-9d7473e818c5-myanmar-c1fd9730-703a-402c-a5a6-36fc66e0c128/playlist.m3u8
-#EXTINF:-1,BT Sports 3 HD
-https://vd159.mycdn.me/expires/1604541783919/srcIp/36.78.203.243/srcAg/CHROME_ANDROID/ms/45.136.21.6/type/5/sig/3wisooh36yY/ct/8/urls/185.226.52.9/clientType/0/id/893458385510/video/
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1,rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Dsport
@@ -707,8 +685,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 http://master.beeiptv.com:8081/colorsiptv/starmovies/playlist.m3u8
 #EXTINF:-1,Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
-#EXTINF:-1,Star Movies India
-http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:-1,OSN Star Movies HD
+http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
+#EXTINF:-1,OSN Yahala Cinema
+http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
 #EXTINF:-1,HBO (Opt-1)
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1,HBO (Opt-2)
@@ -732,19 +712,23 @@ https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1,HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:-1,HBO
-http://62.210.104.181:8080/HBO1/playlist.m3u8
+http://digitalxpress.gcdn.co/live1/hbopolska/index.m3u8
 #EXTINF:-1,HBO2
-http://62.210.104.181:8080/HBO2/playlist.m3u8
+http://digitalxpress.gcdn.co/live1/hbo2polska/index.m3u8
 #EXTINF:-1,HBO3
-http://62.210.104.181:8080/HBO3/playlist.m3u8
-#EXTINF:-1,Cinema
-http://46.8.46.4:80/cinema/playlist.m3u8
+http://digitalxpress.gcdn.co/live1/hbo3polska/index.m3u8
+#EXTINF:-1,Bein Movies HD 1
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8
+#EXTINF:-1,Bein Movies HD 2
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF:-1,Bein Movies HD 3
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
 #EXTINF:-1,A HBO
-http://global.thunderbd.com/42/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Cinemax (Opt-1)
-http://me.zichannels.my.id/ch/max.m3u8
-#EXTINF:-1,Cinemax (Opt-2)
-https://rebrand.ly/CIN-62
+http://89.106.234.4/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,Cinemax 1 HD
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://136.243.177.164/CINEMAX2/playlist.m3u8
 #EXTINF:-1,Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1,WB TV
@@ -851,8 +835,6 @@ http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv
 #EXTINF:-1,CLASSIC MOVIES
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1,MOVIES  PLUS
-http://global.thunderbd.com/97/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1,WOW! TV
@@ -960,7 +942,7 @@ http://global.thunderbd.com/68/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors Cineplex HD
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/index.m3u8
 #EXTINF:-1,Sony TV HD
-http://103.214.202.218:8081/live/sony-40/chunks.m3u8
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 #EXTINF:-1,Sony TV
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 #EXTINF:-1,SONY SET MAX HD
