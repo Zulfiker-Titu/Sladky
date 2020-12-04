@@ -50,9 +50,9 @@ http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-02)
 http://master.beeiptv.com:8081/colorsiptv/gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-1)
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-3)
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
@@ -319,8 +319,8 @@ https://ott.bingebd.com/live/ngrp:cartoon_network_all/playlist.m3u8
 http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/5.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1,Nick Bangla
-http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nick Hindi
+http://witv.live:8880/live/33376/10608/2182.ts
 #EXTINF:-1,NICK JR (Opt-1)
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1,NICK JR (Opt-2)
@@ -472,13 +472,15 @@ https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1,Sport TV 3 HD
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1,Bein Sports HD 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports HD 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1,MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,TVRI SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1,Bayern Munich TV
@@ -539,6 +541,8 @@ https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 http://84.22.33.210/FIGHTBOX/index.m3u8
 #EXTINF:-1,Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1,FIGHT Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1,Sports TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,CH Sports
@@ -702,7 +706,7 @@ https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO Signature (Opt-1)
 http://me.zichannels.my.id/ch/sighd.m3u8
 #EXTINF:-1,HBO Signature (Opt-2)
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
+http://187.120.222.12:8000/play/a00l/index.m3u8
 #EXTINF:-1,HBO Hits (Opt-1)
 http://me.zichannels.my.id/ch/hits.m3u8
 #EXTINF:-1,HBO Hits (Opt-2)
@@ -745,10 +749,10 @@ http://channelsstream.xyz:8080/live/streeem/streeem/7.m3u8
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC 2 HD (Opt-2)
 http://channelsstream.xyz:8080/live/streeem/streeem/2.m3u8
-#EXTINF:-1,MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC Bollywood HD
 http://channelsstream.xyz:8080/live/streeem/streeem/12.m3u8
+#EXTINF:-1,TNT
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1503
 #EXTINF:-1,MNX (Opt-1)
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,MNX (Opt-2)
@@ -1074,7 +1078,7 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 #EXTINF:-1,Discovery (Opt-1)
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Discovery (Opt-2)
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28686?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
+http://84.22.33.210:8000/DiscoveryCH/index.m3u8
 #EXTINF:-1,Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Discovery Channel
