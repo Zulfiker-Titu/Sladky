@@ -149,10 +149,10 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="Entertainment",Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-#EXTINF:-1,DD Bangla
-https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
-#EXTINF:-1,Kolkata TV
-https://load.airtelxstream.in/kolkatatv/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,Express News
+http://streamcp.logosys.cloud:1935/expressnews/expressnews/chunklist_w877989687.m3u8
+#EXTINF:-1,High News
+http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE-4233.ts
 #EXTINF:-1,Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 #EXTINF:-1,CTVN AKD PLUS
@@ -637,8 +637,8 @@ https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1,DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1,Zee News
-https://load.airtelxstream.in/zeenews/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,Zee Bihar Jharkhand
+http://z5amshls.akamaized.net/biharjharkh/playlist.m3u8
 #EXTINF:-1,India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
 #EXTINF:-1,LOK SABHA TV
