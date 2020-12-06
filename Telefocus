@@ -102,7 +102,7 @@ https://ott.bingebd.com/live/ngrp:ruposhi_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
 http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
-http://tv.dflix.live:8082/30/index.m3u8?token=8fa531fee20bdbdcec3b6d8aa7496af44a8e4b49-790082feedc26be030d289471ac02a93-1607280102-1607269302&remote=103.118.79.122
+http://tv.dflix.live:8082/30/index.m3u8?token=a34dddfd0b10fbab0bb828b65efa7bac41a5c2b6-1d34a11b983b5824b0fb8cf06111f501-1607287638-1607276838&remote=103.121.105.10
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
