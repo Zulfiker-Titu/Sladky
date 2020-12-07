@@ -467,9 +467,9 @@ https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1,Bein Sports HD 1
+#EXTINF:-1,Bein Sports 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1,Bein Sports HD 2
+#EXTINF:-1,Bein Sports 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
@@ -522,9 +522,9 @@ http://185.180.14.46/stream125/stream.m3u8
 #EXTINF:-1,Eurosports 2
 http://185.180.14.46/stream126/stream.m3u8
 #EXTINF:-1,Digi Sports 1 HD
-http://185.180.14.46/stream127/stream.m3u8
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/playlit.m3u8
 #EXTINF:-1,Digi Sports 2 HD
-http://185.180.14.46/stream128/stream.m3u8
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlit.m3u8
 #EXTINF:-1,BTV 2
 http://live.btv2020.com:1935/live/btv2/playlist.m3u8
 #EXTINF:-1,S Sports TV
