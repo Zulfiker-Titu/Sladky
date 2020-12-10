@@ -138,7 +138,13 @@ https://ott.bingebd.com:443/live/ngrp:zee_bangla_cinema_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.telugumirchi.com/en/wp-content/uploads/2013/09/tollywood.png" group-title="Entertainment",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:-1,Colors BD TV
-http://master.beeiptv.com:8081/colorsiptv/colorsbdtv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv0090/colorsbdtv/playlist.m3u8
+#EXTINF:-1,Nobodip TV
+http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
+#EXTINF:-1,ABC Bangla
+http://master.beeiptv.com:8081/ATL/atltv/playlist.m3u8
+#EXTINF:-1,Desh TV Bangla
+https://iptv9.raytahost.com:443/live/deshtv/index.m3u8
 #EXTINF:-1,Khushboo Bangla
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-1,Enter 10 Bangla
