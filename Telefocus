@@ -116,7 +116,7 @@ http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies SD
 https://rhridoy136.shortcm.li/starjalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
-https://rhridoy136.shortcm.li/zeebangla.m3u8
+http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
@@ -166,7 +166,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="News",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1 tvg-logo="https://bengali.cdn.zeenews.com/bengali/desktop/logo/Zee-24Ghanta_Mob_career.png" group-title="News",Zee 24 Ghanta
-https://load.airtelxstream.in/zee24ghanta/smil:common.smil/chunklist.m3u8
+http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
 #EXTINF:-1,Bhumi TV
 http://versewsa.pc.cdn.bitgravity.com/hls/bhumitv.m3u8
 #EXTINF:-1,Bangla Time
@@ -641,6 +641,8 @@ https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1,DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1,Zee News
+http://cv.khushitv.xyz/channels.php?c=zeenews&e=.m3u8
 #EXTINF:-1,Zee Bihar Jharkhand
 http://z5amshls.akamaized.net/biharjharkh/playlist.m3u8
 #EXTINF:-1,India Today
