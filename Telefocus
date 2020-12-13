@@ -139,20 +139,10 @@ http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 https://ott.bingebd.com:443/live/ngrp:zee_bangla_cinema_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.telugumirchi.com/en/wp-content/uploads/2013/09/tollywood.png" group-title="Entertainment",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
-#EXTINF:-1,Colors BD TV
-http://master.beeiptv.com:8081/colorsiptv0090/colorsbdtv/playlist.m3u8
-#EXTINF:-1,Nobodip TV
-http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
-#EXTINF:-1,ABC Bangla
-http://master.beeiptv.com:8081/ATL/atltv/playlist.m3u8
-#EXTINF:-1,Desh TV Bangla
-https://iptv9.raytahost.com:443/live/deshtv/index.m3u8
 #EXTINF:-1,Khushboo Bangla
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-1,Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://jagoroni.tv/wp-content/uploads/2020/02/cropped-logo-90-2-3.png" group-title="Entertainment",Jagoroni TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="Entertainment",Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1,Express News
@@ -171,6 +161,24 @@ http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
 http://versewsa.pc.cdn.bitgravity.com/hls/bhumitv.m3u8
 #EXTINF:-1,Bangla Time
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:Banglatime_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
+#EXTINF:-1,Colors BD TV
+http://master.beeiptv.com:8081/colorsiptv0090/colorsbdtv/playlist.m3u8
+#EXTINF:-1,Nobodip TV
+http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
+#EXTINF:-1,ABC Bangla
+http://master.beeiptv.com:8081/ATL/atltv/playlist.m3u8
+#EXTINF:-1,Desh TV Bangla
+https://iptv9.raytahost.com:443/live/deshtv/index.m3u8
+#EXTINF:0 tvg-name="BONGO TV" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",BONGO TV 
+http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8?@asfaiptv 
+#EXTINF:0 tvg-name="CNN" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",CNN 
+https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?@asfaiptv 
+#EXTINF:0 tvg-name="CHANNEL 23" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",CHANNEL 23 
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?@asfaiptv 
+#EXTINF:0 tvg-name="Doyal TV" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Doyal TV 
+http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8?@asfaiptv
+#EXTINF:-1 tvg-logo="https://jagoroni.tv/wp-content/uploads/2020/02/cropped-logo-90-2-3.png" group-title="Entertainment",Jagoroni TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="Entertainment",Cumilla 24 TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="Entertainment",Alif TV
@@ -305,26 +313,24 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:-1,Disvovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
-#EXTINF:-1,Sony YAY Bangla
-https://ott.bingebd.com/live/ngrp:sony_yay_all/playlist.m3u8
 #EXTINF:-1,Disney Channel
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1,Cbeebies BBC
 http://51.52.156.22:8888/http/003
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Cartoon Network (Opt-1)
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1,CN
-https://ott.bingebd.com/live/ngrp:cartoon_network_all/playlist.m3u8
+#EXTINF:-1,Cartoon Network (Opt-2)
+http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
 #EXTINF:-1,CN Arabic
 http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/5.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,Nick Hindi
 http://witv.live:8880/live/33376/10608/2182.ts
-#EXTINF:-1,NICK JR (Opt-1)
+#EXTINF:-1,NICK JR
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1,NICK JR (Opt-2)
-https://ott.bingebd.com/live/ngrp:nick_jr_all/playlist.m3u8
+#EXTINF:-1,Sonic Hindi
+https://ccntv.anytv.live/nick/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,B Kids HD
@@ -347,6 +353,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,Tooncast SD
+http://fonteangelusiptv.com:25461/c42fae920936/c42fae92/179053
 #EXTINF:-1,Sony Ten 1 (Opt-1)
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-2)
@@ -559,10 +567,10 @@ http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
 http://189.91.128.150:5555/udp/227.10.20.81:1234
 #EXTINF:-1,ESPN Brazil (Opt-2)
 http://nodemaster.homelinux.com/ESPNBRASIL-HD/mpegts?token=cOAOwU8SC2
-#EXTINF:-1,Espn HD
-http://nodemaster.homelinux.com/ESPN-HD/mpegts?token=cOAOwU8SC2
-#EXTINF:-1,ESPN
-http://global.thunderbd.com/23/tracks-v1a1/mono.m3u8
+#EXTINF:-1,espn
+http://213.152.161.254:8080/upl8_2.m3u8
+#EXTINF:-1,espn 2
+http://213.152.161.254:8080/upl11_2.m3u8
 #EXTINF:-1,Sport
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,Fox Sports (Opt-1)
@@ -592,7 +600,7 @@ http://51.52.156.22:8888/http/004
 #EXTINF:-1,BBC World News (Opt-02)
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1,BBC World News (Opt-03)
-http://global.thunderbd.com/44/tracks-v1a1/mono.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,CNN International
 http://203.162.235.41:16918
 #EXTINF:-1,CNA World
@@ -725,12 +733,8 @@ http://digitalxpress.gcdn.co/live1/hbopolska/index.m3u8
 http://193.33.39.108:8107/30705
 #EXTINF:-1,HBO3
 http://digitalxpress.gcdn.co/live1/hbo3polska/index.m3u8
-#EXTINF:-1,Bein Movies HD 1
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8
-#EXTINF:-1,Bein Movies HD 2
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1,Bein Movies HD 3
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
+#EXTINF:-1,Film
+http://178.159.14.234:8000/play/a02x
 #EXTINF:-1,A HBO
 http://89.106.234.4/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1,Cinemax HD
@@ -944,11 +948,9 @@ http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/index.m3u8
 #EXTINF:-1,Sony TV HD
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 #EXTINF:-1,Sony TV
-http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
-#EXTINF:-1,SONY SET MAX HD
-http://global.thunderbd.com/37/tracks-v1a1/mono.m3u8
+https://ccntv.anytv.live/sony/index.m3u8
 #EXTINF:-1,SONY SET MAX (Opt-1)
-https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://ccntv.anytv.live/sonymax/index.m3u8
 #EXTINF:-1,SONY SET MAX (Opt-2)
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1,Sony Max 2
@@ -961,10 +963,8 @@ http://45.249.187.238:8081/hls/tsl-4.m3u8
 http://iptv.mirrorace.net/?channelid=474
 #EXTINF:-1,Sony Waw
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b564000_sleng.m3u8
-#EXTINF:-1,Star Plus HD
-http://global.thunderbd.com/38/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus
-http://global.thunderbd.com/67/tracks-v1a1/mono.m3u8
+https://ccntv.anytv.live/starplus/index.m3u8
 #EXTINF:-1,Star Plus India
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus UK
@@ -1029,12 +1029,10 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
 #EXTINF:-1,Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,Animal Planet HD (Opt-1)
+#EXTINF:-1,Animal Planet HD
 http://62.210.82.206:25461/live/12345/1234/34466.m3u8?token=QhVcUhcJRggXXVNWCwcAB1VQUAcHXlUFBFENVANWWlUKUVZSUVhXBg1GGURBEkJRAFtpWgVEXlBRUANXSkAXElxFa1oAQ14QAFYFUwJfEhhDQl9eBEReU0lGRQgCQFhDAAYGB0ZNRldNEFAUXAdcawVTQFoCA0ZZCxFZDUpADQ9mU1FeBQ8AEA9GBEQeRFlHERQMXRQKCE9HBlwVFAMWBBsNWkYIDUgQVgtACEYUSRZbFHR0Q0pGBh0QUA8VCw0PGw0WXlcUXBAZRlwVbRRVRxVEU1IMAxZBX0YFQ0pADwBBaFdcCg8BUUENWghBRAoWUBQaEQwJCgoRC0c+FgsGQwMVDQJUVUZP
-#EXTINF:-1,Animal Planet HD (Opt-2)
-http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34481?play_token=vRkKehJUOG&token=QhVcUhcJRggXUwQDAgRUVVkDAQRQUQdTVgFWUFUGUAIMUg0LU1ZWC1ZGGURBEkJRAFtpWgVEXlBRUAJRSkAXElxFa1oAQ14QB1wBVwFQEhhDQl9eBEReUlBdAFhfVVRWDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,Animal Planet (eng)
-http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28815?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+http://193.33.39.108:8107/30704
 #EXTINF:-,BBC earth
 http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28694?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1,Sony BBC Earth
@@ -1043,6 +1041,8 @@ http://iptvtree.net:8080/13354/27c12697/192995
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1,FOX Life (eng)
 http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28677?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
+#EXTINF:-1,History HD
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1,History TV
 https://ch.iptvmate.net/5e9350258beb894140335ff6.m3u8
 #EXTINF:-1,VoA TV
@@ -1171,6 +1171,8 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:-1,Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1,Click TV
+http://185.47.188.226/live/click_tv/playlist.m3u8
 #EXTINF:-1,DeeJay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,Kadak Hits
@@ -1209,8 +1211,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1,51
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1,MTV India
-http://dx3.gcdn.co/hindi-MTVINDIA/index.m3u8
+#EXTINF:-1,Pen Love
+https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV Hits
