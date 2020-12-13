@@ -697,12 +697,6 @@ http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4862
 #EXTINF:-1,MY Cinema HD
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4865
-#EXTINF:-1,OSN MOVIES BINGE HD
-http://panel-iptv.ovh:25461/lokman/lokman/164943
-#EXTINF:-1,OSN Enigma
-http://panel-iptv.ovh:25461/lokman/lokman/164944
-#EXTINF:-1,OSN Movies First
-http://panel-iptv.ovh:25461/lokman/lokman/164946
 #EXTINF:-1,HBO (Opt-1)
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1,HBO (Opt-2)
@@ -855,16 +849,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1,WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1,Sci-fi 4U
-https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Film Hits HD
-http://pop-kanale.com:20201/Restream/topiptv/23
-#EXTINF:-1,Film Dy HD
-http://pop-kanale.com:20201/Restream/topiptv/22
-#EXTINF:-1,Film Autor HD
-http://pop-kanale.com:20201/Restream/topiptv/20
-#EXTINF:-1,Film Aksion HD
-http://pop-kanale.com:20201/Restream/topiptv/19
 #EXTINF:-1,Tring Super HD
 http://185.47.188.226/live/tring_super/playlist.m3u8
 #EXTINF:-1,Sony Pix HD
@@ -1067,17 +1051,15 @@ http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFz
 https://fra-haproxy.angelthump.com/hls/menie1/index.m3u8?stream=menie1
 #EXTINF:-1,H2 (Opt-2)
 http://185.236.229.27:8000/play/vmM0SsP5@3RqM70Z
+#EXTINF:-1,WORLD ANIMAL HD
+http://203.154.243.89:1201
 #EXTINF:-1,NAT GEO
 http://54.37.82.205:8081/liveorigin/hd-natgeo_720/playlist.m3u8
 #EXTINF:-1,NAT GEO WILD
-http://54.37.82.205:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
+http://193.126.18.184:4022/udp/239.100.40.13:1234
 #EXTINF:-1,NAT GEO PEOPLE
 http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28658?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs=
-#EXTINF:-1,National Geographic HD (Opt-1)
-http://otv.ftpbd.net/streams/110/index.m3u8
-#EXTINF:-1,National Geographic HD (Opt-2)
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
-#EXTINF:-1,National Geographic HD (Opt-3)
+#EXTINF:-1,National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
