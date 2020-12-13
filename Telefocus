@@ -169,14 +169,14 @@ http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
 http://master.beeiptv.com:8081/ATL/atltv/playlist.m3u8
 #EXTINF:-1,Desh TV Bangla
 https://iptv9.raytahost.com:443/live/deshtv/index.m3u8
-#EXTINF:0 tvg-name="BONGO TV" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",BONGO TV 
-http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8?@asfaiptv 
-#EXTINF:0 tvg-name="CNN" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",CNN 
-https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?@asfaiptv 
-#EXTINF:0 tvg-name="CHANNEL 23" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",CHANNEL 23 
-http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?@asfaiptv 
-#EXTINF:0 tvg-name="Doyal TV" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Doyal TV 
-http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8?@asfaiptv
+#EXTINF:-1,BONGO TV
+http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
+#EXTINF:-1,CNN Bangla
+https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
+#EXTINF:-1,CHANNEL 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
+#EXTINF:-1,Doyal TV
+http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8
 #EXTINF:-1 tvg-logo="https://jagoroni.tv/wp-content/uploads/2020/02/cropped-logo-90-2-3.png" group-title="Entertainment",Jagoroni TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="Entertainment",Cumilla 24 TV
