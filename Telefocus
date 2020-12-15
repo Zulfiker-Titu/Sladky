@@ -487,6 +487,30 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1,beIN Sports HD 1
+http://185.246.210.53:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 2
+http://185.246.210.53:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 3
+http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 4
+http://185.246.210.53:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 5
+http://185.246.210.53:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 6
+http://185.246.210.53:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 7
+http://185.246.210.53:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 8
+http://185.246.210.53:2200/EX/bein8hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 9
+http://185.246.210.53:2200/EX/bein9hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 10
+http://185.246.210.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 11
+http://185.246.210.53:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:-1,beIN Sports HD 12
+http://185.246.210.53:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1,MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,TVRI SPORT HD
