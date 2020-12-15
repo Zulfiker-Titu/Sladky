@@ -488,7 +488,7 @@ https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 1
-http://185.246.210.53:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://160.119.77.116:8081/iptv/hd-bein1.stream/chunks.m3u8
 #EXTINF:-1,beIN Sports HD 2
 http://185.246.210.53:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1,beIN Sports HD 3
