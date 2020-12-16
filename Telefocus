@@ -752,11 +752,11 @@ https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1,HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:-1,HBO
-http://digitalxpress.gcdn.co/live1/hbopolska/index.m3u8
+http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1,HBO2
-http://193.33.39.108:8107/30705
+http://136.243.177.164/HBO2/playlist.m3u8
 #EXTINF:-1,HBO3
-http://digitalxpress.gcdn.co/live1/hbo3polska/index.m3u8
+http://136.243.177.164/HBO3/playlist.m3u8
 #EXTINF:-1,Film
 http://178.159.14.234:8000/play/a02x
 #EXTINF:-1,A HBO
