@@ -386,7 +386,7 @@ https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m
 #EXTINF:-1,Sony Ten 3 (Opt-4)
 http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-5)
-http://global.thunderbd.com/22/tracks-v1a1/mono.m3u8
+http://125.209.89.83:5555/play/a01f
 #EXTINF:-1,Sony SIX (Opt-1)
 https://ott.bingebd.com/live/ngrp:sony_six_all/playlist.m3u8
 #EXTINF:-1,Sony SIX (Opt-2)
@@ -400,7 +400,7 @@ http://global.thunderbd.com/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-01)
 http://195.181.172.83:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/mono.m3u8?token=
 #EXTINF:-1,Star Sports 1 (Opt-02)
-http://45.249.187.238:8081/hls/new2.m3u8
+http://125.209.89.83:5555/play/a017
 #EXTINF:-1,Star Sports 1 (Opt-03)
 http://aklivetv.com:8080/starsports1/mono.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-04)
@@ -729,8 +729,8 @@ http://master.beeiptv.com:8081/colorsiptv/starmovies/playlist.m3u8
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1,OSN Star Movies HD
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
-#EXTINF:-1,OSN Star World HD
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4862
+#EXTINF:-1,Star World
+http://125.209.89.83:5555/play/a018
 #EXTINF:-1,MY Cinema HD
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4865
 #EXTINF:-1,HBO (Opt-1)
@@ -908,7 +908,7 @@ http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
 #EXTINF:-1,& TV
 http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF:-1,UTV Action
-http://45.249.187.238:8081/hls/tsl-7.m3u8
+http://125.209.89.83:5555/play/a03d/index.m3u8
 #EXTINF:-1,Zee Cinema (Opt-1)
 http://iptv.mirrorace.net/?channelid=484
 #EXTINF:-1,Zee Cinema (Opt-2)
@@ -1008,7 +1008,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee TV
-http://global.thunderbd.com/40/tracks-v1a1/mono.m3u8
+http://125.209.89.83:5555/play/a037/index.m3u8
 #EXTINF:-1,ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1,The Q
