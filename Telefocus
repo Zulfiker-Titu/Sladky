@@ -661,8 +661,8 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8?@ama
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?checkedby:hlscat.com
 #EXTINF:-1,TRT WORLD HD
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,Russia Today
-http://uiptv.do.am/1ufc/702424953/playlist.m3u8
+#EXTINF:-1,RT News
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
 #EXTINF:-1,CBSN News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1,ARY News
