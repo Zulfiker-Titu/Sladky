@@ -984,9 +984,9 @@ http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1,Sony Max 2
 http://iptv.mirrorace.net/?channelid=483
 #EXTINF:-1,Sony SAB (Opt-1)
-http://103.214.202.218:8081/live/sonysab/playlist.m3u8
+https://1skytv.com:88/live/VgVNQvRJiL/bmRYPxNavJ/3527.ts
 #EXTINF:-1,Sony SAB (Opt-2)
-http://45.249.187.238:8081/hls/tsl-4.m3u8
+http://125.209.89.83:5555/play/a03l/index.m3u8
 #EXTINF:-1,Sony Pal
 http://iptv.mirrorace.net/?channelid=474
 #EXTINF:-1,Sony Waw
@@ -997,8 +997,8 @@ https://ccntv.anytv.live/starplus/index.m3u8
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus UK
 http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold HD
-http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Gold
+http://125.209.89.83:5555/play/a03g/index.m3u8
 #EXTINF:-1,Star Bharat HD
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 #EXTINF:-1,Star Life
