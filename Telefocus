@@ -473,6 +473,8 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1,PTV Sports
 https://live-kcs.cdnvideo.ru/shaamtv/superleag/chunklist.m3u8
+#EXTINF:-1,MY SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1,F+
 http://136.243.177.164/FPLUS/index.m3u8
 #EXTINF:-1,Sport TV 1 HD
