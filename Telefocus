@@ -735,10 +735,8 @@ http://otv.ftpbd.net/streams/111/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1,HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1,HBO HD (Opt-1)
-http://195.154.184.150:25461/KLp1VrQ0Ig/9UE8tQL5Wf/34793?play_token=cZNK0pfRz6&token=QhVcUhcJRggXBQxSB1UBBFFXAwcCBQEHUFUDB1IGU1hfBQJXBVlVAQVGGURBEkJRAFtpWgVEXlBRUwxSSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlFRChsWQw0FRggXVQdQClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBgdWFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABRAwNXFEs=
-#EXTINF:-1,HBO HD (Opt-2)
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,HBO HD
+http://planettvweb.com:8091/German/German/11649?checkedby:hlscat.com
 #EXTINF:-1,HBO Signature (Opt-1)
 http://me.zichannels.my.id/ch/sighd.m3u8
 #EXTINF:-1,HBO Signature (Opt-2)
