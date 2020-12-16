@@ -309,8 +309,6 @@ https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=14186771
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1,Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,Bein Cartoon Network
-http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:-1,Disvovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
 #EXTINF:-1,Disney Channel
@@ -327,12 +325,16 @@ http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/5.m3u8
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,Nick Hindi
 http://witv.live:8880/live/33376/10608/2182.ts
-#EXTINF:-1,NICK JR
+#EXTINF:-1,NICK Jr (Opt-1)
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,Nick Jr (Opt-2)
+http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28747?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
 #EXTINF:-1,Sonic Hindi
 https://ccntv.anytv.live/nick/index.m3u8
 #EXTINF:-1,Nickelodeon
-http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28748?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
+#EXTINF:-1,Kids TV
+http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28760?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
 #EXTINF:-1,B Kids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1,Baby First
@@ -482,7 +484,7 @@ https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1,Bein Sports 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28732?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
 #EXTINF:-1,Bein Sports 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,Bein Sports Extra
@@ -654,7 +656,7 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?checkedby:hlscat.co
 #EXTINF:-1,TRT WORLD HD
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,Russia Today
-http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8
 #EXTINF:-1,CBSN News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1,ARY News
@@ -813,8 +815,8 @@ http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28696?play_token=99tSHQmz6a&tok
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
 #EXTINF:-1,HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1,Lotus Macau
-https://ott.bingebd.com/live/ngrp:macau_lotus_all/playlist.m3u8
+#EXTINF:-1,Hits Movies
+http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28765?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
 #EXTINF:-1,Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1,ROMEDY NOW
