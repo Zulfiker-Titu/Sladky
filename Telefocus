@@ -605,14 +605,12 @@ http://213.152.161.254:8080/upl8_2.m3u8
 http://213.152.161.254:8080/upl11_2.m3u8
 #EXTINF:-1,Sport
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,Fox Sports (Opt-1)
+#EXTINF:-1,Fox Sports 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1,Fox Sports (Opt-2)
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28675?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1,Fox Sports 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1,Fox Sports 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1,Premier Club HD
 http://nodemaster.homelinux.com/PREMIERECLUBES-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,TRING SPORT 2 SD
