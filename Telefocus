@@ -388,7 +388,7 @@ http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-5)
 http://125.209.89.83:5555/play/a01f
 #EXTINF:-1,Sony SIX (Opt-1)
-https://ott.bingebd.com/live/ngrp:sony_six_all/playlist.m3u8
+http://89.187.169.203:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=RED_55AQx02f0gL4n8wu3O7fqA==,1608182147.5691007667
 #EXTINF:-1,Sony SIX (Opt-2)
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SIX (Opt-3)
@@ -474,7 +474,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1,PTV Sports
-https://live-kcs.cdnvideo.ru/shaamtv/superleag/chunklist.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/ptvsports.smil/chunklist.m3u8
 #EXTINF:-1,MY SPORTS
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1,F+
@@ -494,23 +494,23 @@ https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,beIN Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 1
-http://185.246.210.53:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://135.181.31.32/hls/bein1.m3u8
 #EXTINF:-1,beIN Sports HD 2
-http://185.246.210.53:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://135.181.31.32/hls/bein2.m3u8
 #EXTINF:-1,beIN Sports HD 3
-http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://135.181.31.32/hls/bein3.m3u8
 #EXTINF:-1,beIN Sports HD 4
-http://185.246.210.53:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://135.181.31.32/hls/bein4.m3u8
 #EXTINF:-1,beIN Sports HD 5
-http://185.246.210.53:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://135.181.31.32/hls/bein5.m3u8
 #EXTINF:-1,beIN Sports HD 6
-http://185.246.210.53:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://135.181.31.32/hls/bein6.m3u8
 #EXTINF:-1,beIN Sports HD 7
-http://185.246.210.53:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://135.181.31.32/hls/bein7.m3u8
 #EXTINF:-1,beIN Sports HD 8
-http://185.246.210.53:2200/EX/bein8hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://135.181.31.32/hls/bein8.m3u8
 #EXTINF:-1,beIN Sports HD 9
-http://185.246.210.53:2200/EX/bein9hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://135.181.31.32/hls/bein9.m3u8
 #EXTINF:-1,beIN Sports HD 10
 http://185.246.210.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1,beIN Sports HD 11
