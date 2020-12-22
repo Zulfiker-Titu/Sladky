@@ -781,6 +781,8 @@ http://136.243.177.164/CINEMAX/playlist.m3u8
 http://136.243.177.164/CINEMAX2/playlist.m3u8
 #EXTINF:-1,Sony Movies Action
 http://51.52.156.22:8888/http/009
+#EXTINF:-1,Sony Channel
+http://45.182.127.235:8000/play/a0e8
 #EXTINF:-1,WB TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1,itv 2
@@ -794,15 +796,17 @@ http://channelsstream.xyz:8080/live/streeem/streeem/7.m3u8
 #EXTINF:-1,MBC 2 HD (Opt-1)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC 2 HD (Opt-2)
-http://channelsstream.xyz:8080/live/streeem/streeem/2.m3u8
+http://93.184.1.247/MBC2/index.m3u8
 #EXTINF:-1,MBC Bollywood HD
-http://channelsstream.xyz:8080/live/streeem/streeem/12.m3u8
+http://93.184.1.247/MBCBollywood/index.m3u8
 #EXTINF:-1,TNT
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1503
-#EXTINF:-1,MNX (Opt-1)
+#EXTINF:-1,TNT SERIES HD
+http://45.182.127.235:8000/play/a0eh
+#EXTINF:-1,Xparumenu
+http://zigfreed.ru/2xD/2.m3u8
+#EXTINF:-1,MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1,MNX (Opt-2)
-http://global.thunderbd.com/39/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MN+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 #EXTINF:-1,Thrill HD
@@ -1285,8 +1289,12 @@ https://ch.iptvmate.net/5e936cdb655d2d10063e4b9a.m3u8
 http://zigfreed.ru/A7Z/300.m3u8
 #EXTINF:-1,D5 Music
 http://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
-#EXTINF:-1,[V]
-https://www.fanmingming.cn/hls/channelv.m3u8
+#EXTINF:-1,Trace Toca
+https://mj1b2xsspj.singularcdn.net.br/trace/toca/6/prog_index.m3u8
+#EXTINF:-1,Trace Latina
+https://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8
+#EXTINF:-1,Trace Brazuca
+https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 #EXTINF:-1,[V] HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,NRG 91
