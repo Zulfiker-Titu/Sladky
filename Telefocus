@@ -792,17 +792,15 @@ http://51.52.156.22:8888/http/006
 #EXTINF:-1,MBC MAX HD (Opt-1)
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC MAX HD (Opt-2)
-http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/21.ts
+http://185.246.210.55:2200/EX/MBC_MAX_HD-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,MBC 2 HD (Opt-1)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC 2 HD (Opt-2)
-http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/15.ts
+http://185.246.210.55:2200/EX/MBC_2_HD-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,MBC Bollywood HD
-http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/34.ts
+http://185.246.210.55:2200/EX/MBC_BOLLYWOOD_HD-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,MBC Bollywood SD 
 http://93.184.1.247/MBCBollywood/index.m3u8
-#EXTINF:-1,4 HD
-http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/19.ts
 #EXTINF:-1,beIN Movies HD 1
 http://185.246.210.55:2200/EX/BeinMoviesHD1-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Movies HD 2
