@@ -803,6 +803,14 @@ http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/34.ts
 http://93.184.1.247/MBCBollywood/index.m3u8
 #EXTINF:-1,4 HD
 http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/19.ts
+#EXTINF:-1,beIN Movies HD 1
+http://185.246.210.55:2200/EX/BeinMoviesHD1-ar/index.m3u8?token=xrstalker
+#EXTINF:-1,beIN Movies HD 2
+http://185.246.210.55:2200/EX/BeinMoviesHD2-ar/index.m3u8?token=xrstalker
+#EXTINF:-1,beIN Movies HD 3
+http://185.246.210.55:2200/EX/BeinMoviesHD3-ar/index.m3u8?token=xrstalker
+#EXTINF:-1,beIN Movies HD 4
+http://185.246.210.55:2200/EX/BeinMoviesHD4-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,TNT
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1503
 #EXTINF:-1,TNT SERIES HD
