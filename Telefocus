@@ -504,17 +504,17 @@ http://185.246.210.55:2200/EX/beinsports3uhd-tr/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Sports HD 4
 http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Sports HD 5
-http://135.181.31.32/hls/bein5.m3u8
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_5HD-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Sports HD 6
-http://135.181.31.32/hls/bein6.m3u8
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_6HD-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Sports HD 7
-http://135.181.31.32/hls/bein7.m3u8
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Sports HD 8
-http://135.181.31.32/hls/bein8.m3u8
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Sports HD 9
-http://135.181.31.32/hls/bein9.m3u8
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_9HD-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Sports HD 10
-http://185.246.210.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_10HD-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Sports HD 11
 http://185.246.210.53:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1,beIN Sports HD 12
@@ -792,13 +792,17 @@ http://51.52.156.22:8888/http/006
 #EXTINF:-1,MBC MAX HD (Opt-1)
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC MAX HD (Opt-2)
-http://channelsstream.xyz:8080/live/streeem/streeem/7.m3u8
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/21.ts
 #EXTINF:-1,MBC 2 HD (Opt-1)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 #EXTINF:-1,MBC 2 HD (Opt-2)
-http://93.184.1.247/MBC2/index.m3u8
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/15.ts
 #EXTINF:-1,MBC Bollywood HD
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/34.ts
+#EXTINF:-1,MBC Bollywood SD 
 http://93.184.1.247/MBCBollywood/index.m3u8
+#EXTINF:-1,4 HD
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/19.ts
 #EXTINF:-1,TNT
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1503
 #EXTINF:-1,TNT SERIES HD
