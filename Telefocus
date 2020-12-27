@@ -811,6 +811,8 @@ http://185.246.210.55:2200/EX/BeinMoviesHD2-ar/index.m3u8?token=xrstalker
 http://185.246.210.55:2200/EX/BeinMoviesHD3-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,beIN Movies HD 4
 http://185.246.210.55:2200/EX/BeinMoviesHD4-ar/index.m3u8?token=xrstalker
+#EXTINF:-1,beIN Series HD 1
+http://185.246.210.55:2200/EX/BeinSeriesHD1-ar/index.m3u8?token=xrstalker
 #EXTINF:-1,TNT
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1503
 #EXTINF:-1,TNT SERIES HD
