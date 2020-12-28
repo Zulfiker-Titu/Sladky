@@ -502,7 +502,7 @@ http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=xxaazzzxxx123zz
 #EXTINF:-1,beIN Sports HD 2
 http://185.246.210.55:2200/EX/beinsports2uhd-tr/index.m3u8?token=xxaazzzxxx123zzzaaa
 #EXTINF:-1,beIN Sports HD 3
-http://185.246.210.55:2200/EX/beinsports3uhd-tr/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=xxaazzzxxx123zzzaaa
 #EXTINF:-1,beIN Sports HD 4
 http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=xxaazzzxxx123zzzaaa
 #EXTINF:-1,beIN Sports HD 5
