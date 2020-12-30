@@ -498,33 +498,33 @@ https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,beIN Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 1
-http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 2
-http://185.246.210.55:2200/EX/beinsports2uhd-tr/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/beinsports2uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 3
-http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 4
-http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 5
-http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_5HD-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_5HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 6
-http://185.246.210.53:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.53:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 7
-http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 8
-http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 9
-http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_9HD-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_9HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 10
-http://185.246.210.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 11
-http://185.246.210.53:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.53:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 12
-http://185.246.210.53:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.53:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 13
-http://156.146.43.241:2200/EX/beIN_Sports_13_HD-ar/mpegts?token=xxaazzzxxx123zzzaaa
+http://156.146.43.241:2200/EX/beIN_Sports_13_HD-ar/mpegts?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 #EXTINF:-1,TVRI SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1,Bayern Munich TV
@@ -792,27 +792,27 @@ http://51.52.156.22:8888/http/005
 #EXTINF:-1,itv 3
 http://51.52.156.22:8888/http/006
 #EXTINF:-1,MBC MAX HD (Opt-1)
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 #EXTINF:-1,MBC MAX HD (Opt-2)
-http://185.246.210.55:2200/EX/MBC_MAX_HD-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/MBC_MAX_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,MBC 2 HD (Opt-1)
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1,MBC 2 HD (Opt-2)
-http://185.246.210.55:2200/EX/MBC_2_HD-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/MBC_2_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,MBC Bollywood HD
-http://185.246.210.55:2200/EX/MBC_BOLLYWOOD_HD-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/MBC_BOLLYWOOD_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,MBC Bollywood SD 
 http://93.184.1.247/MBCBollywood/index.m3u8
 #EXTINF:-1,beIN Movies HD 1
-http://185.246.210.55:2200/EX/BeinMoviesHD1-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/BeinMoviesHD1-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Movies HD 2
-http://185.246.210.55:2200/EX/BeinMoviesHD2-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/BeinMoviesHD2-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Movies HD 3
-http://185.246.210.55:2200/EX/BeinMoviesHD3-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/BeinMoviesHD3-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Movies HD 4
-http://185.246.210.55:2200/EX/BeinMoviesHD4-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/BeinMoviesHD4-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Series HD 1
-http://185.246.210.55:2200/EX/BeinSeriesHD1-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/BeinSeriesHD1-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,TNT
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1503
 #EXTINF:-1,TNT SERIES HD
