@@ -443,6 +443,26 @@ http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mo
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/chunks.m3u8
+#EXTINF:-1,Sky Sports F1
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1,Fox Sports Racing
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2128
+#EXTINF:-1,TSN1
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2129
+#EXTINF:-1,TSN2
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2130
+#EXTINF:-1,TSN3
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2131
+#EXTINF:-1,TSN4
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2132
+#EXTINF:-1,TSN5
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2133
+#EXTINF:-1,SN
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2134
+#EXTINF:-1,SNP
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2135
+#EXTINF:-1,SNO
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/2136
 #EXTINF:-1,Ten Cricket
 http://45.127.244.7:8080/hls/channel9.m3u8
 #EXTINF:-1,Ten Sports
