@@ -192,7 +192,7 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Biswa Bangla 24 TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1,Varendra TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 #EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1,NRB Connect
@@ -494,7 +494,7 @@ http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=123zzzaaaxxaazz
 #EXTINF:-1,beIN Sports HD 2
 http://185.246.210.55:2200/EX/beinsports2uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 3
-http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://185.246.210.55:2200/EX/beinsport31uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 4
 http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 5
