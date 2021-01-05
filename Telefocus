@@ -504,7 +504,7 @@ http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=123zzzaaaxxaazz
 #EXTINF:-1,beIN Sports HD 5
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_5HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 6
-http://185.246.210.53:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_6HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 7
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 8
@@ -512,7 +512,7 @@ http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/index.m3u8?token=123zzzaaa
 #EXTINF:-1,beIN Sports HD 9
 http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_9HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 10
-http://185.246.210.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_10HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 11
 http://185.246.210.53:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 12
