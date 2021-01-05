@@ -722,9 +722,9 @@ http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1,Star World SD
 http://125.209.89.83:5555/play/a018
 #EXTINF:-1,OSN Star Movies HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_STAR_MOVIES-ar
+http://185.246.210.55:2200/OSN-EX/OSN_STAR_MOVIES-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,OSN Star Movies HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_STAR_WORLD-ar
+http://185.246.210.55:2200/OSN-EX/OSN_STAR_WORLD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,MY Cinema HD
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4865
 #EXTINF:-1,HBO (Opt-1)
