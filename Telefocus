@@ -479,11 +479,11 @@ http://43.251.86.6:8080/hls/channel_1.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1,F+
 http://136.243.177.164/FPLUS/index.m3u8
-#EXTINF:-1,Sport TV 1 HD
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,Sport TV 2 HD
+#EXTINF:-1,Sport TV HD 1
+http://xtream.ws:8080/live/fullhdp.servep2p/live.mtg_2406_1/1060.m3u8
+#EXTINF:-1,Sport TV HD 2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,Sport TV 3 HD
+#EXTINF:-1,Sport TV HD 3
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,beIN Sports 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
@@ -498,7 +498,7 @@ http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=123zzzaaaxxaazz
 #EXTINF:-1,beIN Sports HD 2
 http://185.246.210.55:2200/EX/beinsports2uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 3
-http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
+http://185.246.210.55:2200/EX/beinsports3uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 4
 http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,beIN Sports HD 5
