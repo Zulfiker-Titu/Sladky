@@ -153,6 +153,8 @@ https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 http://streamcp.logosys.cloud:1935/expressnews/expressnews/chunklist_w877989687.m3u8
 #EXTINF:-1,Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
+#EXTINF:-1,Ekhon Kolkata
+http://cdn.live5.in:1935/live/sun6/chunklist.m3u8
 #EXTINF:-1,CTVN AKD PLUS
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/ABP_Anada_logo.png/100px-ABP_Anada_logo.png" group-title="News",ABP Ananda
@@ -195,6 +197,8 @@ https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 #EXTINF:-1,Doyel TV
 http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8
+#EXTINF:-1,Jara TV
+https://jaratv-hls.telelivebd.com:443/jaratv/jaratv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVSRfsJ/voice.jpg" group-title="Entertainment",Voice TV
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://jagoroni.tv/wp-content/uploads/2020/02/cropped-logo-90-2-3.png" group-title="Entertainment",Jagoroni TV
