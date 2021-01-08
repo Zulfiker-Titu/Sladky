@@ -305,6 +305,8 @@ http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1,News Live
 https://cdn.pride-east.in:443/smartstream-us/newslivembr/newslivembr.smil/chunklist_w1134718099_b400000.m3u8
+#EXTINF:-1,Alanker TV
+https://cdn.smartstream.video/smartstream-us/alankartvmbr/alankartvmbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/DD_Odia.png" group-title="Odia",DD Odia
 https://streamitv.multitvsolution.in/idvo/ddodia.m3u8
 #EXTINF:-1,OTV 
