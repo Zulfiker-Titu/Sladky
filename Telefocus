@@ -449,12 +449,16 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,PTV Sports
+#EXTINF:-1,PTV Sports (Opt-1)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1,PTV Sports (Opt-2)
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:-1,Geo Super
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,F+
 http://136.243.177.164/FPLUS/index.m3u8
+#EXTINF:-1,Look Sports + HD
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
 #EXTINF:-1,Sport TV HD 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,Sport TV HD 2
@@ -733,6 +737,8 @@ http://209.126.120.153:80/hls/starmovies.m3u8
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1,Star World SD
 http://125.209.89.83:5555/play/a018
+#EXTINF:-1,Star TV 1000
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=219&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
 #EXTINF:-1,m1 Movies
 http://45.249.9.21:8000/play/a06i/index.m3u8
 #EXTINF:-1,m2 Movies
@@ -1129,10 +1135,8 @@ http://45.249.9.21:8000/play/a06f/index.m3u8
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1,CGTV Documentary
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1,Docu Box
-http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8
-#EXTINF:-1,One Studio
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Blue Ant Extreme
@@ -1289,6 +1293,8 @@ https://mj1b2xsspj.singularcdn.net.br/trace/toca/6/prog_index.m3u8
 https://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8
 #EXTINF:-1,Trace Brazuca
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
+#EXTINF:-1,EBC Music
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1,[V] HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,NRG 91
@@ -1297,7 +1303,7 @@ http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1,Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1,Tile Mousiki
+#EXTINF:-1,Tile Mousik
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1,Music HD
 http://tv-swirtvteam.info/oq/co.m3u8?sid=B9EFC54E&id=10259&q=tvhd
