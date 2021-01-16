@@ -417,6 +417,8 @@ http://45.249.9.21:8000/play/a06g/index.m3u8
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports F1 (Opt-2)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,Sky Net Sports HD
+http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
 #EXTINF:-1,Ten Cricket
 http://45.127.244.7:8080/hls/channel9.m3u8
 #EXTINF:-1,Ten Sports
@@ -429,6 +431,14 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 #EXTINF:-1,Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1,Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1,Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+#EXTINF:-1,Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
+#EXTINF:-1,Dubai Sports 4
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports4
 #EXTINF:-1,Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1,Al Kass Sports 2
@@ -439,12 +449,10 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,PTV Sports (Opt-1)
+#EXTINF:-1,PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1,PTV Sports (Opt-2)
-http://43.251.86.6:8080/hls/channel_1.m3u8
-#EXTINF:-1,MY SPORTS
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:-1,Geo Super
+http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,F+
 http://136.243.177.164/FPLUS/index.m3u8
 #EXTINF:-1,Sport TV HD 1
@@ -603,6 +611,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1,Fox Sports 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 503 HD
+http://45.249.9.21:8000/play/a06t/index.m3u8
 #EXTINF:-1,Premier Club HD
 http://nodemaster.homelinux.com/PREMIERECLUBES-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,TRING SPORT 2 SD
@@ -703,8 +713,8 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
-#EXTINF:-1,FOOD FOOD
-https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
+#EXTINF:-1,Cooking Active
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/corona-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1,24 Kitchen HD
@@ -723,24 +733,24 @@ http://209.126.120.153:80/hls/starmovies.m3u8
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1,Star World SD
 http://125.209.89.83:5555/play/a018
-#EXTINF:-1,OSN Star Movies HD
-http://185.246.210.55:2200/OSN-EX/OSN_STAR_MOVIES-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1,OSN Star Movies HD
-http://185.246.210.55:2200/OSN-EX/OSN_STAR_WORLD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1,m1 Movies
+http://45.249.9.21:8000/play/a06i/index.m3u8
+#EXTINF:-1,m2 Movies
+http://45.249.9.21:8000/play/a06j/index.m3u8
+#EXTINF:-1,SYFY
+http://45.249.9.21:8000/play/a06v/index.m3u8
+#EXTINF:-1,V Film Action
+http://45.249.9.21:8000/play/a06w/index.m3u8
+#EXTINF:-1,V Film Premiere
+http://45.249.9.21:8000/play/a06x/index.m3u8
+#EXTINF:-1,SCI HD
+http://45.249.9.21:8000/play/a06y/index.m3u8
 #EXTINF:-1,MY Cinema HD
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4865
 #EXTINF:-1,HBO (Opt-1)
-http://otv.ftpbd.net/streams/111/index.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,HBO (Opt-2)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1,HBO Asia
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1,HBO HD (Opt-1)
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1,HBO HD (Opt-2)
-http://planettvweb.com:8091/German/German/11649?checkedby:hlscat.com
-#EXTINF:-1,HBO GO
-http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28665?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs=
 #EXTINF:-1,HBO Signature (Opt-1)
 http://me.zichannels.my.id/ch/sighd.m3u8
 #EXTINF:-1,HBO Signature (Opt-2)
@@ -775,6 +785,8 @@ http://51.52.156.22:8888/http/009
 http://45.182.127.235:8000/play/a0e8
 #EXTINF:-1,WB TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,itv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/71b5c8483161297.m3u8
 #EXTINF:-1,itv 2
 http://51.52.156.22:8888/http/005
 #EXTINF:-1,itv 3
@@ -786,27 +798,11 @@ http://185.246.210.55:2200/EX/MBC_MAX_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx
 #EXTINF:-1,MBC 2 HD (Opt-1)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1,MBC 2 HD (Opt-2)
-http://185.246.210.55:2200/EX/MBC_2_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1,MBC Bollywood HD
-http://185.246.210.55:2200/EX/MBC_BOLLYWOOD_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1,MBC Bollywood SD 
-http://93.184.1.247/MBCBollywood/index.m3u8
-#EXTINF:-1,beIN Movies HD 1
-http://185.246.210.55:2200/EX/BeinMoviesHD1-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1,beIN Movies HD 2
-http://185.246.210.55:2200/EX/BeinMoviesHD2-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1,beIN Movies HD 3
-http://185.246.210.55:2200/EX/BeinMoviesHD3-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1,beIN Movies HD 4
-http://185.246.210.55:2200/EX/BeinMoviesHD4-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1,beIN Series HD 1
-http://185.246.210.55:2200/EX/BeinSeriesHD1-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+http://stream.suboroiptv.tv/MBC2/playlist.m3u8
 #EXTINF:-1,TNT
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1503
 #EXTINF:-1,TNT SERIES HD
 http://45.182.127.235:8000/play/a0eh
-#EXTINF:-1,Xparumenu
-http://zigfreed.ru/2xD/2.m3u8
 #EXTINF:-1,MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,MN+
@@ -841,20 +837,14 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1,MY Comedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1,FOX Movies (Opt-1)
-http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28669?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs=
-#EXTINF:-1,Fox Movies (Opt-2)
-http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28774?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
-#EXTINF:-1,FX
-http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28671?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs=
+#EXTINF:-1,FOX Movies
+http://thaicable.myftp.org:8000/live/infosat/2020/11.ts
 #EXTINF:-1,Fox HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1,Paramount HD
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
-#EXTINF:-1,Fox
-http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28672?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs=
-#EXTINF:-1,Fox Action Movies
-http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28775?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
+##EXTINF:-1,Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
 #EXTINF:-1,Fox Crime (Opt-1)
 http://194.54.183.122:8000/play/a01m
 #EXTINF:-1,Fox Crime (Opt-2)
@@ -1063,8 +1053,6 @@ http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
-http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,Wion TV
 http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
 #EXTINF:-1,Love Nature
@@ -1113,6 +1101,8 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Discovery (Opt-2)
 http://84.22.33.210:8000/DiscoveryCH/index.m3u8
+#EXTINF:-1,Discovery (Opt-3)
+http://45.249.9.21:8000/play/a06s/index.m3u8
 #EXTINF:-1,Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Discovery Channel
@@ -1131,8 +1121,10 @@ http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34472?play_token=vRkKehJUOG&tok
 http://198.98.55.16/crtv.php?id=102
 #EXTINF:-1,TLC HD (Eng)
 https://streamitv.multitvsolution.in/idvo/tlchd.m3u8
-#EXTINF:-1,Travel XP
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+#EXTINF:-1,Travel Channel
+http://45.249.9.21:8000/play/a06h/index.m3u8
+#EXTINF:-1,Motor Trend
+http://45.249.9.21:8000/play/a06f/index.m3u8
 #EXTINF:-1,Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1,CGTV Documentary
