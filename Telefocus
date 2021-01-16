@@ -497,8 +497,6 @@ http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25958
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25957
 #EXTINF:-1,beIN Sports HD 10
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25956
-#EXTINF:-1,beIN Sports HD 11
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25955
 #EXTINF:-1,S Action
 http://103.252.220.46:25461/live/41246671289321/41604451921808/78997.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA== 
 #EXTINF:-1,S Variety 1
@@ -729,10 +727,14 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
 #EXTINF:-1,Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1,Star Movies HD (Opt-1)
-http://209.126.120.153:80/hls/starmovies.m3u8
-#EXTINF:-1,Star Movies HD (Opt-2)
+#EXTINF:-1,Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist.m3u8
+#EXTINF:-1,Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1,Star Movies SD (Opt-1)
+http://209.126.120.153:80/hls/starmovies.m3u8
+#EXTINF:-1,Star Movies SD (Opt-2)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 #EXTINF:-1,Star World SD
 http://125.209.89.83:5555/play/a018
 #EXTINF:-1,Star TV 1000
@@ -748,9 +750,7 @@ http://45.249.9.21:8000/play/a06w/index.m3u8
 #EXTINF:-1,V Film Premiere
 http://45.249.9.21:8000/play/a06x/index.m3u8
 #EXTINF:-1,SCI HD
-http://45.249.9.21:8000/play/a06y/index.m3u8
-#EXTINF:-1,MY Cinema HD
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4865
+http://45.249.9.21:8000/play/a06z/index.m3u8
 #EXTINF:-1,HBO (Opt-1)
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,HBO (Opt-2)
@@ -807,6 +807,8 @@ http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1,AXN (Opt-02)
 http://136.243.177.164/AXN/index.m3u8
+#EXTINF:-1,AXN (Opt-03)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.m3u8
 #EXTINF:-1,amc
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
 #EXTINF:-1,HITS
@@ -877,10 +879,14 @@ http://otv.ftpbd.net/streams/124/index.m3u8
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema HD (Opt-02)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=
+#EXTINF:-1,Zee Cinema SD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.m3u8
 #EXTINF:-1,Zee Cinema USA
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:-1,B4U Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.m3u8
+#EXTINF:-1,B4u+
+http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 #EXTINF:-1,BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,BOLLYWOOD CLASSIC
@@ -889,8 +895,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:-1,BFLIX Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1,POP LIFE
-https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
 #EXTINF:-1,Zee Bioskop 
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1,Zee Anmol
@@ -903,6 +907,8 @@ http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zing
 http://z5amshls.akamaized.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:-1,Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasimovies/chunklist.m3u8
 #EXTINF:-1,Maha Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1,Manoranjan Movies
@@ -919,12 +925,20 @@ http://208.115.215.42/Colors_TV_HD/index.m3u8
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_COLORS_HD-in/track-v1a1/index.m3u8?token=
 #EXTINF:-1,Sony TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.m3u8
-#EXTINF:-1,SONY SET MAX HD
+#EXTINF:-1,SONY SET MAX HD (Opt-1)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_SONY_MAX_HD-in/track-v1a1/index.m3u8?token=
-#EXTINF:-1,SONY SET MAX SD
+#EXTINF:-1,SONY SET MAX HD (Opt-2)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
+#EXTINF:-1,SONY SET MAX SD (Opt-1)
 http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1,Sony Max2
+#EXTINF:-1,SONY SET MAX SD (Opt-2)
+http://45.127.244.7:8080/hls/channel6.m3u8
+#EXTINF:-1,SONY SET MAX SD (Opt-3)
+http://208.115.215.42:80/Sony_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Max2 (Opt-1)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_SONY_MAX_2-in/track-v1a1/index.m3u8?token=
+#EXTINF:-1,Sony Max2 (Opt-2)
+http://208.115.215.42:80/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SAB HD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_SONY_SAB_HD-in/track-v1a1/index.m3u8?token=
 #EXTINF:-1,Star Plus HD
@@ -933,8 +947,10 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HI
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus UK
 http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold HD
+#EXTINF:-1,Star Gold HD (Opt-1)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
+#EXTINF:-1,Star Gold HD (Opt-2)
+http://208.115.215.42:80/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Bharat HD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
 #EXTINF:-1,Dabang TV
@@ -983,10 +999,8 @@ http://193.33.39.108:8107/30704
 http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28694?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1,Sony BBC Earth
 http://iptvtree.net:8080/13354/27c12697/192995
-#EXTINF:-1,FOX Life HD
-http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
-#EXTINF:-1,FOX Life (eng)
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28677?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
+#EXTINF:-1,Fox Life HD
+http://136.243.177.164:80/FOXLIFE/playlist.m3u8
 #EXTINF:-1,History HD
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1,History TV
@@ -1065,8 +1079,6 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifi
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1,TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1,Persona HD
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28651?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1,Fashion TV (Opt-1)
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 #EXTINF:-1,Fashion TV (Opt-2)
@@ -1111,6 +1123,8 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,9x Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
+#EXTINF:-1,ENTER 10
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.m3u8
 #EXTINF:-1,Alegeria TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1,B4U Music
