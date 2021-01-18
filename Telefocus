@@ -125,8 +125,6 @@ http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-4)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-4)
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-1)
 http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-2)
@@ -457,14 +455,10 @@ ttp://otv.ftpbd.net/streams/114/index.m3u8
 rtmp://58.200.131.2:1935/livetv/starsports
 #EXTINF:-1,Sky Sports Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/chunks.m3u8
-#EXTINF:-1,Sky Sports Cricket (Opt-1)
+#EXTINF:-1,Sky Sports Cricket
 http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/chunks.m3u8
-#EXTINF:-1,Sky Sports Cricket (Opt-2)
-http://45.249.9.21:8000/play/a06g/index.m3u8
-#EXTINF:-1,Sky Sports F1 (Opt-1)
+#EXTINF:-1,Sky Sports F1
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports F1 (Opt-2)
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Cricket Network
 https://cnmintalive-a.akamaihd.net/8ed65e66aba64726a7c4df7cda155127/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8?hdnea=st=1610782016~exp=9007200865523007~acl=/8ed65e66aba64726a7c4df7cda155127/*/profile_0/chunklist_dvr.m3u8*~hmac=dd28b9666769cf2feaf2dc921beff6ad9b0f26aa63386e9f7a9a15131dcb483d
 #EXTINF:-1,Ten Cricket
@@ -1280,8 +1274,6 @@ https://mj1b2xsspj.singularcdn.net.br/trace/toca/6/prog_index.m3u8
 https://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8
 #EXTINF:-1,Trace Brazuca
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
-#EXTINF:-1,EBC Music
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1,[V] HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,NRG 91
