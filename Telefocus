@@ -438,13 +438,17 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SP
 #EXTINF:-1,Star Sports 1 Hindi
 http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/6825.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
+http://10.16.100.207:8082/sports/starsports2.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1,Star Sports 2 (Opt-3)
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
 http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1,Star Sports Select 1 (Opt-3)
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
