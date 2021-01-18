@@ -320,41 +320,61 @@ https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2018/11/Naxatra-News.png" group-title="Odia",Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,Animax (Opt-1)
-https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
-#EXTINF:-1,Animax (Opt-2)
 http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1,Boomerang
+#EXTINF:-1,Animax (Opt-2)
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Hungama Kids
+http://182.176.93.225:8000/play/a01l
+#EXTINF:-1,POGO
+http://182.176.93.225:8000/play/a01p
+#EXTINF:-1,Boomerang (Opt-1)
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Boomerang (Opt-2)
+http://27.254.130.61/live01/ch18.m3u8?p=st
 #EXTINF:-1,Disvovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
 #EXTINF:-1,Disney Channel
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1,Disney XD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8 #EXTINF:-1,Sony Yay http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
+#EXTINF:-1,Disney Junior
+http://182.176.93.225:8000/play/a01n
 #EXTINF:-1,Cbeebies BBC
 http://51.52.156.22:8888/http/003
-#EXTINF:-1,Cartoon Network (Opt-1)
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1,Cartoon Network (Opt-2)
-http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
+#EXTINF:-1,Cartoon Network (India)
+https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
+#EXTINF:-1,CN Vietnam
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1,CN Arabic
-http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/5.m3u8
+http://79.137.41.99/Cartoonnetwork/index.m3u8 
+#EXTINF:-1,CN
+http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
+#EXTINF:-1,DA VINCI KIDS
+http://d-e-02.cdn.rdsnet.ro/DVR/davincilearningsdb.stream/playlit.m3u8
+#EXTINF:-1,MAS TV
+https://fra-haproxy.angelthump.com/hls/mastv46/index.m3u8?stream=mastv468
+#EXTINF:-1,MANGAS
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Mangas_live/04.m3u8
+#EXTINF:-1,Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,Wow Kids Tamil
+https://yupppreview.akamaized.net/preview/wowkidztam/2500.m3u8
+#EXTINF:-1,Minika Cocuk
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/253
+#EXTINF:-1,NICK Jr. (Opt-1)
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,NICK Jr. (Opt-2)
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,3ABN Kids TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1,Nick Hindi
-http://witv.live:8880/live/33376/10608/2182.ts
-#EXTINF:-1,NICK Jr (Opt-1)
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1,Nick Jr (Opt-2)
-http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28747?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
-#EXTINF:-1,Nick Bangla
-https://ccntv.anytv.live/nick/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28748?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
-#EXTINF:-1,Kids TV
-http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28760?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
 #EXTINF:-1,B Kids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1,Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Baby TV
+http://rec2.distv.net:8080/live/arnaldo/123456/117.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,TRT Cocuk
@@ -363,12 +383,20 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1,PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1,Ketnet Junior
-http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,CARTOON RETRO
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1,Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,Kids TV
+http://de2.martiatv.com:8080/hls/kidstvlive.m3u8
+#EXTINF:-1,TG Junior
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
+#EXTINF:-1,Cartoons
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755698.ts?checkedby:hlscat.com
+#EXTINF:-1,Jeko
+http://nn1.joj.sk/hls/rik-540.m3u8
+#EXTINF:-1,tvo kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-1)
 http://209.126.120.153:80/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-2)
@@ -433,10 +461,12 @@ http://45.249.9.21:8000/play/a06g/index.m3u8
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports F1 (Opt-2)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1,Sky Net Sports HD
-http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+#EXTINF:-1,Cricket Network
+https://cnmintalive-a.akamaihd.net/8ed65e66aba64726a7c4df7cda155127/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8?hdnea=st=1610782016~exp=9007200865523007~acl=/8ed65e66aba64726a7c4df7cda155127/*/profile_0/chunklist_dvr.m3u8*~hmac=dd28b9666769cf2feaf2dc921beff6ad9b0f26aa63386e9f7a9a15131dcb483d
 #EXTINF:-1,Ten Cricket
 http://45.127.244.7:8080/hls/channel9.m3u8
+#EXTINF:-1,Footbol RU
+http://46.174.189.50:8082/footbolru/index.m3u8
 #EXTINF:-1,NBC SN
 http://192.166.246.227:8081/C1/C1/chunks.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
@@ -793,6 +823,10 @@ http://89.106.234.4/amedia_hit_hd_34_35.m3u8
 http://136.243.177.164/CINEMAX/playlist.m3u8
 #EXTINF:-1,Cinemax 2 HD
 http://136.243.177.164/CINEMAX2/playlist.m3u8
+#EXTINF:-1,Cinema 1 HD
+http://185.132.177.110:8080/COSMOTECinema1HD/video.m3u8?token=test
+#EXTINF:-1,Cinema 2 HD
+http://185.132.177.110:8080/COSMOTECinema2HD/video.m3u8?token=test
 #EXTINF:-1,Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1,WB TV
@@ -1003,10 +1037,13 @@ https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 #EXTINF:-1,TRT Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Avaz
+http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT 1
 #EXTINF:-1,Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,Wion TV
-http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/wion/index.m3u8
 #EXTINF:-1,Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -1071,6 +1108,8 @@ http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34472?play_token=vRkKehJUOG&tok
 http://198.98.55.16/crtv.php?id=102
 #EXTINF:-1,TLC HD (Eng)
 https://streamitv.multitvsolution.in/idvo/tlchd.m3u8
+#EXTINF:-1,TLC SD (eng)
+http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/16225
 #EXTINF:-1,Travel Channel
 http://45.249.9.21:8000/play/a06h/index.m3u8
 #EXTINF:-1,Motor Trend
@@ -1141,7 +1180,7 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,9x Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
-#EXTINF:-1,ENTER 10
+#EXTINF:-1,Enterr 10
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.m3u8
 #EXTINF:-1,Alegeria TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
@@ -1251,6 +1290,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1,Music HD
 http://tv-swirtvteam.info/oq/co.m3u8?sid=B9EFC54E&id=10259&q=tvhd
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
 #EXTINF:-1,Apeha
 http://78.129.228.178/iptv/RRAQT4US9KGKE9/528/index.m3u8
 #EXTINF:-1,Kronehit TV
@@ -1259,5 +1300,3 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1,Zeta TV HD
-http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
