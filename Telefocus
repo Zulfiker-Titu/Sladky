@@ -169,6 +169,8 @@ http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
 http://versewsa.pc.cdn.bitgravity.com/hls/bhumitv.m3u8
 #EXTINF:-1,Bangla Time
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:Banglatime_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
+#EXTINF:-1,TV24 Bangla
+http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 #EXTINF:-1,Colors BD TV
 http://master.beeiptv.com:8081/CB/colorsbdtv/playlist.m3u8
 #EXTINF:-1,Alpona TV
