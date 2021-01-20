@@ -300,7 +300,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,MC TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/musicchoice.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
-http://163.172.29.246:8081/globalbd/sangeetbangla/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/ 70.ts
 #EXTINF:-1,Jonack
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1,DD Assam
@@ -325,6 +325,8 @@ https://streamitv.multitvsolution.in/idvo/ddodia.m3u8
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2018/11/Naxatra-News.png" group-title="Odia",Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+#EXTINF:-1,Nandighosha TV
+https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1,Animax (Opt-1)
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1,Animax (Opt-2)
@@ -467,10 +469,12 @@ http://160.119.77.116:8081/iptv/uk-skysports-football.stream/chunks.m3u8
 http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports F1
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
-#EXTINF:-1,Cricket Network
-https://cnmintalive-a.akamaihd.net/8ed65e66aba64726a7c4df7cda155127/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8?hdnea=st=1610782016~exp=9007200865523007~acl=/8ed65e66aba64726a7c4df7cda155127/*/profile_0/chunklist_dvr.m3u8*~hmac=dd28b9666769cf2feaf2dc921beff6ad9b0f26aa63386e9f7a9a15131dcb483d
 #EXTINF:-1,MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
+#EXTINF:-1,Astro Supersports
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/78761.m3u8
+#EXTINF:-1,Motorvision
+http://27.254.142.14/motorvision.m3u8
 #EXTINF:-1,Ten Cricket
 http://45.127.244.7:8080/hls/channel9.m3u8
 #EXTINF:-1,Footbol RU
