@@ -54,7 +54,7 @@ http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-2)
 http://209.126.120.153:80/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-3)
-http://45.127.244.7:8080/hls/channel2.m3u8
+http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="News",Jamuna TV
@@ -533,8 +533,6 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,beIN Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1,beIN Sports Harber
-http://rahatbirakbizi.cf/hls/93.m3u8
 #EXTINF:-1,beIN Sports HD 1
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25965
 #EXTINF:-1,beIN Sports HD 2
@@ -555,6 +553,16 @@ http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25958
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25957
 #EXTINF:-1,beIN Sports HD 10
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25956
+#EXTINF:-1,beIN Sports HD 11
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24977.m3u8
+#EXTINF:-1,beIN Sports HD 12
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/39881.m3u8
+#EXTINF:-1,beIN Sports HD 13
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
+#EXTINF:-1,beIN Sports HD 14
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21201.m3u8
+#EXTINF:-1,beIN Sports HD 15
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21200.m3u8
 #EXTINF:-1,S Action
 http://103.252.220.46:25461/live/41246671289321/41604451921808/78997.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA== 
 #EXTINF:-1,S Variety 1
