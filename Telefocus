@@ -81,14 +81,14 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="Documentary",Fox Life
 https://rhridoy136.shortcm.li/foxlife.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery Bangla
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery Channel
+http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD
-http://otv.ftpbd.net/streams/110/index.m3u8
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD (Hindi)
-https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD
@@ -556,15 +556,9 @@ http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25957
 #EXTINF:-1,beIN Sports HD 10
 http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25956
 #EXTINF:-1,beIN Sports HD 11
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24977.m3u8
+http://93.190.139.35:8278/streams/d/bee11hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 12
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/39881.m3u8
-#EXTINF:-1,beIN Sports HD 13
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
-#EXTINF:-1,beIN Sports HD 14
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21201.m3u8
-#EXTINF:-1,beIN Sports HD 15
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21200.m3u8
+http://93.190.139.35:8278/streams/d/bee12hd/playlist.m3u8
 #EXTINF:-1,S Action
 http://103.252.220.46:25461/live/41246671289321/41604451921808/78997.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA== 
 #EXTINF:-1,S Variety 1
@@ -733,7 +727,7 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?checkedby:hlscat.co
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,RT News
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
-#EXTINF:-1,CBSN News
+#EXTINF:-1,CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1,ARY News
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -819,9 +813,7 @@ http://45.249.9.21:8000/play/a06w/index.m3u8
 http://45.249.9.21:8000/play/a06x/index.m3u8
 #EXTINF:-1,SCI HD
 http://45.249.9.21:8000/play/a06z/index.m3u8
-#EXTINF:-1,HBO (Opt-1)
-http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
-#EXTINF:-1,HBO (Opt-2)
+#EXTINF:-1,HBO HD
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO Signature (Opt-1)
 http://me.zichannels.my.id/ch/sighd.m3u8
@@ -880,11 +872,15 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1,AXN (Opt-02)
 http://136.243.177.164/AXN/index.m3u8
 #EXTINF:-1,AXN (Opt-03)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1,amc
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
 #EXTINF:-1,HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1,Lotus Macau
+http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
+#EXTINF:-1,Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1,Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1,ROMEDY NOW
@@ -895,18 +891,18 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1,MY Comedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1,FOX Movies (Thai)
-http://thaicable.myftp.org:8000/live/infosat/2020/11.ts
 #EXTINF:-1,Fox Movies (Ned)
 http://flusonic-1.platinum-tv.com/fox_movies/index.m3u8?token=test
+#EXTINF:-1,Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
+#EXTINF:-1,Fox Crime
+http://136.243.177.164/FOXCRIME/playlist.m3u8
+#EXTINF:-1,Fox Action Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 #EXTINF:-1,Fox HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1,Paramount HD
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
-##EXTINF:-1,Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
-#EXTINF:-1,Fox Crime
-http://136.243.177.164/FOXCRIME/playlist.m3u8
 #EXTINF:-1,KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,iFILM English
@@ -960,6 +956,8 @@ http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8
 #EXTINF:-1,B4U Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.m3u8
 #EXTINF:-1,B4u+
+http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
+#EXTINF:-1,B4u Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 #EXTINF:-1,BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
@@ -1015,6 +1013,8 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HI
 http://208.115.215.42:80/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SAB HD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_SONY_SAB_HD-in/track-v1a1/index.m3u8?token=
+#EXTINF:-1,Sony SAB SD
+https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus HD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
 #EXTINF:-1,Star Plus India
@@ -1082,6 +1082,8 @@ http://136.243.177.164:80/FOXLIFE/playlist.m3u8
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1,History TV
 https://ch.iptvmate.net/5e9350258beb894140335ff6.m3u8
+#EXTINF:-1,History
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
 #EXTINF:-1,VoA TV
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voa.stream/live-orgin/voa.stream/chunks.m3u8
 #EXTINF:-1,H2 (Opt-1)
@@ -1140,6 +1142,8 @@ http://45.249.9.21:8000/play/a06f/index.m3u8
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1,CGTV Documentary
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1,CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1,Red Bull TV
