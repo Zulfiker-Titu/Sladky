@@ -563,6 +563,8 @@ http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25956
 http://93.190.139.35:8278/streams/d/bee11hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 12
 http://93.190.139.35:8278/streams/d/bee12hd/playlist.m3u8
+#EXTINF:-1,beIN Sports HD 13
+http://4ktiger.com:25461/12345678/12345678/22078
 #EXTINF:-1,S Action
 http://103.252.220.46:25461/live/41246671289321/41604451921808/78997.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA== 
 #EXTINF:-1,S Variety 1
@@ -817,14 +819,16 @@ http://45.249.9.21:8000/play/a06w/index.m3u8
 http://45.249.9.21:8000/play/a06x/index.m3u8
 #EXTINF:-1,SCI HD
 http://45.249.9.21:8000/play/a06z/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1,HBO (Opt-1)
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1,HBO Signature (Opt-1)
-http://me.zichannels.my.id/ch/sighd.m3u8
-#EXTINF:-1,HBO Signature (Opt-2)
-http://187.120.222.12:8000/play/a00l/index.m3u8
-#EXTINF:-1,HBO Hits
+#EXTINF:-1,HBO (Opt-2)
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1,HBO Signature
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1,HBO Hits (Opt-1)
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1,HBO Hits (Opt-2)
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #EXTINF:-1,HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:-1,HBO
