@@ -532,31 +532,31 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,beIN Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 1
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25965
+http://93.190.139.35:8278/streams/d/bee1hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 2
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25964
+http://93.190.139.35:8278/streams/d/bee2hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 3
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25963
+http://93.190.139.35:8278/streams/d/bee3hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 4
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25962
+http://93.190.139.35:8278/streams/d/bee4hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 5
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25961
+http://93.190.139.35:8278/streams/d/bee5hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 6
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25960
+http://93.190.139.35:8278/streams/d/bee6hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 7
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25959
+http://93.190.139.35:8278/streams/d/bee7hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 8
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25958
+http://93.190.139.35:8278/streams/d/bee8hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 9
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25957
+http://93.190.139.35:8278/streams/d/bee9hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 10
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/25956
+http://93.190.139.35:8278/streams/d/bee10hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 11
 http://93.190.139.35:8278/streams/d/bee11hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 12
 http://93.190.139.35:8278/streams/d/bee12hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 13
-http://4ktiger.com:25461/12345678/12345678/22078
+http://93.190.139.35:8278/streams/d/bee13hd/playlist.m3u8
 #EXTINF:-1,S Action
 http://103.252.220.46:25461/live/41246671289321/41604451921808/78997.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA== 
 #EXTINF:-1,S Variety 1
@@ -581,18 +581,16 @@ http://103.252.220.46:25461/live/41246671289321/41604451921808/78999.m3u8?token=
 http://103.252.220.46:25461/live/41246671289321/41604451921808/79001.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
 #EXTINF:-1,S Motorsports
 http://103.252.220.46:25461/live/41246671289321/41604451921808/79002.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
-#EXTINF:-1,SK1
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/7735
-#EXTINF:-1,SK2
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/7734
-#EXTINF:-1,SK3
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/7733
-#EXTINF:-1,SK4
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/23610
-#EXTINF:-1,SK5
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/23609
-#EXTINF:-1,SK6
-http://basic-iptvesun.com:8080/C2yPaVWa7K/QDTnsaSUJ1/23608
+#EXTINF:-1,Nova Sports 1 HD
+http://185.132.177.110:8080/NOVASports1/video.m3u8?token=test
+#EXTINF:-1,Nova Sports 2 HD
+http://185.132.177.110:8080/NOVASports2/video.m3u8?token=test
+#EXTINF:-1,Nova Sports 3 HD
+http://185.132.177.110:8080/NOVASports3/video.m3u8?token=test
+#EXTINF:-1,Nova Sports 4 HD
+http://185.132.177.110:8080/NOVASports4/video.m3u8?token=test
+#EXTINF:-1,Nova Sports 5 HD
+http://185.132.177.110:8080/NOVASports5/video.m3u8?token=test
 #EXTINF:-1,MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 #EXTINF:-1,TVRI SPORT HD
