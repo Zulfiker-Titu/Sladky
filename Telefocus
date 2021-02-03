@@ -72,7 +72,7 @@ http://209.126.120.153:80/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment",NTV UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Entertainment",Nagorik TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="News",News 24
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Entertainment",RTV
@@ -305,8 +305,6 @@ http://10.16.100.201/hindi/dhoom_music_1stop_in.m3u8
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1,DD Assam
 https://streamitv.multitvsolution.in/idvo/ddnortheast.m3u8
-#EXTINF:-1,Prag News
-https://usher.ttvnw.net:443/api/channel/hls/pragnews_live.m3u8?allow_source=true&fast_bread=true&p=6214173&play_session_id=6c4a4124fbc7502fe7cc7e9b34db278e&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=dcb005f69c19b3dd7bddb31a835f0507e4791ab5&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22pragnews_live%22%2C%22channel_id%22%3A523350250%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22Kg13UECdLmkQ1BGZNO7IDkK9J6vOtVON%22%2C%22expires%22%3A1612291515%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22203.76.222.86%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.2.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talk
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dy365.in/images/dy365.jpg" group-title="Assamese",dy365
@@ -430,7 +428,7 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SP
 #EXTINF:-1,Sony SIX (Opt-1)
 http://209.126.120.153:80/hls/sonysix.m3u8
 #EXTINF:-1,Sony SIX (Opt-2)
-http://edge-sgp.bd-cast.net/master/cdn.banglatv.xyz:8080/beeiptv-stb/sonysix/chunks.m3u8
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SIX (Opt-3)
 http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-4)
@@ -438,7 +436,7 @@ http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1,Sony SIX (Opt-5)
 http://45.127.244.7:8080/hls/channel15.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-01)
-http://edge-sgp.bd-cast.net/master/cdn.banglatv.xyz:8080/beeiptv-stb/starsports1/chunks.m3u8
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-02)
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-03)
@@ -513,6 +511,8 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,PTV Sports (Opt-2)
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:-1,PTV Sports (Opt-3)
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Geo Super
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Willow HD
@@ -803,18 +803,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 http://125.209.89.83:5555/play/a018
 #EXTINF:-1,Star TV 1000
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=219&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
-#EXTINF:-1,m1 Movies
-http://45.249.9.21:8000/play/a06i/index.m3u8
-#EXTINF:-1,m2 Movies
-http://45.249.9.21:8000/play/a06j/index.m3u8
-#EXTINF:-1,SYFY
-http://45.249.9.21:8000/play/a06v/index.m3u8
-#EXTINF:-1,V Film Action
-http://45.249.9.21:8000/play/a06w/index.m3u8
-#EXTINF:-1,V Film Premiere
-http://45.249.9.21:8000/play/a06x/index.m3u8
-#EXTINF:-1,SCI HD
-http://45.249.9.21:8000/play/a06z/index.m3u8
 #EXTINF:-1,HBO (Opt-1)
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO (Opt-2)
@@ -1039,6 +1027,8 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HI
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
 http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
+#EXTINF:-1,Zee TV SD
+http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE MUNDO
 http://cv.khushitv.xyz/channels.php?c=mundohd&e=.m3u8
 #EXTINF:-1,Big Magic
