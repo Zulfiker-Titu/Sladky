@@ -132,7 +132,7 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/zee_bangla_cinema_hover.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-3)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
 #EXTINF:-1,Sun Bangla
-http://rv.imax.re:80/307200101616/307200101616/83740
+http://rv.imax.re:80/307200102131/307200102131/83740
 #EXTINF:-1,Khushboo Bangla
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-1,Enterr 10 Bangla
