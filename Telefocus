@@ -149,10 +149,8 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1 tvg-logo="https://bengali.cdn.zeenews.com/bengali/desktop/logo/Zee-24Ghanta_Mob_career.png" group-title="News",Zee 24 Ghanta
 http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
-#EXTINF:-1,Nongor TV
-https://tempcir.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nongortv.stream/chunks.m3u8
-#EXTINF:-1,Utshorga TV
-https://tempx.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/utshoratv.stream/chunks.m3u8
+#EXTINF:-1,Orange Bangla TV
+https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/orangebanglatv.stream/live-orgin/orangebanglatv.stream/chunks.m3u8
 #EXTINF:-1,Bhumi TV
 http://versewsa.pc.cdn.bitgravity.com/hls/bhumitv.m3u8
 #EXTINF:-1,Bangla Time
@@ -161,6 +159,10 @@ http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:Banglatime_,b256,b512,
 http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 #EXTINF:-1,Colors BD TV
 http://master.beeiptv.com:8081/CB/colorsbdtv/playlist.m3u8
+#EXTINF:-1,Nongor TV
+https://tempcir.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nongortv.stream/chunks.m3u8
+#EXTINF:-1,Utshorga TV
+https://tempx.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/utshoratv.stream/chunks.m3u8
 #EXTINF:-1,Dhaka TV
 http://103.108.140.164:1009/dhakatv/livestream/chunklist.m3u8
 #EXTINF:-1,Falguni TV
