@@ -1200,6 +1200,8 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1,9x Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,8xM
+https://cdn6.mjunoon.tv:8087/web/8XM-131/live/131M/chunks.m3u8?nimblesessionid=17236661&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjEgNDoxODo1NyBQTSZoYXNoX3ZhbHVlPXphZ01aSGlvMW4vVnhaU3pQd2VqNmc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 #EXTINF:-1,9x Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
 #EXTINF:-1,Enterr 10
