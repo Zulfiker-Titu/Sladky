@@ -135,6 +135,8 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
 #EXTINF:-1,Sun Bangla
 http://rv.imax.re:80/307200102131/307200102131/83740
+#EXTINF:-1,Orange Bangla TV
+https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/orangebanglatv.stream/live-orgin/orangebanglatv.stream/chunks.m3u8
 #EXTINF:-1,R Plus News
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 #EXTINF:-1,Kolkata TV
@@ -151,8 +153,6 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1 tvg-logo="https://bengali.cdn.zeenews.com/bengali/desktop/logo/Zee-24Ghanta_Mob_career.png" group-title="News",Zee 24 Ghanta
 http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
-#EXTINF:-1,Orange Bangla TV
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/orangebanglatv.stream/live-orgin/orangebanglatv.stream/chunks.m3u8
 #EXTINF:-1,Bhumi TV
 http://versewsa.pc.cdn.bitgravity.com/hls/bhumitv.m3u8
 #EXTINF:-1,Bangla Time
