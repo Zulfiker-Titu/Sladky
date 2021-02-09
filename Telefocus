@@ -104,7 +104,7 @@ http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
 http://10.16.100.200:8082/hls/starjalsha_bd_hd_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
+http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-3)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD
