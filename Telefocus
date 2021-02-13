@@ -459,18 +459,36 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SP
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
 ttp://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1,Star Sports
-rtmp://58.200.131.2:1935/livetv/starsports
-#EXTINF:-1,Sky Sports Football
+#EXTINF:-1,Sky Sports Football HD
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/chunks.m3u8
-#EXTINF:-1,Sky Sports Cricket
+#EXTINF:-1,Sky Sports Cricket HD
 http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/chunks.m3u8
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1,Sky Sports F1 HD
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Action HD
+http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Arena HD
+http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports EPL HD
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Event HD
+http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Golf HD
+http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Mix HD
+http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports HD
+http://160.119.77.116:8081/iptv/uk-espn.stream/playlist.m3u8
 #EXTINF:-1,MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
-#EXTINF:-1,Astro Supersports
-http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/78761.m3u8
+#EXTINF:-1,Astro SuperSport 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,Astro SuperSport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,Astro SuperSport 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,Astro SuperSport 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1,Motorvision
 http://27.254.142.14/motorvision.m3u8
 #EXTINF:-1,Ten Cricket
@@ -540,21 +558,21 @@ http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/16
 #EXTINF:-1,beIN Sports HD 2
 http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/17
 #EXTINF:-1,beIN Sports HD 3
-
+http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/22
 #EXTINF:-1,beIN Sports HD 4
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/96.m3u8
+http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/25
 #EXTINF:-1,beIN Sports HD 5
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/97.m3u8
+http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/26
 #EXTINF:-1,beIN Sports HD 6
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/98.m3u8
+http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/28
 #EXTINF:-1,beIN Sports HD 7
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/99.m3u8
+http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/30
 #EXTINF:-1,beIN Sports HD 8
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/100.m3u8
+http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/32
 #EXTINF:-1,beIN Sports HD 9
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/101.m3u8
+http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/34
 #EXTINF:-1,beIN Sports HD 10
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/102.m3u8
+http://jo.sarhantv.xyz:8880/star7arab/mahdi2021/36
 #EXTINF:-1,beIN Sports HD 11
 http://93.190.139.35:8278/streams/d/bee11hd/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 12
