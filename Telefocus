@@ -172,7 +172,7 @@ https://tempx.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Dhaka TV
 http://103.108.140.164:1009/dhakatv/livestream/chunklist.m3u8
 #EXTINF:-1,Falguni TV
-https://falgunitv-hls.telelivebd.com:443/falgunitv/falgunitv.m3u8
+https://atv-hls.telelivebd.com:443/atv/atv.m3u8
 #EXTINF:-1,Alpona TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
 #EXTINF:-1,71 Bangla TV
@@ -623,8 +623,6 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1,Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
-#EXTINF:-1,Nova Sports 1 HD
-http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/31222
 #EXTINF:-1,FC Bayern TV
 http://p.dtv.sx:80/live/visiontv/775142/20767.ts
 #EXTINF:-1,True Premier Football HD 1
@@ -873,6 +871,8 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1,MBC 2 HD (Opt-2)
 http://stream.suboroiptv.tv/MBC2/playlist.m3u8
+#EXTINF:-1,MBC Bollywood HD
+http://digiiptv.ddns.net:25461/mst123/mst123/131
 #EXTINF:-1,TNT
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1503
 #EXTINF:-1,TNT SERIES HD
