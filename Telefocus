@@ -91,7 +91,7 @@ http://103.80.70.59/hls/stream13.m3u8
 http://84.22.33.210:8000/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist.m3u8
-#EXTINF:-1,Travel xp HD Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",Travel XP HD Bangla
 http://103.80.70.59/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
