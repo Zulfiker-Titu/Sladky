@@ -139,20 +139,18 @@ http://digiiptv.ddns.net:25461/mst123/mst123/192
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/zee_bangla_cinema_hover.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-2)
 http://pn.tvott.info:80/477823265351104/477823265351104/83792
-#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/zee_bangla_cinema_hover.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-3)
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
 #EXTINF:-1,Enterr 10 Bangla
 http://103.80.70.59/hls/stream26.m3u8
+#EXTINF:-1,R Plus Gold
+http://itvorigin.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1,Khushboo Bangla
-http://pn.tvott.info:80/477823265351104/477823265351104/83768
+https://itvorigin.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1,Bongo Movies
 http://pn.tvott.info:80/477823265351104/477823265351104/83795
 #EXTINF:-1,DD Bangla
 http://pn.tvott.info:80/477823265351104/477823265351104/83827
 #EXTINF:-1,R Plus News
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
-#EXTINF:-1,Kolkata TV
-http://209.126.120.153:80/hls/kolkatatv.m3u8
 #EXTINF:-1,Express News
 http://streamcp.logosys.cloud:1935/expressnews/expressnews/chunklist_w877989687.m3u8
 #EXTINF:-1,Calcutta News
