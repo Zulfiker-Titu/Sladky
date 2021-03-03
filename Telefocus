@@ -135,9 +135,11 @@ http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 http://209.126.120.153:80/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-4)
 http://digiiptv.ddns.net:25461/mst123/mst123/192
-#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/zee_bangla_cinema_hover.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-1)
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Zee_Bangla_Cinema#/media/File%3AZee_Bangla_Cinema_Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-1)
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/zee_bangla_cinema_hover.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-2)
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Zee_Bangla_Cinema#/media/File%3AZee_Bangla_Cinema_Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-2)
+http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Zee_Bangla_Cinema#/media/File%3AZee_Bangla_Cinema_Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-3)
 http://pn.tvott.info:80/477823265351104/477823265351104/83792
 #EXTINF:-1,Enterr 10 Bangla
 http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
