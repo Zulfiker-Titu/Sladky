@@ -171,6 +171,16 @@ http://versewsa.pc.cdn.bitgravity.com/hls/bhumitv.m3u8
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:Banglatime_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
 #EXTINF:-1,TV24 Bangla
 http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat West Bengal
+https://etvbharatlive9.akamaized.net:443/hls/live/710675/westBengal/index_540p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat Assam
+https://etvbharatlive8.akamaized.net:443/hls/live/710674/assam/index_540p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat Delhi
+https://d276v0apjdxe7n.cloudfront.net:443/out/v1/94b12003316c4d6c9721a1508b0d1bac/ETVB_CF_DL_NewsTime_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat Odisha
+https://etvbharatlive.akamaized.net:443/hls/live/707618/odisha/index_540p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat English
+https://d2zmy2ox1qkejw.cloudfront.net:443/out/v1/770fb77abc5d4ef487fc8b8b38d60510/ETVB_CF_EN_NewsTime_1.m3u8
 #EXTINF:-1,Colors BD TV
 http://master.beeiptv.com:8081/CB/colorsbdtv/playlist.m3u8
 #EXTINF:-1,Nongor TV
