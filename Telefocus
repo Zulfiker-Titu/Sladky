@@ -122,11 +122,11 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/31.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies SD
 http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
-http://10.16.100.200:8082/hls/zeebangla_hd_720p.m3u8
+http://103.81.104.222:80/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
-http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
+http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-4)
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-1)
