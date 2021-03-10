@@ -212,7 +212,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Abssar TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abasartv.stream/chunks.m3u8
 #EXTINF:-1,Nobodip TV
-http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
+http://nobodip.mywire.org:8081/beeiptv/nobodip/chunks.m3u8
+#EXTINF:-1,Sristy Bangla Cinema
+http://master.beeiptv.com:8081/SRISHTY/srishtymovie/chunks.m3u8
 #EXTINF:-1,Natun Somoy
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
 #EXTINF:-1,Desh TV Bangla
