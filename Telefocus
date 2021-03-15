@@ -188,12 +188,12 @@ https://d2zmy2ox1qkejw.cloudfront.net:443/out/v1/770fb77abc5d4ef487fc8b8b38d6051
 #EXTINF:-1,Colors BD TV
 http://master.beeiptv.com:8081/CB/colorsbdtv/playlist.m3u8
 #EXTINF:-1,Nongor TV
-https://tempcir.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nongortv.stream/chunks.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nongortv.stream/chunks.m3u8
 #EXTINF:-1,Utshorga TV
 https://tempx.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/utshoratv.stream/chunks.m3u8
 #EXTINF:-1,Dhaka TV
 http://103.108.140.164:1009/dhakatv/livestream/chunklist.m3u8
-#EXTINF:-1,Falguni TV
+#EXTINF:-1,atv
 https://atv-hls.telelivebd.com:443/atv/atv.m3u8
 #EXTINF:-1,Alpona TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
